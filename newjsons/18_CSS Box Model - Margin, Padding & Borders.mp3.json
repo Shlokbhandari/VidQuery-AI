@@ -4,709 +4,604 @@
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
             "start": 0.0,
-            "end": 15.0,
-            "text": " Guys, in today's video we are going to talk about  Box Model in CSS.  In any element, there is a content which is itself  then margin, then border and then padding.  This concept of box model is where is the border, margin and padding."
+            "end": 15.1,
+            "text": " Guys, today in this video, we are going to talk about the box model of CSS  There is a content of any element that is there  And then there is margin, then there is border and padding  Where is this border, margin and padding?  This is the concept of the box model of CSS"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 15.0,
-            "end": 26.8,
-            "text": " In this video, we will understand all these things  and see how margin, border and padding are set in CSS.  So let's go to the computer screen.  I am really very excited.  Let's roll the intro."
+            "start": 15.1,
+            "end": 27.0,
+            "text": " In this video, we will understand all these things  And we will see that margin, border, padding, everything is set in CSS  So let's go to the computer screen  I am really very excited  Let's roll the intro"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
             "start": 30.0,
-            "end": 47.0,
-            "text": " So guys, I have come inside my computer screen  and the first thing I will do here is  I will show you this playlist and you guys  who do not click on the star here and do not access by clicking here  you will not do that either."
+            "end": 48.0,
+            "text": " So guys, I am in the computer screen now  And first of all, I will also show you the playlist of the game  And you guys don't even click on the star  And you don't even access it here  You guys don't even do it, just do it here"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 47.0,
+            "start": 48.0,
             "end": 57.0,
-            "text": " Do it, man, click on the star here and click here and access it.  And I have also put the source code for you guys.  Access it too.  I want you to enjoy it too.  Okay, so what do you guys do while enjoying it?"
+            "text": " Click on the star and access it here  And so, you also have to access it for the game  I also want to take care of it  So let's take care of it  And what will you do?"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
             "start": 57.0,
-            "end": 66.6,
-            "text": " The way I have made this folder here  and what I will do by right-clicking shift  I will make it open with code.  As you can see, and this VS code will open for me.  If your open with code option is not coming,"
+            "end": 65.0,
+            "text": " In this way, I have made the folder here  I will try and do what I will do now  I will open it with code  As you can see  And this will open in VS Code"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 66.6,
-            "end": 79.6,
-            "text": " which many people tell me that our open with code option is not coming.  So I have a suggestion for you guys.  What do you do?  To install VS code again, run its setup again  and see what options I have checked."
+            "start": 65.0,
+            "end": 76.0,
+            "text": " If you guys don't have an open with code option  Which many people say that we don't have an open with code option  So for you guys, go to me  What you will do is  Install VS Code twice"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 79.6,
-            "end": 89.6,
-            "text": " Now I will come in the video and here  by making a file in the name of index.html  I will keep a boilerplate template  and here I will write CSS box model.  After writing the CSS box model,"
+            "start": 76.0,
+            "end": 86.0,
+            "text": " I will run the setup twice  And see which options have been checked  Now I will come to the video  And here we will create a file called index.tml  And I will write here"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 89.6,
-            "end": 99.6,
-            "text": " I will make a style tag here.  With the help of which I will make you guys  Oops, how did I make a style tag?  Is it too fast?  Guys, no, it's not fast."
+            "start": 86.0,
+            "end": 98.0,
+            "text": " And I will write a CSS box model  And then I will make a style tag here  Which you guys have made  Oops, I have made a style tag  Is it too fast?"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 99.6,
-            "end": 109.6,
-            "text": " Okay, it will work.  So what will I do while making a style tag here?  I will put styles here and tell you  how does the box model work in CSS?  So first of all, let's understand the concept of box model in CSS."
+            "start": 98.0,
+            "end": 107.0,
+            "text": " No, it won't be fast  So let's make a style tag here  And I will put the styles here  And you guys will tell us  How it works in CSS"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 109.6,
-            "end": 121.6,
-            "text": " What is the concept of box model in CSS?  See, everything in CSS is box.  Whatever elements we have made with HTML,  they are all a box.  Whether we make a container, whether we make a div,"
+            "start": 107.0,
+            "end": 117.0,
+            "text": " First of all, let's take a concept in CSS  In CSS, what is the concept in CSS?  Look  In CSS, everything is a box  Which we have made from HTML"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 121.6,
-            "end": 133.6,
-            "text": " whether we make a span, they are all a box in our CSS.  And there are some things in that box  that I want to show you here.  So if you can see on the computer screen,  then you will see that here I have explained"
+            "start": 117.0,
+            "end": 127.0,
+            "text": " All of them are a box  Whether we are a container  Whether we are a div  Whether we are a span  All of them are a box in CSS"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 133.6,
-            "end": 143.6,
-            "text": " the concept of CSS box model.  CSS box model means that  padding is outside your content,  this border is outside it,  and margin is outside it."
+            "start": 127.0,
+            "end": 137.0,
+            "text": " And there are some things in the box  Which I want to show you  So in the commuter screen, you guys can see  That here I have explained the concept of CSS box model  The meaning of CSS box model"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 143.6,
-            "end": 154.6,
-            "text": " So you should know this concept.  One more thing I want to tell you is that  let's say I made a div.box here.  Okay, I made a box here, I will write I am a box.  And here I will show you its preview."
+            "start": 137.0,
+            "end": 148.0,
+            "text": " That your content is out of padding  It is out of padding  And it is out of margin  So this concept, you guys should come  One more thing that I want to tell you"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 154.6,
-            "end": 168.6,
-            "text": " So this box has been made by me by doing I am a box.  There is already some margin and padding outside this box,  which you will know when I put a background on it.  So what I will do simply, I will write dot box here,  which means that I selected the class selector box"
+            "start": 148.0,
+            "end": 158.0,
+            "text": " I have made a div box  I have made a box here  I will write an IMA box  And if you see the preview here  I have made a box"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 168.6,
-            "end": 180.6,
-            "text": " and I will say background color is let us say aqua.  So the background color of this box will be aqua.  We can do the format document by right-clicking  so that we will get good formatting.  Now you see here there is already some margin padding."
+            "start": 158.0,
+            "end": 168.0,
+            "text": " There is already a margin and padding  Which you guys will know  Until I add a background  I will simply write a box  Which is the class selector"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 180.6,
-            "end": 192.6,
-            "text": " What I will do is using a universal selector,  it happens that our browser  plays a little smart from its side.  It says that this developer does not have a brain,  so I will put my brain a little."
+            "start": 168.0,
+            "end": 178.0,
+            "text": " And I will say  I will add a background color  So this box has a background color  If we can do format document  Which we will get"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 192.6,
-            "end": 205.6,
-            "text": " And it adds margin padding by putting its brain,  adds many more styles.  And that's why we sometimes need to reset CSS.  So I wrote here M-0 by putting a star.  Sorry, I wrote M-0, so margin became 0."
+            "start": 178.0,
+            "end": 188.0,
+            "text": " You can see there is already a margin padding  What I will do  I will use a universal selector  It is a browser  It plays a little bit on its own"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 205.6,
-            "end": 215.6,
-            "text": " I wrote P-0, so padding became 0.  These were emmet shortcuts.  And what will happen by doing this,  it will stick to the top,  like spacing was coming here,"
+            "start": 188.0,
+            "end": 200.0,
+            "text": " It says that  If you don't have this developer  Then I will write a little bit on it  And it will add a little bit of margin  And that is why we need to reset the CSS"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 215.6,
-            "end": 225.6,
-            "text": " it is not coming now.  So I wrote I am a box, so let's do one thing,  let's write I am a box and here I write div.box  and here I can add multiple classes  by doing box1, box2."
+            "start": 200.0,
+            "end": 210.0,
+            "text": " So I have written star  And m-0  Sorry m-0  So margin 0  So padding 0"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 225.6,
-            "end": 235.6,
-            "text": " So I made a box, made a box1.  And I made a box and a box2 in it.  So whatever I will select the box  and put the properties,  it will also apply to this element and this one."
+            "start": 210.0,
+            "end": 220.0,
+            "text": " And what happened to doing this?  It is not working  So I have written an IMA box  And I will write an IMA box  And I will write a div box"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 235.6,
-            "end": 245.6,
-            "text": " Because look, we can give multiple classes  to one element, I told you before.  Multiple classes can be given to one element.  And here you can see that I have given it a box  and given box1, given it a box and given it a box2."
+            "start": 220.0,
+            "end": 230.0,
+            "text": " And I can add multiple classes here  Box 1 box 2  So I have one box  And one box 1 box 2  And one box 2 box 2"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 245.6,
-            "end": 255.6,
-            "text": " And I will simply write here I am another box.  Okay, this is our box2.  This was box1, this is our box2.  Now what will I do inside box2,  I will say dot box2 and dot box1."
+            "start": 230.0,
+            "end": 240.0,
+            "text": " So whatever I will select the box  And write it on this element  And write it on this element  Because you can give multiple classes  I told you earlier"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 255.6,
-            "end": 265.6,
-            "text": " Now you understand what I did here.  Look, first I will write that property  which I want to give to both the boxes.  Or suppose I have ten boxes like this,  then I would like to give it in the tenth of ten."
+            "start": 240.0,
+            "end": 250.0,
+            "text": " You can give multiple classes  And here you can see  I give it box 1  And I will simply write I am  Another box"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 265.6,
-            "end": 275.6,
-            "text": " I will write that as dot box.  And some properties will be such  that I would like to give individually  in box1 and box2.  So what I will do, I will give box1"
+            "start": 250.0,
+            "end": 260.0,
+            "text": " This box 1 is my box 2  And what will I do in the box 2?  I will write the box 2  And the box 1  What I have done here?"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 275.6,
-            "end": 285.6,
-            "text": " class to this and box2 class to this.  And if any element has to give more than one class,  then we give it by putting space.  Can we give more than one ID to any element?  Tell me in the comment section below."
+            "start": 260.0,
+            "end": 270.0,
+            "text": " I will write that property  Because I want to give both boxes  And if I want to give 10 boxes  I will write the box  And some properties"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 285.6,
-            "end": 295.6,
-            "text": " Let me see how much understanding you have.  Make two-way interaction.  Can we put more than one ID in one element?  Tell me in the comment section below.  We can also put classes by giving spaces."
+            "start": 270.0,
+            "end": 282.0,
+            "text": " Which I want to give in the box 2  So what will I do?  I will give the box 1 class  And I will give the box 2 class  And whatever I will give in the box"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 295.6,
-            "end": 305.6,
-            "text": " I confirm this and tell you.  Everyone should have a comment.  Now here you see I wrote dot box1.  So what can I do, suppose I made the color yellow.  Okay, I made the color yellow."
+            "start": 282.0,
+            "end": 296.0,
+            "text": " Is it possible to give more ideas  And then show the comment section  Which you'll enter into  On this note, I will take class and give many classes  And here i will inform you"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 305.6,
-            "end": 315.6,
-            "text": " What will happen by making the color yellow?  By making the color yellow, I will make its color red.  The font color will be yellow  and the font color will be red.  Now the font color is yellow and the font color is red."
+            "start": 296.0,
+            "end": 306.0,
+            "text": " Answer all the points  Now see with this box  So what could I do?  I have Added colour  Should I add colour to it?"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 315.6,
-            "end": 325.6,
-            "text": " Now what does the box model say?  The box model says that the content of your CSS  will be here, outside it will be padding,  outside it will be border and outside it will be margin.  Okay, and the total height"
+            "start": 306.0,
+            "end": 333.0,
+            "text": " or do I add colour?  This is the red color, which is yellow, which is red, you can see this is the red color, which is the box model.  You can see the size of the box model, which is the color of the box model, which is the color of the box model.  The height and width of the element will be the same.  Total height and width is not the same."
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 325.6,
-            "end": 335.6,
-            "text": " or width of any element  will be added to all this.  Total height and width  means that whatever  the place will be,"
+            "start": 333.0,
+            "end": 346.0,
+            "text": " The height of the total means the height of the element will be the same.  So you should know that this is the thing.  In the CSS Box model, we have seen this much.  I have not added any other classes here.  Now what I am gonna do? I will talk about the padding inside Box 1."
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 335.6,
-            "end": 345.6,
-            "text": " then this thing should be known to you.  In CSS box model, we have seen only this much.  So I have put different classes here.  Now what will I do? I will say  that inside box1,"
+            "start": 346.0,
+            "end": 357.0,
+            "text": " I will give you some padding.  I want to give you the padding of 10 pixels.  If I give a padding of 10 pixels,  then you will have to give you a padding of 10 to 10 pixels.  You can inspect it to see if you can see it."
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 345.6,
-            "end": 355.6,
-            "text": " I will give some padding.  And I want to give 10 pixel padding.  So if I give 10 pixel padding,  then 10 pixel padding will come from all sides.  And to see this, you can right click"
+            "start": 357.0,
+            "end": 369.0,
+            "text": " You can see it from this side.  You can see that I have inspected it to see if you can see it from this side.  I have added the padding of 10 to 10 pixels.  I hope you can see it.  Box and Box 1."
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 355.6,
-            "end": 365.6,
-            "text": " and inspect. Look at this carefully.  Look at this carefully.  You see here that I right clicked  and inspected, so I hope you can see below.  I have removed my face for a while."
+            "start": 369.0,
+            "end": 377.0,
+            "text": " Box and Box 1 you can see here.  If I will hover on Box 1,  then I will select this element.  Open it.  Open it."
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 365.6,
-            "end": 375.6,
-            "text": " I hope you can see here.  Box and box1.  So here you can see box and box1.  If I hover over box1,  then only this element is selected."
+            "start": 377.0,
+            "end": 387.0,
+            "text": " Open it.  If I hover on it, then I will select Box 2.  I will click on Box 1 and select this element.  I can come here.  I have removed it."
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 375.6,
-            "end": 385.6,
-            "text": " Look up.  Look here.  If I hover over it below, then only box2 is selected.  So by clicking on box1,  this element is selected. I can come here."
+            "start": 387.0,
+            "end": 398.0,
+            "text": " Now I can see everything about it.  I want to change this color.  I will change it temporarily.  Because the source code is written here.  I will change it to permanent."
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 385.6,
-            "end": 395.6,
-            "text": " Look, I removed it like this.  Now I can come here and see everything about it.  Color yellow. If I want, I can change  this color temporarily.  Because its source code is written here."
+            "start": 398.0,
+            "end": 408.0,
+            "text": " I will change it to temporary.  Now I will tell you what I am gonna do.  I will change it to temporary.  I will show you how it will look.  This color white."
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 395.6,
-            "end": 405.6,
-            "text": " So whatever I change here will be permanent.  And whatever I change here will be temporary.  So now I will not do it as I am telling you.  I can do temporary changes and preview.  How will it look if my box"
+            "start": 408.0,
+            "end": 418.0,
+            "text": " I will reload it.  I will come here as a computer.  I will come here as a computer.  I will show you a box.  This box is the same box."
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 405.6,
-            "end": 415.6,
-            "text": " color becomes white.  If I reload it, then it will be fine again.  And by selecting this box, I will come here again  on computed. Now as soon as I come on computed,  I can see a box."
+            "start": 418.0,
+            "end": 428.0,
+            "text": " I have shown it to you.  This box will help you to know that  this particular element is the box 1.  The height and width of the box.  The padding is the same."
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 415.6,
-            "end": 425.6,
-            "text": " And this box is exactly the same box that I have shown  on codebedhari.com.  So with this kind of box, you will know  that this particular element of yours,  the width and height of box1 is how much."
+            "start": 428.0,
+            "end": 438.0,
+            "text": " The padding is the same.  The border is the same.  The margin is the same.  This element is the same.  Let's add a border."
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 425.6,
-            "end": 435.6,
-            "text": " After this, how much padding is there in it.  I have given padding of 10 from all four sides.  There is no border.  There is no margin.  So in this way, we have given"
+            "start": 438.0,
+            "end": 450.0,
+            "text": " I have already added the padding and the box 1.  I am just showing it to you guys.  I am in box 1.  I will come back here.  I will add a margin."
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 435.6,
-            "end": 445.6,
-            "text": " all these things in this element.  Let's put a border in it.  So I have put padding of 10. I am doing it in box1.  Guys, just remember that  I am working in box1."
+            "start": 450.0,
+            "end": 462.0,
+            "text": " I will add a margin of 5 pixels.  Add a margin of 5 pixels.  Or should I add that this element is outside.  The backrond retainer.  What do you mean by this?"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 445.6,
-            "end": 455.6,
-            "text": " My face is coming back.  Now what I will do here, I will put margin.  And I will put margin of 5 pixels.  And as soon as I put margin of 5 pixels,  what will happen is that"
+            "start": 462.0,
+            "end": 477.0,
+            "text": " I will add another color.  I will put it on top.  If you have a pink color, then you will have pink color.  If you have a pink color, then you will have pink color.  So this is a very strange example, but I will tell you that the content is there."
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 455.6,
-            "end": 465.6,
-            "text": " it is outside the element.  So the background of the element is not retained.  What does this mean?  It means that  if I put pink color on you,"
+            "start": 477.0,
+            "end": 489.0,
+            "text": " So if I have added the content, then the background is there.  It comes in the padding area.  The content is in the inside.  And the margin is outside the content.  The content is inside the content."
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 465.6,
-            "end": 475.6,
-            "text": " if I put pink color on you,  then you will be pink. But if I throw pink,  pink, or anything else around you, then it will not be on you.  So this was a very strange example.  But let me tell you that the content"
+            "start": 489.0,
+            "end": 500.0,
+            "text": " Look, this is the entire element.  The content is there.  The background is in the padding area.  The margin is inside the content.  I have given you the margin."
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 475.6,
-            "end": 485.6,
-            "text": " outside this is padding.  So if I give padding, then the background  color comes in the padding area.  Because padding is inside the content.  And margin is outside the content."
+            "start": 500.0,
+            "end": 516.0,
+            "text": " Now I will tell you how to add the border.  I will tell you about the border.  I will write the border here.  I will write the border here.  You can see that I have given the border here."
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 485.6,
-            "end": 495.6,
-            "text": " Which is outside your element.  Content is inside the element.  This is the whole element. The content of the element is this.  So the background  color will be in the padding area."
+            "start": 516.0,
+            "end": 531.0,
+            "text": " You can see that the border is here.  You can see the border here.  This is my content and this is the border.  So what happens here is that there is a DPI factor in our display,  which is the actual border where you will get to see the difference."
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 495.6,
-            "end": 505.6,
-            "text": " It will not be in the margin area.  You have to keep this in mind.  So here I gave margin, so you see the margin of 5.  Now I will tell you how to add border.  If I write border here,"
+            "start": 531.0,
+            "end": 556.0,
+            "text": " But this is pretty much that you can see the margin, the padding, the real time of the element.  So I hope you have understood something.  Now I will tell you how to add the element's width.  Now I will give the height of the element's element to the width of the element's width.  I have given the height to 200 pixels and 200 pixels."
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 505.6,
-            "end": 515.6,
-            "text": " I will tell you about border later.  If I write  border 2px solid blue,  then the border of 2px is here.  And here you see that I have given the border of 2px."
+            "start": 556.0,
+            "end": 573.0,
+            "text": " Now I will show you something.  Now I will show you the computed values.  The height is 200 pixels.  And you can see that I am adding the content on the content.  The padding is showing, the border is showing, the margin is showing, the margin is showing."
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 515.6,
-            "end": 525.6,
-            "text": " You can see  that the border has come here.  So this border is visible to you.  And you can see here that this is my  content and this is the border."
+            "start": 573.0,
+            "end": 591.0,
+            "text": " Now you can see that the element's actual height is 200 pixels.  It will be 10. And it will be 10. And it will be 200.  And then the borders will be shown.  And then the margin will be shown.  So as I will add all these things, I will not add all these things here."
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 525.6,
-            "end": 535.6,
-            "text": " So what happens here is that there is a DPI factor in our display.  Because of which the actual border  will be visible to you separately. But this is pretty much  how you can see margin,  border, and padding in real time of your element."
+            "start": 591.0,
+            "end": 607.0,
+            "text": " But there is a particular element's height or height.  So the total width of the total height is not taken out of this formula.  So what do we do?  In the width we will add the left and right padding, the left and right border and the right and the margin.  The total width of the total height is not taken out of this formula."
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 535.6,
-            "end": 545.6,
-            "text": " So I hope you  understood this thing.  Now I will tell you here how  the width of your element  is calculated."
+            "start": 607.0,
+            "end": 617.0,
+            "text": " I hope you guys will understand this.  And now I will talk about the element.  How much the border is going on.  So you can add all these things here.  But I want to tell you one thing."
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 545.6,
-            "end": 555.6,
-            "text": " Now let's say I gave the width of this element  or I give the height of this element  200 pixels.  So I gave the height of this element  200 pixels."
+            "start": 617.0,
+            "end": 627.0,
+            "text": " If I can put a CSS property here.  Because I can directly put it here.  I can add it in styles.  I will show you.  I will write it as background red."
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 555.6,
-            "end": 565.6,
-            "text": " Now I will inspect you  and show you one thing.  I will take you to the computed values.  So see its height is 200 pixels.  And you can see"
+            "start": 627.0,
+            "end": 636.0,
+            "text": " Temporarily until I reload.  Okay, I will put it here.  Okay, what I will do here.  I will write box sizing.  And I will write the border box."
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 565.6,
-            "end": 575.6,
-            "text": " that the content is shown here.  Padding is shown here.  Border is shown here.  And margin is shown here.  Now you can see here that the element"
+            "start": 636.0,
+            "end": 650.0,
+            "text": " As I will write the border box here.  You guys see here that the height of the actual width is 176.  176.8 is taken.  Because 176.8 plus 20 is so much.  196.8."
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 575.6,
-            "end": 585.6,
-            "text": " has an actual height  of 200 pixels.  Then 10 will be added to it and 10 will be added from below  and it will become 220. Then the borders will be added.  Then the margin will be added."
+            "start": 650.0,
+            "end": 661.0,
+            "text": " And then the border will be connected to total 200.  Okay, we don't include margin here.  Because margin is outside.  Okay, margin is not included.  Whenever we set a height."
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 585.6,
-            "end": 595.6,
-            "text": " So as soon as I will add all these things  to it, all this space  will come out. But  the height of a particular element  or how much is the width,"
+            "start": 661.0,
+            "end": 672.0,
+            "text": " And here we give the box sizing property.  You guys try to understand.  When I say that the height is 200.  Or I say that it is a width 200.  So if I didn't put this box sizing on the border box with the width 200."
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 595.6,
-            "end": 605.6,
-            "text": " the total width and total height is taken out from this formula.  What we do is we will add both left and right padding  to the width. Both left and right borders  and both left and right margin.  This is the total width, that is, how much space will be surrounded"
+            "start": 672.0,
+            "end": 682.0,
+            "text": " Listen carefully.  Listen carefully.  If I didn't put the box sizing on the border box.  Then what will happen?  The height of the actual content is the same."
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 605.6,
-            "end": 615.6,
-            "text": " by the element with the margin.  I hope you are understanding this thing.  And if I just talk about the element,  how much space is surrounding the border,  then you will add this whole thing."
+            "start": 682.0,
+            "end": 693.0,
+            "text": " If I talk about the width.  Then it will be 200.  I will explain the height of the height.  The height of the content of the content of the content will be the same.  Then if you are talking about the total space that is going to be added."
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 615.6,
-            "end": 625.6,
-            "text": " But now I want to tell you one thing here  that if I put a CSS property here  which I can directly put from here.  I can add any CSS property here.  I will show you this too."
+            "start": 693.0,
+            "end": 705.0,
+            "text": " The padding will be added on the border box.  But if I say box sizing on the border box.  Basically I am saying that the height of the content of the content is the same.  This is the border and padding.  Not margin."
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 625.6,
-            "end": 635.6,
-            "text": " If I make the background red, then its background will be red  temporarily until I reload.  But I will put it here now.  What I will do here is I will write here  box sizing and I will write here border box."
+            "start": 705.0,
+            "end": 719.0,
+            "text": " Not margin.  I am talking about the padding on the border box.  I have made the box sizing on the border box.  This means that the height of my element.  The height I have written here is the height of my border and padding."
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 635.6,
-            "end": 645.6,
-            "text": " As soon as I write here box sizing,  border box, you guys see here  that its actual width,  sorry, height is 176.  176.8 is because"
+            "start": 719.0,
+            "end": 741.0,
+            "text": " I have written both the contents of the content and the padding on the border box.  When I am saying the box sizing on the border box.  Then tell me in the comment that the box sizing on the border box.  What am I saying?  I am saying it as the value of the size of the content as the price of the content."
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 645.6,
-            "end": 655.6,
-            "text": " 176.8 plus 20  is 196.8  and after that the border  will be added and the total will be 200.  We do not include margin here"
+            "start": 741.0,
+            "end": 765.0,
+            "text": " Now is Warman will be given the tightness at price of whether the content there is 1 or 2.  18Gb of Holl\u789f.  The Part that I have written.  This is the same as the white items of this item in the\u514b m\u00e5nga booth.  6th way it can be \u00e4ven in the hand"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 655.6,
-            "end": 665.6,
-            "text": " because margin is outside.  Margin is not included  whenever we set a height and  give a box sizing property here.  Try to understand. When I say"
+            "start": 765.0,
+            "end": 777.22,
+            "text": " check box size in the box  check box size in the box  in the box  the box has 230  total height of the 230"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 665.6,
-            "end": 675.6,
-            "text": " that its height is 200 or  I say width is 200,  then if I do not put this  with width 200, listen to this carefully.  Listen to this very carefully."
+            "start": 777.22,
+            "end": 788.0,
+            "text": " and the total height of the output is 27%  but  i want to tell you one thing  let me tell you about the box size  what happens is"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 675.6,
-            "end": 685.6,
-            "text": " If I do not put box sizing border box,  then what will happen?  Then the actual content will be  only its height or if I talk about width,  then it will be 200. I will explain you"
+            "start": 788.0,
+            "end": 815.0,
+            "text": " If you write in the box, the height of the box will be less than 200 and it will adjust to the size of the package.  I hope that makes a lot of sense. I hope that I have explained to you.  This is a very important concept that I wanted to tell all of you.  Now I am going to tell you the concept.  It will be fun because I will tell you about the margin of the collapse."
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 685.6,
-            "end": 695.6,
-            "text": " from the example of height. 200 will be  the height of its content.  Then if you talk about the total space  that is surrounding it, then padding will be added  to it. Then the border will be added"
+            "start": 815.0,
+            "end": 830.0,
+            "text": " This concept should be important to you.  I am going to take it from you in the computer screen.  This was my code. I have given you a margin of 5 pixels.  I will give you exactly the exact same thing.  Let's increase the margin a little."
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 695.6,
-            "end": 705.6,
-            "text": " to it, both above and below.  But if I say box sizing border box,  so basically I am saying that the 200 height  that I have told you is by including  the height of the content. But the margin is not there."
+            "start": 830.0,
+            "end": 847.0,
+            "text": " Let's do a good job of making the margin of 5 pixels.  Let's increase the spacing of the margin.  I will keep the same color rate of the other element.  I will black the border a little bit.  Other values are the same in this box."
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 705.6,
-            "end": 715.6,
-            "text": " I am telling 200 by including  the border and padding.  Where I did box sizing border box,  it means that the height of my element  that I have written here,"
+            "start": 847.0,
+            "end": 860.0,
+            "text": " Now, tell me the story of this box,  about 4 different sizes,  4 different sizes,  I didn't want to see this space,  I wanted to see it twice,"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 715.6,
-            "end": 725.6,
-            "text": " this height is my  border and padding.  I have written both together.  That is, by combining both, content plus  border plus padding should be my 200."
+            "start": 860.0,
+            "end": 869.0,
+            "text": " and tell you,  4 different sizes,  if I select the element,  then 25 is 25,  not 10, but 25 is 25."
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 725.6,
-            "end": 735.6,
-            "text": " When I say box sizing border box,  then I am saying this. So everyone tell me in the comment  that if we write box sizing border box,  then what am I saying? I am saying  to CSS that hey CSS God,"
+            "start": 869.0,
+            "end": 881.0,
+            "text": " Then, this element is 5,  4 different sizes,  so, this head distance is 50,  not 25,  see my arrow,"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 735.6,
-            "end": 745.6,
-            "text": " the height that I am giving you,  this height I am giving by  combining padding and border.  That is, content plus border  plus padding, that is 200."
+            "start": 881.0,
+            "end": 890.0,
+            "text": " and this is 25,  so, this is 25,  why I don't have 50,  there is an element above,  and there is an element below,"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 745.6,
-            "end": 755.6,
-            "text": " This is the meaning of my height.  So in a way, box sizing border box  changes the definition of height.  What is the definition of height first?  The definition of height first is that"
+            "start": 890.0,
+            "end": 902.0,
+            "text": " here is the concept of margin collapse.  What is the concept of margin collapse?  The concept of margin collapse is,  if two elements are overlapping,  then the maximum margin will be 1x,"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 755.6,
-            "end": 765.6,
-            "text": " padding will not be included in this,  border will not be included in this.  You can see here  that this is 176, I will remove it from here.  By the way, I can also remove it from here temporarily."
+            "start": 902.0,
+            "end": 913.0,
+            "text": " if I select the margin of 25,  then the margin of 25 is 25,  then the max is 5,  then the margin of 25 is 1,  if I select 1,"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 765.6,
-            "end": 775.6,
-            "text": " If I uncheck the box sizing border box,  then see its height is 200.  And then I added this to it, then I added  this to it.  After combining both, its total"
+            "start": 913.0,
+            "end": 925.0,
+            "text": " then the margin of 25 is 5,  then the difference is,  then margin collapse is 5,  so, if I show you a good example,  margin collapse is,"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 775.6,
-            "end": 785.6,
-            "text": " height will be 200 plus 20,  220 plus borders, whatever  is calculated, that is sum.  But here I want to tell you  one thing that if I said box sizing"
+            "start": 925.0,
+            "end": 935.0,
+            "text": " I hope I get an image,  in which I can explain the margin collapse,  then basically,  if I have a box,  I have a box,"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 785.6,
-            "end": 795.6,
-            "text": " border box, then what happens  that as soon as the box sizing border box  is written, its height  will decrease from 200  and it will adjust in this way that"
+            "start": 935.0,
+            "end": 945.0,
+            "text": " this image is very good,  to explain this concept,  if I have a box,  then I have given the margin of 30 pixels,  then it will look like this,"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 795.6,
-            "end": 805.6,
-            "text": " padding and border will come together to 200.  I hope that makes a lot of sense.  I hope I explained it to you.  So this was a very important concept  that I wanted to tell you all."
+            "start": 945.0,
+            "end": 954.0,
+            "text": " and it will look like this,  because the maximum of these two elements  will be 1x,  between them,  then the margin will be like this,"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 805.6,
-            "end": 815.6,
-            "text": " And now the concept I am going to tell you  is going to be fun.  You will enjoy it because in that  I will tell you  about margin collapse."
+            "start": 954.0,
+            "end": 964.0,
+            "text": " then the margin collapse,  so, I hope you all understood the concept,  what is the margin collapse,  this is the box model,  how the box model works,"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 815.6,
-            "end": 825.6,
-            "text": " And this concept, you should know it.  So I will take you again  to the computer screen. This was our code.  How much margin did I give here?  5 pixels margin. Suppose I give"
+            "start": 964.0,
+            "end": 975.0,
+            "text": " and I have tried to explain this to you,  this is the concept of margin collapse,  which many CSS developers recognize,  I know from this,  which tells me that,"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 825.6,
-            "end": 835.6,
-            "text": " exactly the same things in border 2.  And let's increase the margin a little.  To make it fun, let's make it 25 pixels.  So that the spacing increases.  And suppose I keep the same"
+            "start": 975.0,
+            "end": 985.0,
+            "text": " what is this CSS wrong,  why this is my margin,  it is wrong,  this is the concept of margin collapse,  and the concept of margin collapse,"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 835.6,
-            "end": 845.6,
-            "text": " to same things, just the color of the other element  will be red. Same to same things.  And I will also make its border black.  So that it looks a little different.  The rest of the values are the same."
+            "start": 985.0,
+            "end": 994.0,
+            "text": " if you understood it,  then it will be fun,  it will be so smooth,  you have to apply a box sizing,  you will apply it,"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 845.6,
-            "end": 855.6,
-            "text": " You can see in this box too.  Now you tell me honestly  that the margin around this box is 10 10 10 10.  The margin around this box is 10 10 10 10.  So here we"
+            "start": 994.0,
+            "end": 1004.0,
+            "text": " you will have to see all this,  especially when we will convert the Figma files,  in HTML, CSS, JavaScript,  then you will have to apply this work,  you will have to apply a box sizing,"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 855.6,
-            "end": 865.6,
-            "text": " should have seen this space double  or not? Think again  and tell me that  the margin around this  is, if I select this element"
+            "start": 1004.0,
+            "end": 1014.0,
+            "text": " I hope you all are enjoying this course,  and I hope that you all are understanding,  if you are not able to access this,  then do access to it,  and click here,"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 865.6,
-            "end": 875.6,
-            "text": " and show you, then 25 25 25 25.  Sorry, it's not 10 10, it's 25 25.  Okay, 25 25 25 25.  This element is also 25 25 25 25.  So this"
+            "start": 1014.0,
+            "end": 1024.0,
+            "text": " and save the bookmark,  I am going to update the source code,  you will get the source code,  I hope that you all are also enjoying the source code,  it is updating the time and time,"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 875.6,
-            "end": 885.6,
-            "text": " distance should be 50.  See 25 is this much. Look at my arrow  above. Look at my arrow above.  And this is also 25.  So this is also 25. Why is it not 50?"
+            "start": 1024.0,
+            "end": 1030.0,
+            "text": " so like the video,  access the playlist,  subscribe the channel,  share the channel,  and do both our villages and villages,"
         },
         {
             "number": "18",
             "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 885.6,
-            "end": 895.6,
-            "text": " The upper element should also be there.  The lower element should also be there.  Here comes the concept of margin collapse.  What is this concept of margin collapse?  The concept of margin collapse"
-        },
-        {
-            "number": "18",
-            "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 895.6,
-            "end": 905.6,
-            "text": " says that if the margin of two elements  is overlapping, then  the maximum margin will be applied only once.  Like if I  have given a margin of 25 here,"
-        },
-        {
-            "number": "18",
-            "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 905.6,
-            "end": 915.6,
-            "text": " and a margin of 25 here. How much is the maximum of 25 and 25?  It is 25. Both are equal. So the margin of 25  will be applied only once. If I  make one of them 35, then  its margin will be 25."
-        },
-        {
-            "number": "18",
-            "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 915.6,
-            "end": 925.6,
-            "text": " So this difference will be 35.  So this is called margin collapse.  So if I show you a good example  of margin  collapse in images, I hope"
-        },
-        {
-            "number": "18",
-            "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 925.6,
-            "end": 935.6,
-            "text": " I will get a good image  from which I can explain margin collapse.  So basically what happens is  if I have a box A and a box B,  I think this image is very"
-        },
-        {
-            "number": "18",
-            "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 935.6,
-            "end": 945.6,
-            "text": " good to explain this concept.  Like I have a box A and a box B.  I have given a margin of 30 pixels in box A  and 20 pixels in box B. So it will not look like this,  but it will look like this."
-        },
-        {
-            "number": "18",
-            "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 945.6,
-            "end": 955.6,
-            "text": " Because the maximum of these two  will be applied only once in both.  Between the two. So  its margin will be applied like this.  You can call it margin collapse."
-        },
-        {
-            "number": "18",
-            "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 955.6,
-            "end": 965.6,
-            "text": " So I hope you understood this concept.  What is margin collapse?  What is the box model of CSS?  How does the box model work?  And I tried to explain it"
-        },
-        {
-            "number": "18",
-            "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 965.6,
-            "end": 975.6,
-            "text": " to you very well. What is the concept  of margin collapse? Which  bothers a lot of CSS developers.  I know people like this who  say to me that has CSS gone bad?"
-        },
-        {
-            "number": "18",
-            "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 975.6,
-            "end": 985.6,
-            "text": " What has happened?  Why is my margin looking wrong?  Without saying all these things,  understand the concept of margin collapse.  And once you understand the concept of margin collapse,"
-        },
-        {
-            "number": "18",
-            "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 985.6,
-            "end": 995.6,
-            "text": " then you will enjoy it.  Then your development will be so smooth.  When do you have to put a box sizing border box?  What will happen if you put it? What will happen if you don't put it?  You have to see all this."
-        },
-        {
-            "number": "18",
-            "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 995.6,
-            "end": 1005.6,
-            "text": " Especially when we convert Figma files  in HTML, CSS, JavaScript,  then you will get a lot of work.  Whether to put box sizing or not.  I hope you are enjoying this course."
-        },
-        {
-            "number": "18",
-            "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 1005.6,
-            "end": 1015.6,
-            "text": " And I hope you are understanding  all these things well.  If you have not accessed this playlist yet,  then do access it.  Click here to bookmark and click here to save."
-        },
-        {
-            "number": "18",
-            "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 1015.6,
-            "end": 1025.6,
-            "text": " I am updating the source code.  So you will get the source code.  I hope you are enjoying the source code.  It is being updated from time to time.  So like the video, access the playlist,"
-        },
-        {
-            "number": "18",
-            "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 1025.6,
-            "end": 1035.6,
-            "text": " subscribe to the channel,  share the channel and  prepare to meet me in the next video  while naming the land of both your village and town.  Thank you so much guys for watching this video."
-        },
-        {
-            "number": "18",
-            "title": "CSS Box Model - Margin, Padding & Borders",
-            "start": 1035.6,
-            "end": 1037.6,
-            "text": " And I will see you next time."
+            "start": 1030.0,
+            "end": 1038.0,
+            "text": " we will name them,  we will meet in the next video,  thank you so much guys for watching this video,  and I will see you next time."
         }
     ],
-    "text": " Guys, in today's video we are going to talk about Box Model in CSS. In any element, there is a content which is itself then margin, then border and then padding. This concept of box model is where is the border, margin and padding. In this video, we will understand all these things and see how margin, border and padding are set in CSS. So let's go to the computer screen. I am really very excited. Let's roll the intro. So guys, I have come inside my computer screen and the first thing I will do here is I will show you this playlist and you guys who do not click on the star here and do not access by clicking here you will not do that either. Do it, man, click on the star here and click here and access it. And I have also put the source code for you guys. Access it too. I want you to enjoy it too. Okay, so what do you guys do while enjoying it? The way I have made this folder here and what I will do by right-clicking shift I will make it open with code. As you can see, and this VS code will open for me. If your open with code option is not coming, which many people tell me that our open with code option is not coming. So I have a suggestion for you guys. What do you do? To install VS code again, run its setup again and see what options I have checked. Now I will come in the video and here by making a file in the name of index.html I will keep a boilerplate template and here I will write CSS box model. After writing the CSS box model, I will make a style tag here. With the help of which I will make you guys Oops, how did I make a style tag? Is it too fast? Guys, no, it's not fast. Okay, it will work. So what will I do while making a style tag here? I will put styles here and tell you how does the box model work in CSS? So first of all, let's understand the concept of box model in CSS. What is the concept of box model in CSS? See, everything in CSS is box. Whatever elements we have made with HTML, they are all a box. Whether we make a container, whether we make a div, whether we make a span, they are all a box in our CSS. And there are some things in that box that I want to show you here. So if you can see on the computer screen, then you will see that here I have explained the concept of CSS box model. CSS box model means that padding is outside your content, this border is outside it, and margin is outside it. So you should know this concept. One more thing I want to tell you is that let's say I made a div.box here. Okay, I made a box here, I will write I am a box. And here I will show you its preview. So this box has been made by me by doing I am a box. There is already some margin and padding outside this box, which you will know when I put a background on it. So what I will do simply, I will write dot box here, which means that I selected the class selector box and I will say background color is let us say aqua. So the background color of this box will be aqua. We can do the format document by right-clicking so that we will get good formatting. Now you see here there is already some margin padding. What I will do is using a universal selector, it happens that our browser plays a little smart from its side. It says that this developer does not have a brain, so I will put my brain a little. And it adds margin padding by putting its brain, adds many more styles. And that's why we sometimes need to reset CSS. So I wrote here M-0 by putting a star. Sorry, I wrote M-0, so margin became 0. I wrote P-0, so padding became 0. These were emmet shortcuts. And what will happen by doing this, it will stick to the top, like spacing was coming here, it is not coming now. So I wrote I am a box, so let's do one thing, let's write I am a box and here I write div.box and here I can add multiple classes by doing box1, box2. So I made a box, made a box1. And I made a box and a box2 in it. So whatever I will select the box and put the properties, it will also apply to this element and this one. Because look, we can give multiple classes to one element, I told you before. Multiple classes can be given to one element. And here you can see that I have given it a box and given box1, given it a box and given it a box2. And I will simply write here I am another box. Okay, this is our box2. This was box1, this is our box2. Now what will I do inside box2, I will say dot box2 and dot box1. Now you understand what I did here. Look, first I will write that property which I want to give to both the boxes. Or suppose I have ten boxes like this, then I would like to give it in the tenth of ten. I will write that as dot box. And some properties will be such that I would like to give individually in box1 and box2. So what I will do, I will give box1 class to this and box2 class to this. And if any element has to give more than one class, then we give it by putting space. Can we give more than one ID to any element? Tell me in the comment section below. Let me see how much understanding you have. Make two-way interaction. Can we put more than one ID in one element? Tell me in the comment section below. We can also put classes by giving spaces. I confirm this and tell you. Everyone should have a comment. Now here you see I wrote dot box1. So what can I do, suppose I made the color yellow. Okay, I made the color yellow. What will happen by making the color yellow? By making the color yellow, I will make its color red. The font color will be yellow and the font color will be red. Now the font color is yellow and the font color is red. Now what does the box model say? The box model says that the content of your CSS will be here, outside it will be padding, outside it will be border and outside it will be margin. Okay, and the total height or width of any element will be added to all this. Total height and width means that whatever the place will be, then this thing should be known to you. In CSS box model, we have seen only this much. So I have put different classes here. Now what will I do? I will say that inside box1, I will give some padding. And I want to give 10 pixel padding. So if I give 10 pixel padding, then 10 pixel padding will come from all sides. And to see this, you can right click and inspect. Look at this carefully. Look at this carefully. You see here that I right clicked and inspected, so I hope you can see below. I have removed my face for a while. I hope you can see here. Box and box1. So here you can see box and box1. If I hover over box1, then only this element is selected. Look up. Look here. If I hover over it below, then only box2 is selected. So by clicking on box1, this element is selected. I can come here. Look, I removed it like this. Now I can come here and see everything about it. Color yellow. If I want, I can change this color temporarily. Because its source code is written here. So whatever I change here will be permanent. And whatever I change here will be temporary. So now I will not do it as I am telling you. I can do temporary changes and preview. How will it look if my box color becomes white. If I reload it, then it will be fine again. And by selecting this box, I will come here again on computed. Now as soon as I come on computed, I can see a box. And this box is exactly the same box that I have shown on codebedhari.com. So with this kind of box, you will know that this particular element of yours, the width and height of box1 is how much. After this, how much padding is there in it. I have given padding of 10 from all four sides. There is no border. There is no margin. So in this way, we have given all these things in this element. Let's put a border in it. So I have put padding of 10. I am doing it in box1. Guys, just remember that I am working in box1. My face is coming back. Now what I will do here, I will put margin. And I will put margin of 5 pixels. And as soon as I put margin of 5 pixels, what will happen is that it is outside the element. So the background of the element is not retained. What does this mean? It means that if I put pink color on you, if I put pink color on you, then you will be pink. But if I throw pink, pink, or anything else around you, then it will not be on you. So this was a very strange example. But let me tell you that the content outside this is padding. So if I give padding, then the background color comes in the padding area. Because padding is inside the content. And margin is outside the content. Which is outside your element. Content is inside the element. This is the whole element. The content of the element is this. So the background color will be in the padding area. It will not be in the margin area. You have to keep this in mind. So here I gave margin, so you see the margin of 5. Now I will tell you how to add border. If I write border here, I will tell you about border later. If I write border 2px solid blue, then the border of 2px is here. And here you see that I have given the border of 2px. You can see that the border has come here. So this border is visible to you. And you can see here that this is my content and this is the border. So what happens here is that there is a DPI factor in our display. Because of which the actual border will be visible to you separately. But this is pretty much how you can see margin, border, and padding in real time of your element. So I hope you understood this thing. Now I will tell you here how the width of your element is calculated. Now let's say I gave the width of this element or I give the height of this element 200 pixels. So I gave the height of this element 200 pixels. Now I will inspect you and show you one thing. I will take you to the computed values. So see its height is 200 pixels. And you can see that the content is shown here. Padding is shown here. Border is shown here. And margin is shown here. Now you can see here that the element has an actual height of 200 pixels. Then 10 will be added to it and 10 will be added from below and it will become 220. Then the borders will be added. Then the margin will be added. So as soon as I will add all these things to it, all this space will come out. But the height of a particular element or how much is the width, the total width and total height is taken out from this formula. What we do is we will add both left and right padding to the width. Both left and right borders and both left and right margin. This is the total width, that is, how much space will be surrounded by the element with the margin. I hope you are understanding this thing. And if I just talk about the element, how much space is surrounding the border, then you will add this whole thing. But now I want to tell you one thing here that if I put a CSS property here which I can directly put from here. I can add any CSS property here. I will show you this too. If I make the background red, then its background will be red temporarily until I reload. But I will put it here now. What I will do here is I will write here box sizing and I will write here border box. As soon as I write here box sizing, border box, you guys see here that its actual width, sorry, height is 176. 176.8 is because 176.8 plus 20 is 196.8 and after that the border will be added and the total will be 200. We do not include margin here because margin is outside. Margin is not included whenever we set a height and give a box sizing property here. Try to understand. When I say that its height is 200 or I say width is 200, then if I do not put this with width 200, listen to this carefully. Listen to this very carefully. If I do not put box sizing border box, then what will happen? Then the actual content will be only its height or if I talk about width, then it will be 200. I will explain you from the example of height. 200 will be the height of its content. Then if you talk about the total space that is surrounding it, then padding will be added to it. Then the border will be added to it, both above and below. But if I say box sizing border box, so basically I am saying that the 200 height that I have told you is by including the height of the content. But the margin is not there. I am telling 200 by including the border and padding. Where I did box sizing border box, it means that the height of my element that I have written here, this height is my border and padding. I have written both together. That is, by combining both, content plus border plus padding should be my 200. When I say box sizing border box, then I am saying this. So everyone tell me in the comment that if we write box sizing border box, then what am I saying? I am saying to CSS that hey CSS God, the height that I am giving you, this height I am giving by combining padding and border. That is, content plus border plus padding, that is 200. This is the meaning of my height. So in a way, box sizing border box changes the definition of height. What is the definition of height first? The definition of height first is that padding will not be included in this, border will not be included in this. You can see here that this is 176, I will remove it from here. By the way, I can also remove it from here temporarily. If I uncheck the box sizing border box, then see its height is 200. And then I added this to it, then I added this to it. After combining both, its total height will be 200 plus 20, 220 plus borders, whatever is calculated, that is sum. But here I want to tell you one thing that if I said box sizing border box, then what happens that as soon as the box sizing border box is written, its height will decrease from 200 and it will adjust in this way that padding and border will come together to 200. I hope that makes a lot of sense. I hope I explained it to you. So this was a very important concept that I wanted to tell you all. And now the concept I am going to tell you is going to be fun. You will enjoy it because in that I will tell you about margin collapse. And this concept, you should know it. So I will take you again to the computer screen. This was our code. How much margin did I give here? 5 pixels margin. Suppose I give exactly the same things in border 2. And let's increase the margin a little. To make it fun, let's make it 25 pixels. So that the spacing increases. And suppose I keep the same to same things, just the color of the other element will be red. Same to same things. And I will also make its border black. So that it looks a little different. The rest of the values are the same. You can see in this box too. Now you tell me honestly that the margin around this box is 10 10 10 10. The margin around this box is 10 10 10 10. So here we should have seen this space double or not? Think again and tell me that the margin around this is, if I select this element and show you, then 25 25 25 25. Sorry, it's not 10 10, it's 25 25. Okay, 25 25 25 25. This element is also 25 25 25 25. So this distance should be 50. See 25 is this much. Look at my arrow above. Look at my arrow above. And this is also 25. So this is also 25. Why is it not 50? The upper element should also be there. The lower element should also be there. Here comes the concept of margin collapse. What is this concept of margin collapse? The concept of margin collapse says that if the margin of two elements is overlapping, then the maximum margin will be applied only once. Like if I have given a margin of 25 here, and a margin of 25 here. How much is the maximum of 25 and 25? It is 25. Both are equal. So the margin of 25 will be applied only once. If I make one of them 35, then its margin will be 25. So this difference will be 35. So this is called margin collapse. So if I show you a good example of margin collapse in images, I hope I will get a good image from which I can explain margin collapse. So basically what happens is if I have a box A and a box B, I think this image is very good to explain this concept. Like I have a box A and a box B. I have given a margin of 30 pixels in box A and 20 pixels in box B. So it will not look like this, but it will look like this. Because the maximum of these two will be applied only once in both. Between the two. So its margin will be applied like this. You can call it margin collapse. So I hope you understood this concept. What is margin collapse? What is the box model of CSS? How does the box model work? And I tried to explain it to you very well. What is the concept of margin collapse? Which bothers a lot of CSS developers. I know people like this who say to me that has CSS gone bad? What has happened? Why is my margin looking wrong? Without saying all these things, understand the concept of margin collapse. And once you understand the concept of margin collapse, then you will enjoy it. Then your development will be so smooth. When do you have to put a box sizing border box? What will happen if you put it? What will happen if you don't put it? You have to see all this. Especially when we convert Figma files in HTML, CSS, JavaScript, then you will get a lot of work. Whether to put box sizing or not. I hope you are enjoying this course. And I hope you are understanding all these things well. If you have not accessed this playlist yet, then do access it. Click here to bookmark and click here to save. I am updating the source code. So you will get the source code. I hope you are enjoying the source code. It is being updated from time to time. So like the video, access the playlist, subscribe to the channel, share the channel and prepare to meet me in the next video while naming the land of both your village and town. Thank you so much guys for watching this video. And I will see you next time."
+    "text": ""
 }

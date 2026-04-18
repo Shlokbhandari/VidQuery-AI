@@ -4,1038 +4,660 @@
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
             "start": 0.0,
-            "end": 12.24,
-            "text": " In this video, we will see how images are made,  lists are made in HTML and tables are made.  So like the video.  I know very few people like videos on YouTube.  But if you do, thanks to your support,"
+            "end": 20.0,
+            "text": " In this video, we will see how images are made in HTML and table.  So, if you like the video, I know a lot of people like YouTube videos.  But if you do, thanks a lot.  Because of your support, I get the motivation to bring free courses like this.  So, let's start the 5-way video of Sigma web development courses in computer screen."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 12.24,
-            "end": 31.84,
-            "text": " I get the motivation to bring such free courses.  So let's go to the computer screen  starting the 5th video of the Sigma Web Development course.  Let's roll the intro.  So guys, I have come to my computer screen."
+            "start": 20.0,
+            "end": 39.0,
+            "text": " Let's roll the intro.  So guys, I have already seen in my computer screen.  First of all, I would like to tell you that  getup.com slash code with diary.  In fact, you can read the repository."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 31.84,
-            "end": 41.16,
-            "text": " As you can see,  I want to tell you first  that bookmark getup.com slash code with Harry.  In fact, bookmark this repository  so that you get all the code."
+            "start": 39.0,
+            "end": 52.0,
+            "text": " So that you can get all the code.  Secondly, click on the playlist.  Click on the star and save it.  Now I will tell you the first thing I will tell you about the image.  In HTML, what happens in the image?"
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 41.16,
-            "end": 50.68,
-            "text": " Second thing, click here and bookmark the playlist.  Click here and click on the star and click here to save.  This playlist will be yours.  Now the first thing I will tell you here  is about the image."
+            "start": 52.0,
+            "end": 62.0,
+            "text": " So, what will we do here?  We will make a folder from here.  New folder of video 5.  You will come here to try it.  Open with code is very hard."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 50.68,
-            "end": 60.72,
-            "text": " What is the image in HTML?  So what we will do here is quickly make a folder.  New folder by the name of video 5.  And here video 5.  So you must know that by clicking on shift right"
+            "start": 62.0,
+            "end": 71.0,
+            "text": " I will tell you already.  But if you want to see this new page,  you can not get it.  Let's check the show and start-up.  And you will not get it."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 60.72,
-            "end": 67.0,
-            "text": " open with code.  This time I will make it very fast  because I have already told you.  But if you want you guys to see this welcome page  again and again,"
+            "start": 71.0,
+            "end": 79.0,
+            "text": " So, what we are doing?  We will make a video of the index.  We will make a video of the image.  We will do a Zoom in.  We will do a screen of the screen."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 67.0,
-            "end": 76.92,
-            "text": " then uncheck the show welcome page on startup here.  And you will not see this again and again.  But what are we doing?  We will make index.html,  we will zoom in a little by mouse wheel,"
+            "start": 79.0,
+            "end": 89.0,
+            "text": " So that you will know what kind of video I am talking about.  And why I am talking about it.  I have taken the image abbreviation.  I will do a view and draft.  I have to work hard."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 76.92,
-            "end": 85.88,
-            "text": " we will toggle the screencast port  so that you guys will know  which button I am pressing when and why.  Now I will put an exclamation mark  and bring the emmet abbreviation here."
+            "start": 89.0,
+            "end": 96.0,
+            "text": " You can see here.  This is your draft.  It has been opened.  So, what will happen here?  It will not be a horizontal scroll."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 85.88,
-            "end": 95.92,
-            "text": " And here I will do view word wrap.  You have to work hard.  You can see here that your word wrap is closed.  Okay, so what will happen here now?  That horizontal scroll bar will not come."
+            "start": 96.0,
+            "end": 105.0,
+            "text": " Now, what I will do here?  I will write images.  First, I will write images.  And I will simply do what I will do here.  Now, I can get an image from the internet."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 95.92,
-            "end": 104.88,
-            "text": " Okay, now what I will do is write images here.  First of all, I will write images here.  And what I will do here is simply  that I will bring an image.  Now you can bring the image from the internet."
+            "start": 105.0,
+            "end": 112.0,
+            "text": " I will write here.  Let's take an image.  Train.  Train images.  Because we have run a lot of trains in the course."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 104.88,
-            "end": 113.72,
-            "text": " I will write here.  Let us say we want to bring an image of a train.  Okay, images of a train.  Because we have driven a lot of trains in this course.  So we will bring images of a train."
+            "start": 112.0,
+            "end": 122.0,
+            "text": " So, we will write the images of the train.  I will do a save image.  And here, Sigma Web Development Course in video number 5.  In the folder, it is a CMS file.  In fact, I do a work."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 113.72,
-            "end": 121.08000000000001,
-            "text": " Why will we bring any other image?  I will do save images.  And here in the Sigma web development course  in the folder of video number 5,  this is a CMS file."
+            "start": 122.0,
+            "end": 131.0,
+            "text": " I will do a cancel.  I will take a snap.  Because I am going to go to the PNG in the extension of a CMS.  So, I have shot Windows, Shift and S-Divaya.  I have shot the sleeping tool."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 121.08000000000001,
-            "end": 127.24000000000001,
-            "text": " In fact, I will do one thing.  I will cancel this.  I will take its snip.  Because this is a CMS extension.  I will take it in PNG."
+            "start": 131.0,
+            "end": 141.0,
+            "text": " And if you do not know about it,  then you will know about Sigma Web Development Course.  You will know that if you will go to Windows, Shift and S-Divaya,  then your sleeping tool will be opened in Windows.  Do not know about it."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 127.24000000000001,
-            "end": 136.4,
-            "text": " So I pressed Windows, Shift and S here.  It is a shortcut for the snipping tool.  If you guys don't know,  then now you guys have come to know  through the Sigma web development course"
+            "start": 141.0,
+            "end": 146.0,
+            "text": " Do not know about it.  Do not know about it.  In the comment section, you will know about it.  Now, what will we do here?  Windows, Shift and S-Divaya."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 136.4,
-            "end": 144.72,
-            "text": " that if you press Windows, Shift and S,  then your snipping tool opens in Windows.  Who did not know this in the comment section?  Tell me honestly.  Now what we will do here?"
+            "start": 146.0,
+            "end": 152.0,
+            "text": " I have done it.  And I have started talking about it.  So, click here.  And save it here.  Or save the floppy disk option."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 144.76,
-            "end": 153.92,
-            "text": " I did Windows, Shift and S.  Then I got stuck in talking.  So here you click and save it here.  Here is the floppy disk option of save.  Click on it here."
+            "start": 152.0,
+            "end": 161.0,
+            "text": " Now, click here.  And go to the downloads.  Sigma Web Development Course in video number 5.  Image.  Image."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 153.92,
-            "end": 162.16,
-            "text": " And go to downloads,  go to the Sigma web development course  and save it in video 5.  Image.  Okay, I saved it in the name of image."
+            "start": 161.0,
+            "end": 166.0,
+            "text": " Now, we have saved the image.  Now, it is an IMG tag in HTML.  Now, it is an IMG tag in HTML.  Now, it is an IMG tag in HTML.  Now, it is an IMG tag in HTML."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 162.16,
-            "end": 170.44,
-            "text": " Now there is an IMG tag in HTML.  Now as soon as you put IMG,  both SRC and Alt are its required attributes.  In fact, it will work even if you don't write Alt.  But it is recommended."
+            "start": 166.0,
+            "end": 173.0,
+            "text": " Now, it is an IMG tag in HTML.  Now, it is an IMG tag in HTML.  I will explain to you that only theipher is recommended.  Now, let me tell you what are the attributes.  First, press the go to the USB or the images."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 170.44,
-            "end": 177.4,
-            "text": " I will tell you what happens with these two attributes.  First of all, if you write in SRC,  image.png.  You can see this image is here.  So this is image.png."
+            "start": 173.0,
+            "end": 184.0,
+            "text": " Look, this is an Image.PNG image.  Now, in the image.PNG, we will add the main clause into this.  Now, if I will prove it to you in the browser.  So, let me take this.  Here is an example."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 177.4,
-            "end": 186.68,
-            "text": " And I put train image in Alt.  Okay.  Now if I show it to you by previewing in the browser,  then see how it looks.  This is our page and this is the train image."
+            "start": 184.0,
+            "end": 190.0,
+            "text": " Now, this is a page in front of us.  And this is the page in front of us.  Now, this is the image in front of us.  What is the outcome?  Where we have written the Holmes search for then?"
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 186.68,
-            "end": 193.36,
-            "text": " What happened by doing this?  Where did the Alt that we wrote go?  You can say.  I will tell you where it went,  which we put in Alt."
+            "start": 190.0,
+            "end": 202.0,
+            "text": " I will tell you where the Alt is.  The Alt is not visible.  Manlo is not visible for some reason.  What will happen?  I have given the image to the Alt."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 193.36,
-            "end": 200.04000000000002,
-            "text": " So see, the thing we put in Alt,  we did not see it yet.  Assume for some reason,  the server cannot show you the image.  Okay, then what will happen?"
+            "start": 202.0,
+            "end": 212.0,
+            "text": " Image2.png file is not visible here.  What will happen?  What will happen?  The Alt will be displayed.  The Error image will be displayed."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 200.04000000000002,
-            "end": 206.76000000000002,
-            "text": " Assume I wrote image2 by mistake.  Now there is no file named image2.png here.  So what will be the error?  What will happen?  I'll show you what will happen."
+            "start": 212.0,
+            "end": 230.0,
+            "text": " You have put the image in the right place.  The Error image is displayed here.  This is how it looks.  The user knows what the image is.  If I come back here, you can write Alt."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 206.76000000000002,
-            "end": 215.28,
-            "text": " So here Alt will be displayed.  And this kind of error image will be displayed.  Which will tell that,  dude, the image you have put,  put it properly, dude."
+            "start": 230.0,
+            "end": 244.0,
+            "text": " I will not write Alt.  If I don't write Alt, I will not write Alt.  I will not write Alt.  When your server is mirrored, you can see the image.  The scenario of the user is written in the right place."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 215.28,
-            "end": 221.56,
-            "text": " You have done something wrong.  Or the URL of the server you have given,  there is no image there.  Okay.  These kinds of things are shown like this."
+            "start": 244.0,
+            "end": 254.0,
+            "text": " I hope you understand.  Image is straightforward.  There are two more attributes that are important.  There is a weight.  There is a weight in pixels."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 221.56,
-            "end": 227.60000000000002,
-            "text": " And Alt is visible there.  So the user knows  what is the purpose of this image.  Okay.  And now if I come back here,"
+            "start": 254.0,
+            "end": 264.0,
+            "text": " You can see the weight.  I will write the image first.  Image2.png is written here.  I have written 23 pixels.  There are many small pixels."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 227.60000000000002,
-            "end": 235.0,
-            "text": " then you can put Alt in the image like this.  What will happen if I don't put it in Alt?  If I don't put Alt,  then the Alt text that was coming,  will not come."
+            "start": 264.0,
+            "end": 280.0,
+            "text": " You don't need to write Px.  When we write the weight, we will see that we need to write Px.  If V edge is equal to double quotes, we can see.  In this case, if we simbove the image  If we see it here, we will see that it is smaller."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 235.0,
-            "end": 241.32,
-            "text": " Nothing else will happen.  So you don't want that when error comes in your server,  then the user sees this image.  You want that something like this,  the scenario should be made."
+            "start": 280.0,
+            "end": 292.0,
+            "text": " I lemme give it a prix to it.  If we see its height also at 230 percent  we need to assign it to an aspect ratio.  The width of the image is the same.  If you want to add height in it"
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 241.32,
-            "end": 246.48000000000002,
-            "text": " The user should see something like this.  Train image is written here.  See it like this.  Okay.  I hope you understood this."
+            "start": 292.0,
+            "end": 313.0,
+            "text": " by using a weight automatic heightcomplish  Now move it to weight by hitting the height.  You will see the automatic adjust in the width and height of the switch.  Now what happens is that you can adjust the height through CSS.  We will see in CSS section why we always have to set the height of the switch."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 246.48000000000002,
-            "end": 252.64000000000001,
-            "text": " So the image is very straightforward.  It has two more attributes,  which are very important.  One is width.  Which is width in pixels."
+            "start": 313.0,
+            "end": 331.0,
+            "text": " We always have to set one thing from the height of the switch.  When our page is loading, the image of the page is coming from the bottom of the page.  I will tell you in the coming videos.  You will see that the height of the switch is coming from the bottom of the page.  There are many people who say that they don't want to use it."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 252.64000000000001,
-            "end": 258.16,
-            "text": " If I say 23,  width is equal to,  then you can see.  In fact, I will correct the image first.  I wrote image2 by mistake."
+            "start": 331.0,
+            "end": 346.0,
+            "text": " But they want to use it for purpose.  Why should they do it?  I will tell you in the coming videos where I will tell you about core, vital and SEO.  Now you will see that the height of the switch is coming from the bottom of the page.  The second thing is that it is automatically set."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 258.64,
-            "end": 264.12,
-            "text": " Image.png is here.  So here you can see,  I have taken 23 pixels,  which is very small.  So I will make it 230 pixels."
+            "start": 346.0,
+            "end": 360.0,
+            "text": " And these values are in pixels.  And you don't have to write px or pixel.  Just write this number and that's it.  This is an attribute.  You can use a style attribute."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 264.52000000000004,
-            "end": 272.92,
-            "text": " You don't need to write px in this.  When we write width in CSS,  then we will see that we need to write px there.  Here we just write width is equal to,  in double quotes."
+            "start": 360.0,
+            "end": 373.0,
+            "text": " In fact, the style attribute can be used with all the tags.  Now we will talk about tables in the table.  The table tag is very useful.  What is the table tag?  I will tell you."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 273.24,
-            "end": 279.0,
-            "text": " As you can see.  Okay.  So if I bring it here,  then you see,  that we have seen this small image."
+            "start": 373.0,
+            "end": 385.0,
+            "text": " You will see the table tag.  Now I will copy the table here.  I will show you the table tag.  This is the table tag.  Here is the table tag."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 279.0,
-            "end": 286.28000000000003,
-            "text": " If I give its height too.  I mean, I give its height too.  I say if the height is also 230,  then its aspect ratio will also get reduced.  So it will get a little stretched."
+            "start": 385.0,
+            "end": 398.0,
+            "text": " Here is the name, Harry age 100.  Now I will add many more things here.  I will add some things here.  I will add names here.  I will add designation."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 286.28000000000003,
-            "end": 293.96,
-            "text": " Because it has made its width 230,  and its height 230.  As you can see.  Now if you want its height to be 230,  and its width to be automatically adjusted,"
+            "start": 398.0,
+            "end": 414.0,
+            "text": " I want to add more things here.  I will use all ship bottom.  I will use all ship bottom.  I want to write a favorite language.  I want to write it here."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 293.96,
-            "end": 300.68,
-            "text": " then you just use the height attribute.  Now remove the width one here.  So its height will be 230 pixels,  and as much as it can go in width,  it will go."
+            "start": 414.0,
+            "end": 426.0,
+            "text": " Now you will see the table.  Name, destination, favorite language.  What is this?  Let me tell you.  You will see that the table tag is not used."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 300.68,
-            "end": 306.84,
-            "text": " It will be automatically adjusted.  Now see,  it was automatically adjusted in width.  And in height, it took this.  Now what happens is that"
+            "start": 426.0,
+            "end": 438.0,
+            "text": " The table tag is called TR tag.  You will see the table tag.  Now if you want to use the table tag.  This is the table tag.  This is the name, destination, favorite language."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 306.84,
-            "end": 317.08,
-            "text": " width and height can be adjusted through CSS.  And we will see in the CSS section,  that why should we always set this width and height?  We should always set one thing from width and height.  Such that,"
+            "start": 438.0,
+            "end": 451.0,
+            "text": " What will happen in this table?  You will see that it will be a heading.  I will use a TH.  I will write the table tag.  I will write the first TR."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 317.08,
-            "end": 325.71999999999997,
-            "text": " when our page is loading,  then our image inside the page,  it doesn't come suddenly on the page.  I will tell you in the coming videos.  But now you understand that,"
+            "start": 451.0,
+            "end": 462.0,
+            "text": " I will add data.  I will add TD in table.  The table stands for table data.  The table stands for table data.  What will happen in this table?"
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 325.71999999999997,
-            "end": 334.04,
-            "text": " these attributes of width and height,  I have heard many people saying that,  they have been deprecated,  they should not be used now.  But I say they should be used for SEO purpose."
+            "start": 462.0,
+            "end": 472.0,
+            "text": " You will see that the table stands for table data.  You will see that the table stands for table data.  You will see that the table stands for table data.  You will see that the table stands for table data.  You will see that the table stands for table data."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 334.04,
-            "end": 341.88,
-            "text": " Why should we do it?  I will tell you in the coming videos,  where I will tell you about Core Web Vitals and SEO.  For now, you understand that,  width gives width to the image,"
+            "start": 472.0,
+            "end": 486.0,
+            "text": " You will see that the table stands for table data.  You will see that the table stands for table data.  You will see that the table stands for table data.  You will see that the table stands for table data.  You will see that the table stands for table data."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 341.88,
-            "end": 350.59999999999997,
-            "text": " height gives height to the image.  If one of the two is applied,  then the other one automatically gets set.  And these values are in pixels,  and you don't have to write px or pixel,"
+            "start": 486.0,
+            "end": 499.0,
+            "text": " You will see that the table stands for table data.  You will see that the table stands for table data.  It means how many rows will span your TD  For example, let us write here  I want Sam and Programmer to take one excel"
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 350.59999999999997,
-            "end": 356.76,
-            "text": " you just have to write this number.  And that's it.  This is an attribute,  height,  and an src attribute,"
+            "start": 499.0,
+            "end": 515.0,
+            "text": " I want Sam to write in 2 cells  I don't want Sam to write in 4th of the program  I want to write here that call span is equal to 2  So call span is equal to 2  Sam will take 2 columns"
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 356.76,
-            "end": 364.12,
-            "text": " and an alt attribute.  You can also use style attribute in this.  In fact, you can use style attribute,  with almost all the tags.  So this was about the image."
+            "start": 515.0,
+            "end": 528.0,
+            "text": " Sam will take 2 columns  I will show you Sam in this way  I will show you this way  So this is the whole column  So the call span is equal to how many columns will be taken"
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 364.12,
-            "end": 374.03999999999996,
-            "text": " Now we will talk about tables in HTML.  Table tag is very useful in HTML.  What happens with table tag?  I will tell you.  You get to see a table from table tag."
+            "start": 528.0,
+            "end": 539.0,
+            "text": " By default, one column will take one excel  But one excel will take 2 columns  To demonstrate this, I will explain to you  In excel, you will understand that this table is HTML  I will sometimes want to span 2 columns"
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 374.03999999999996,
-            "end": 381.64,
-            "text": " Now I copy this table from here,  and when I copy this table from here,  then you will see,  my page will look something like this.  So this is the HTML table."
+            "start": 539.0,
+            "end": 551.0,
+            "text": " So here we use merge cell  And here I write Sam  HTML is used in callspan  Sometimes we want to merge vertically  I mean, I want to merge in 2 cells"
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 382.36,
-            "end": 386.84,
-            "text": " Where is my preview page?  Here it is.  Look here, name,  Harry, age 100.  Okay."
+            "start": 551.0,
+            "end": 561.0,
+            "text": " We use rowspan  And we will use rowspan  We will use rowspan  We will use TD  We will use callspan"
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 386.84,
-            "end": 397.64,
-            "text": " Now if I put a lot of things here,  let's say I put something like this.  Let's say I put name,  and let's say I put designation.  Let's say I put Harry's designation,"
+            "start": 561.0,
+            "end": 571.0,
+            "text": " We will use rowspan  We will use rowspan  We will use rowspan  I hope you understood  When we will make tables, we will make HTML"
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 397.64,
-            "end": 407.32,
-            "text": " programmer.  And let's say I want to put more things.  I will use Alt Shift Bottom Arrow key.  I will use Alt Shift Bottom Arrow key.  And let's say I want to write,"
+            "start": 571.0,
+            "end": 581.0,
+            "text": " Then you will understand better  But I will show you this rowspan  Now I will write a rowpan  And then I will write a more TR  So you will see that this table is given to you"
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 407.32,
-            "end": 415.0,
-            "text": " favorite language.  And I want to write here,  let's say JavaScript.  Okay.  And now you see here,"
+            "start": 581.0,
+            "end": 591.0,
+            "text": " I will explain better to you  I will add CSS style  I will add a style sheet  And I will add a style sheet  I will add a style sheet"
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 415.0,
-            "end": 420.84,
-            "text": " this table will be made like this.  Name, destination, favorite language.  Okay.  So what is this?  How does it work?"
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 420.84,
-            "end": 426.28,
-            "text": " I will tell you.  So here you see,  we used table tag.  Table tag has a TR tag,  which is table row."
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 426.28,
-            "end": 435.0,
-            "text": " What will come in this row?  You will get to see this.  Now if you want to use this as a table heading,  you say that this is my table row,  that is, this is the row."
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 435.0,
-            "end": 441.23999999999995,
-            "text": " This row,  in which name, destination,  and your favorite language is written.  What will come in this row?  And what will come?"
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 441.23999999999995,
-            "end": 446.68,
-            "text": " What will happen?  Here you can see that,  there will be a heading.  So that's why I will use TH.  TH means table heading."
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 446.68,
-            "end": 453.56,
-            "text": " And we will write it only once.  So in the first TR,  we will write TH.  Once we put the heading on top,  then after that we will put the data."
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 453.56,
-            "end": 461.4,
-            "text": " So we will put TD in the table row,  which stands for table data.  And here you will put all the rows,  in the TR,  what will happen?"
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 461.4,
-            "end": 468.6,
-            "text": " Your rows will be added.  So here,  let's say I write SAM.  And this is also a programmer.  And let's say this is Java,"
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 468.6,
-            "end": 473.16,
-            "text": " its favorite language.  So these rows will be added,  under the table.  You can see here,  that these rows are being added."
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 473.16,
-            "end": 480.52,
-            "text": " They are being added.  We will see from CSS,  how it can be given a border.  It can be styled.  But this is how the default looks."
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 480.52,
-            "end": 489.08,
-            "text": " And yes, I know it is ugly.  But you guys just understand,  that the table works like this.  Now there are row span and call span attributes.  Now you see here,"
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 489.08,
-            "end": 497.40000000000003,
-            "text": " what does row span mean?  How many rows will be spanned by your TD?  For example,  let's say I write here,  I want SAM and programmer,"
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 497.40000000000003,
-            "end": 503.8,
-            "text": " earlier they were taking one cell.  SAM was taking one cell,  and programmer was taking one cell.  I want to write SAM,  in two cells."
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 503.8,
-            "end": 511.64,
-            "text": " So I don't want to write programmer,  I just want to write SAM.  And I want to write here,  that call span is equal to 2.  So call span is equal to 2 means,"
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 511.64,
-            "end": 519.32,
-            "text": " that SAM will now,  take the place of two columns.  What does it mean?  SAM will now take the place of two columns.  That is, SAM will look like this."
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 519.32,
-            "end": 525.8000000000001,
-            "text": " I will show you.  Something like this.  So it took the place of this whole column.  Okay?  So the call span means,"
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 525.8000000000001,
-            "end": 532.7600000000001,
-            "text": " how many columns will be spanned.  By default, only one cell will be spanned.  But sometimes one cell,  two columns will be spanned.  To demonstrate this,"
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 532.7600000000001,
-            "end": 539.08,
-            "text": " I will explain to you from Excel.  In Excel, you understand that,  this is a table of our HTML.  Sometimes I would like,  that it spans two columns,"
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 539.08,
-            "end": 547.08,
-            "text": " one data.  So here we use the merge cell.  And let's say I write SAM here.  In HTML, this thing is done,  using call span."
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 547.08,
-            "end": 555.96,
-            "text": " Sometimes we also want,  to merge vertically.  Let's say I want to merge these two cells.  There we use row span.  And with whom will we use row span?"
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 555.96,
-            "end": 562.44,
-            "text": " We will use row span,  with TD, obviously.  Okay?  So with TD, we were using call span,  and we were using row span."
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 562.44,
-            "end": 568.52,
-            "text": " If we use row span,  then it will span two rows like this.  Okay?  So I hope you understood this thing.  And when we make tables,"
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 568.52,
-            "end": 574.52,
-            "text": " when we make projects in HTML,  then you will understand better.  But I will show you,  the row span here quickly.  What happens?"
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 574.52,
-            "end": 579.88,
-            "text": " So if I write here,  row span is equal to 2.  And after this,  I will write another TR here.  So you will see,"
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 579.88,
-            "end": 587.4799999999999,
-            "text": " that my table is looking like this.  Now to explain this better,  I will put a CSS style here.  What I will do here?  I will add a style sheet."
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 587.4799999999999,
-            "end": 595.3199999999999,
-            "text": " And I am going to name this style sheet,  style.css.  So in style.css,  and you don't need to understand CSS now.  I will tell you already."
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 595.3199999999999,
+            "start": 591.0,
             "end": 601.0,
-            "text": " I will write in TD,  border,  2 pixel,  solid black.  And I will tell you all this,"
+            "text": " In style.css  And you will understand that it is not necessary  I will write in TD  I will write a border  To pixel solid black"
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
             "start": 601.0,
-            "end": 606.28,
-            "text": " how it works.  But for now,  you understand that I have put this,  to explain you.  So I said,"
+            "end": 611.0,
+            "text": " And I will tell you how to do it  I will explain to you  So I told you that  This is a Harry programmer  And I told you"
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 606.28,
-            "end": 609.64,
-            "text": " that this row,  in this,  will have Harry,  programmer,  and JavaScript."
+            "start": 611.0,
+            "end": 621.0,
+            "text": " How much rowspan is given to you?  How much rowspan was given to you?  So I told you  That my Java is a rowpan  So how much rows it will take?"
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 609.64,
-            "end": 616.04,
-            "text": " Then I said,  that this Sam,  what will be its row span?  Where did I give 2 row spans?  First I said,"
+            "start": 621.0,
+            "end": 633.0,
+            "text": " Obviously it will take 2 rows  So you can see that Java has taken 2 rows  So when Java has taken 2 rows,  I don't want Java to take the next one  So I won't write Java in the next one"
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 616.04,
-            "end": 622.4399999999999,
-            "text": " that,  my Java,  will have a row span of 2.  So how many rows will Java take?  Obviously 2."
+            "start": 633.0,
+            "end": 643.0,
+            "text": " So I won't write Java in the next one  I have taken 2 rowspan  So what can you see?  This was a Harry programmer  Then I told you that"
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 622.4399999999999,
-            "end": 628.28,
-            "text": " Okay?  So here Java will take 2 rows.  So here you can see,  Java has taken 2 rows.  So when Java has taken 2 rows,"
+            "start": 643.0,
+            "end": 655.0,
+            "text": " Sam will take 2 rows of rowspan  Sam will take 2 rows  And Java will take 2 rows  So you can see exactly why he took 2 rows  He took 2 rows"
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 628.28,
-            "end": 633.64,
-            "text": " it means I don't have to write Java in the next one.  Because its row is already filled.  So I won't write Java in the next one.  Okay?  So you see,"
+            "start": 655.0,
+            "end": 665.0,
+            "text": " So it can be used as a rowpan  In HTML  We can also add captions  And to add captions  We can use caption deck"
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 633.64,
-            "end": 638.68,
-            "text": " I won't write Java here.  I did its colspan 2.  So what happened by doing this?  You can see,  it was Harry,"
+            "start": 665.0,
+            "end": 675.0,
+            "text": " So I will show you that  If we will use caption  I will tell you that  You can see that in your page  You can see that"
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 638.68,
-            "end": 644.52,
-            "text": " programmer,  and JavaScript.  Then I said,  that this Sam,  its colspan is 2."
+            "start": 675.0,
+            "end": 685.0,
+            "text": " The caption can be added here  CSS also changes  Phone size  But you can see that  The caption will be added"
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 644.52,
-            "end": 651.56,
-            "text": " It means it will take 2 columns.  This Sam will also take 2 columns.  And this Java will take 2 rows.  So you can see,  exactly the same thing happened here."
+            "start": 685.0,
+            "end": 699.0,
+            "text": " You can see that  You can also add T-Head or T-Foot  Like if I add T-Head or T-Foot in content  If I add T-Head or Foot  You will see that"
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 651.56,
-            "end": 657.3199999999999,
-            "text": " It took 2 rows,  and it took 2 columns.  So in this way,  colspan and row span can be used,  in HTML."
+            "start": 699.0,
+            "end": 709.0,
+            "text": " You will see that T-Head or T-Foot will be added  You will see that T-Head or T-Foot will be added  Now I will tell you about one more  B-R-Tack line break  You will see that line break"
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 657.3199999999999,
-            "end": 664.1999999999999,
-            "text": " In HTML table,  we can also add captions.  And to add captions,  we can use some caption tag like this.  So I will show you,"
+            "start": 709.0,
+            "end": 719.0,
+            "text": " So this is the header  And then I will add Footer  I won't add here  I will add all the tables  Add the end"
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 664.1999999999999,
-            "end": 669.56,
-            "text": " that in the table,  if we use the caption,  student details,  or I will say,  employee details."
+            "start": 719.0,
+            "end": 729.0,
+            "text": " Now I can change CSS  Now I will add header  Footer's content  From T-Head or T-Foot  I will add header"
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 669.56,
-            "end": 676.2,
-            "text": " So your page will look like this.  You can see here,  that the caption of employee details,  will be added here.  Now with CSS,"
+            "start": 729.0,
+            "end": 739.0,
+            "text": " From T-Head  From T-Head  From T-Head  From T-Head  From T-Head"
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 676.2,
-            "end": 679.88,
-            "text": " it can also be changed,  its font,  its font size.  But for now,  by default,"
+            "start": 739.0,
+            "end": 748.0,
+            "text": " From T-Head  From T-Head  From T-Head  Now I will add some data  I am going to add a T-Head"
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 679.88,
-            "end": 686.44,
-            "text": " it looks like this.  The caption comes up.  You will see the employee details like this.  Along with that,  you can also give header and footer."
+            "start": 748.0,
+            "end": 760.0,
+            "text": " From T-Head  From T-Head  From T-Head  From T-Head  From T-Head"
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 686.44,
-            "end": 694.04,
-            "text": " You can give T head and T foot here.  Like if I put some content,  in T head and T foot.  Something like this.  If I put here,"
+            "start": 760.0,
+            "end": 770.0,
+            "text": " From T-Head  From T-Head  From T-Head  From T-Head  There are 3 ways"
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 694.04,
-            "end": 701.0,
-            "text": " if I put here,  header,  and if I put footer here,  then you will get to see T head and T foot,  like this."
+            "start": 770.0,
+            "end": 792.0,
+            "text": " I will show you the foot.  You can see the last one is the foot.  We have only grouping it so that we can target it.  You can use it very less but you can do it like this.  Your table will be head content and foot content."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 701.0,
-            "end": 705.4,
-            "text": " You can see here,  header has come,  and footer has come here.  Now I will tell you about one more tag,  which is called br tag,"
+            "start": 792.0,
+            "end": 804.0,
+            "text": " Body content comes in between head and foot.  You can write it like this.  But ideally head and foot content comes in between head and foot content.  I hope you all understood.  That's all about HTML tables."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 705.4,
-            "end": 709.64,
-            "text": " which adds line break.  So after the image,  a line break will come here.  You can see,  everything has come down."
+            "start": 804.0,
+            "end": 816.0,
+            "text": " You don't need to know more about HTML.  Now we will talk about list.  List is a lot of important in HTML.  List will be used a lot.  There are 3 types of list in HTML."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 709.64,
-            "end": 716.92,
-            "text": " So this is the header.  And after this,  I will obviously add footer down.  I will not add it here.  So I will add it after my entire table,"
+            "start": 816.0,
+            "end": 826.0,
+            "text": " We have an ordered list and an ordered list.  It is a definition list.  Most of the users have an ordered list.  First, let's look at an ordered list.  We want to find out that we have an ordered date."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 716.92,
-            "end": 723.24,
-            "text": " at the end.  So this is my table footer.  Now I can change this with CSS.  Now here,  I will give T head and T footer,"
+            "start": 826.0,
+            "end": 837.0,
+            "text": " Let me write an URL here.  I will write an URL here like that.  I can write an L.I.  I can write Harry.  I can write Rohan."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 723.24,
-            "end": 730.28,
-            "text": " and I can group it like this.  So what will be the header of my table?  This is what I have written here,  TH.  I can group it."
+            "start": 837.0,
+            "end": 850.0,
+            "text": " I can write Shubham.  When I write Harry Rohan Shubham here,  I will write that an ordered list.  Harry Rohan Shubham is here.  There is no order."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 730.28,
-            "end": 738.36,
-            "text": " I can put it in T head.  Along with that,  the content inside the table,  will come inside the T body.  So what will come inside the T body?"
+            "start": 850.0,
+            "end": 861.0,
+            "text": " There is no 1-2-3-4.  I can write an oral.  If I write an opening,  I will write an oral.  It will be ordered list."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 738.36,
-            "end": 744.6,
-            "text": " Something like this,  my table content will come.  As you can see.  And after this,  if I write T foot here,"
+            "start": 861.0,
+            "end": 871.0,
+            "text": " There is 1-2-3.  You can do it with a PBCB.  You can do it with a capital A.  You can do Roman numbers.  You can do it with CSS."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 744.6,
-            "end": 751.88,
-            "text": " and I want to add some data at the end.  So I will add one more TR.  As you can see,  I will do it right,  and I will do the format document."
+            "start": 871.0,
+            "end": 882.0,
+            "text": " You can do it here.  If you select an L.I.  You can see an L.I.  Here, this is 1-2-3.  This is the order list example."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 751.96,
-            "end": 760.36,
-            "text": " So it will be a better format.  Assume that I want to put this kind of TR,  and I want to group it in T foot.  So this is just a way to group.  That is, I have put it inside T foot."
+            "start": 882.0,
+            "end": 892.0,
+            "text": " This is the definition list example.  The definition list is very less used.  There is a preview of this.  First of all, I have taken the heading.  Then I have written a DL."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 761.0,
-            "end": 767.4,
-            "text": " Some TRs,  I have put inside T body,  which is my main body.  And I have put it inside T head,  which is my table header."
+            "start": 892.0,
+            "end": 903.0,
+            "text": " DL means definition list.  DT means DD.  The definition term is the definition of this.  This is the definition of this.  You can change it in CSS."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 767.4,
-            "end": 771.88,
-            "text": " And obviously,  nothing will change with this.  I have just grouped it.  Look here,  our,"
+            "start": 903.0,
+            "end": 913.0,
+            "text": " It is very less used.  But you should know about this.  What is the definition list?  This is the preview of the code.  I am also writing this."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 771.88,
-            "end": 777.56,
-            "text": " I do one thing,  I write footer here,  so that you can know that it is a footer.  I write foot here.  And you can see here,"
+            "start": 913.0,
+            "end": 923.0,
+            "text": " But try it out.  First of all, we will look at an oral list.  You have told us about an oral list.  It is very simple and straightforward.  You can use it as bullet points."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 777.56,
-            "end": 786.1999999999999,
-            "text": " that the last row is foot.  Now what is the point of doing this?  We have just grouped it.  So that we can target it ahead of CSS.  So you will use this very little."
+            "start": 923.0,
+            "end": 935.0,
+            "text": " You can use it as type attribute.  You can use it as type is equal to square.  You can use it as type is equal to square.  You can use it as type is equal to square.  You can use it as type is equal to square."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 786.1999999999999,
-            "end": 792.5999999999999,
-            "text": " But you can do grouping like this.  Your whole table,  head content will come here,  foot content will come here.  And body content,"
+            "start": 935.0,
+            "end": 949.0,
+            "text": " You can use it as sort of like a square.  I can use it as type to describe it.  Desk by default.  This is the goal by default.  I can use this as code as a circle."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 792.5999999999999,
-            "end": 798.68,
-            "text": " in fact, comes in between head and foot.  But you can write it here in any way.  But ideally,  head,  body,"
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 798.68,
-            "end": 807.0799999999999,
-            "text": " and then after that comes foot.  Okay?  I hope you understood this thing.  So that's all about HTML tables.  You don't need to know more than this."
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 807.0799999999999,
-            "end": 816.6,
-            "text": " And now we will talk about the list here.  List is very important in HTML.  Because we will use the list a lot.  There are three types of lists in HTML.  One is ordered list,"
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 816.6,
-            "end": 824.44,
-            "text": " one is unordered list,  and one is definition list.  The most used are unordered and ordered list.  First, let's look at the unordered list.  Whenever we want,"
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 824.44,
-            "end": 833.72,
-            "text": " that we have unordered data.  Like I write ul here.  So as soon as I write ul here,  it means that unordered list.  I can write li in it."
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 833.72,
-            "end": 840.5999999999999,
-            "text": " And I can write Harry.  And after that I can write Rohan.  Okay?  And after that I can write Shubham.  Okay?"
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 840.5999999999999,
-            "end": 848.52,
-            "text": " So when I write Harry, Rohan, Shubham here,  then when I write ul,  it will come like this.  This is unordered list.  See, Harry, Rohan, Shubham came here."
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 848.52,
-            "end": 858.04,
-            "text": " They have no order.  There is no 1, 2, 3, 4 in it.  But if I want it to be ordered,  then I can write this thing with the help of ol.  So if I make its opening closing tag ol"
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 858.04,
-            "end": 865.8,
-            "text": " and keep the rest the same,  then it will be ordered list.  Okay?  So here it will come 1, 2, 3.  You can do this 1, 2, 3 with ABC."
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 865.8,
-            "end": 873.0799999999999,
-            "text": " You can do capital ABC.  You can also do Roman numbers.  You can also do it with the help of CSS.  There are other ways to do it.  You can see here"
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 873.0799999999999,
-            "end": 879.7199999999999,
-            "text": " in this image  that if you align it in ul,  then it will come like this.  You can see in this image  if you align it in ol,"
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 879.7199999999999,
-            "end": 886.8399999999999,
-            "text": " then it will be 1, 2, 3.  This is an example of ordered list.  And this is an example of definition list.  Definition list is very less used.  It is previewed like this."
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 886.8399999999999,
-            "end": 897.0,
-            "text": " Here, first I have put a heading  and then I have written dl.  dl means definition list.  After this dt and then dd.  So here the definition term is there"
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 897.08,
-            "end": 905.0,
-            "text": " and then the definition of its definition is there.  So it comes like this.  And you can also change it with CSS.  It is very less used.  But you should know about it"
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 905.0,
-            "end": 910.76,
-            "text": " for interviews.  The interviewer asks  what is a definition list?  So this kind of code  is previewed like this."
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 910.76,
-            "end": 915.72,
-            "text": " I am also not showing it by writing  for the sake of time.  But try it out.  Okay?  And here first of all"
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 915.72,
-            "end": 924.6,
-            "text": " we will see the unordered list.  I have told you about unordered list.  It is very simple and straightforward.  You can customize its bullet points  by using type attribute."
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 924.6,
-            "end": 934.12,
-            "text": " Like if I square type here.  I will say here type is equal to  and let's say I write here square.  Okay?  So I have written type is equal to"
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 934.12,
-            "end": 942.68,
-            "text": " square in ul.  So it has appeared like a square.  Similarly, I can circle  the type in ul.  I can square it."
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 942.68,
-            "end": 948.04,
-            "text": " I can disc it.  Disc is by default.  That means the bullet is by default.  Okay?  I can square it."
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 948.04,
-            "end": 955.64,
-            "text": " I can circle it.  Okay?  Along with that,  you can add any other list items  in the list items."
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 955.64,
+            "start": 949.0,
             "end": 961.0,
-            "text": " Now let's see the ordered list  a little more closely.  In the ordered list,  if you write li here,  it will come like this."
+            "text": " Along with this,  you can also add  the list sum in other types of rules.  Now let check the order list in order list.  On order list, you will write in order."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
             "start": 961.0,
-            "end": 967.4,
-            "text": " 1, 2, 3.  But you can use  type is equal to i.  When you use type is equal to i,  then you will get uppercase roman numbers."
+            "end": 980.0,
+            "text": " 1,2,3 on click list.  Type is equal to i. When you are using type is equal to i, then you will get case Roman numbers.  Type is equal to small i, then lower case Roman numbers will get. Type is equal to 1, that is default.  If you are using small i, then you will get alpha medical and capital.  Then you will get the case alpha medical."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 967.4,
-            "end": 975.16,
-            "text": " If you type is equal to small i,  then you will get lowercase roman numbers.  Type is equal to 1 is by default.  You don't need to do this.  If you type small a,"
+            "start": 980.0,
+            "end": 993.0,
+            "text": " If you are looking at this, then type is equal to capital.  I will take capital. You see, we have an example of VS code.  We are giving suggestions.  And it is easy for us to see the possible values of this code.  So, VS code is very useful."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 975.16,
-            "end": 983.08,
-            "text": " then you will get alphabetical.  And if you type capital a,  then you will get uppercase alphabetical.  So let's do this once.  So I will type is equal to"
+            "start": 993.0,
+            "end": 1006.0,
+            "text": " And a lot of people used old editors.  If you know their correct plugins, then you will get a lot of set.  So, let's do VS code modern.  Switch to VS code. You can use all the VS codes.  You can use all the VS codes."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 983.08,
-            "end": 991.32,
-            "text": " I will type capital a.  Now see VS Code is giving us examples,  giving suggestions.  And it becomes easy for us  to see the possible values of it."
+            "start": 1006.0,
+            "end": 1019.0,
+            "text": " If you want to do in mobile, then comment on the template.  What is the name of the template?  And I want to give a shout out to a template.  Because I use it a lot. I like it a lot.  So, you can use your template.com in your mobile."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 991.32,
-            "end": 999.16,
-            "text": " So VS Code is very useful.  And many people are using old editors  which were used a long time ago.  If you know their correct plugins,  and you are very much set in it,"
+            "start": 1019.0,
+            "end": 1029.0,
+            "text": " If you don't have a computer power computer, then you can use it.  If you get templates, then you will get it.  We will cover more videos.  But I will stick to VS code.  I hope that you have understood the order list."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 999.16,
-            "end": 1004.36,
-            "text": " then you can do it.  VS Code is modern.  Switch to VS Code.  Everyone uses VS Code.  You can see all the big developers"
+            "start": 1029.0,
+            "end": 1041.0,
+            "text": " An order list definition list.  Now, if you have completed 5 videos, I would like to share with you  a comment on the first video.  How do you feel about 5 stars?  Did you review this course?"
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 1004.36,
-            "end": 1012.36,
-            "text": " using VS Code.  If you want to do coding on mobile,  I recommend Replit.  An app called Replit comes.  And I would like to give a shoutout"
+            "start": 1041.0,
+            "end": 1051.0,
+            "text": " Did you see 5 videos?  I know that the order is delayed.  I don't know the order.  I do not do comments on YouTube.  But, I want to comment on this video."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 1012.36,
-            "end": 1018.6800000000001,
-            "text": " to Replit.com here.  Because I use it a lot.  And I think it's very good.  So you can use Replit.com  on your mobile too."
+            "start": 1051.0,
+            "end": 1061.0,
+            "text": " You can comment on it.  I am telling you how to do this course.  I would like to write a lot of motivation in the comments.  I would like to write a lot of comments.  This way, we will get 2-V interaction."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 1018.6800000000001,
-            "end": 1026.28,
-            "text": " If your computer power is not that much,  then you can use it.  You get templates in it.  We will cover it more in the coming videos.  But now I will stick to VS Code."
+            "start": 1061.0,
+            "end": 1071.0,
+            "text": " I will try to comment on this.  I will try to comment on this.  I will give a description to the source code.  I will make a playlist in the description.  I will like the video."
         },
         {
             "number": "5",
             "title": "Image, Lists, and Tables in HTML",
-            "start": 1026.28,
-            "end": 1031.88,
-            "text": " I hope you understood here  ordered list,  unordered list,  definition list.  Now see, we have completed 5 videos"
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 1031.88,
-            "end": 1039.32,
-            "text": " in the Sigma web development series.  I want you to go to the first video  and put your comment  that how do you like this course.  Give me a star out of 5 stars"
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 1039.32,
-            "end": 1046.28,
-            "text": " that what is the initial review of this course.  You watched 5 videos.  According to that,  I know that after one minute of delay,  Swiggy Zomato Delivery Redrick"
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 1046.28,
-            "end": 1054.2,
-            "text": " was a person who does this and that.  Nowadays, YouTube doesn't comment that much.  But still I want your comment  that you guys comment below.  Tell me how is the course going."
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 1054.2,
-            "end": 1061.64,
-            "text": " Go to the first video  and keep writing Sigma batch OP in the comment.  You get a lot of motivation.  This way we will have a two-way interaction.  If you guys keep commenting me,"
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 1061.64,
-            "end": 1067.4,
-            "text": " I will keep watching.  I feel very good.  I feel a two-way interaction.  So I will give the source code in the description.  Access it."
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 1067.4,
-            "end": 1073.8000000000002,
-            "text": " Here is the playlist.  Access it.  Like the video.  Write Sigma batch OP in the comment.  And give your village land to me."
-        },
-        {
-            "number": "5",
-            "title": "Image, Lists, and Tables in HTML",
-            "start": 1073.8000000000002,
-            "end": 1077.96,
-            "text": " Thank you so much guys for watching this video.  And I will see you next time."
+            "start": 1071.0,
+            "end": 1078.0,
+            "text": " Write a lot of comments.  Thank you so much for watching this video and I will see you next time."
         }
     ],
-    "text": " In this video, we will see how images are made, lists are made in HTML and tables are made. So like the video. I know very few people like videos on YouTube. But if you do, thanks to your support, I get the motivation to bring such free courses. So let's go to the computer screen starting the 5th video of the Sigma Web Development course. Let's roll the intro. So guys, I have come to my computer screen. As you can see, I want to tell you first that bookmark getup.com slash code with Harry. In fact, bookmark this repository so that you get all the code. Second thing, click here and bookmark the playlist. Click here and click on the star and click here to save. This playlist will be yours. Now the first thing I will tell you here is about the image. What is the image in HTML? So what we will do here is quickly make a folder. New folder by the name of video 5. And here video 5. So you must know that by clicking on shift right open with code. This time I will make it very fast because I have already told you. But if you want you guys to see this welcome page again and again, then uncheck the show welcome page on startup here. And you will not see this again and again. But what are we doing? We will make index.html, we will zoom in a little by mouse wheel, we will toggle the screencast port so that you guys will know which button I am pressing when and why. Now I will put an exclamation mark and bring the emmet abbreviation here. And here I will do view word wrap. You have to work hard. You can see here that your word wrap is closed. Okay, so what will happen here now? That horizontal scroll bar will not come. Okay, now what I will do is write images here. First of all, I will write images here. And what I will do here is simply that I will bring an image. Now you can bring the image from the internet. I will write here. Let us say we want to bring an image of a train. Okay, images of a train. Because we have driven a lot of trains in this course. So we will bring images of a train. Why will we bring any other image? I will do save images. And here in the Sigma web development course in the folder of video number 5, this is a CMS file. In fact, I will do one thing. I will cancel this. I will take its snip. Because this is a CMS extension. I will take it in PNG. So I pressed Windows, Shift and S here. It is a shortcut for the snipping tool. If you guys don't know, then now you guys have come to know through the Sigma web development course that if you press Windows, Shift and S, then your snipping tool opens in Windows. Who did not know this in the comment section? Tell me honestly. Now what we will do here? I did Windows, Shift and S. Then I got stuck in talking. So here you click and save it here. Here is the floppy disk option of save. Click on it here. And go to downloads, go to the Sigma web development course and save it in video 5. Image. Okay, I saved it in the name of image. Now there is an IMG tag in HTML. Now as soon as you put IMG, both SRC and Alt are its required attributes. In fact, it will work even if you don't write Alt. But it is recommended. I will tell you what happens with these two attributes. First of all, if you write in SRC, image.png. You can see this image is here. So this is image.png. And I put train image in Alt. Okay. Now if I show it to you by previewing in the browser, then see how it looks. This is our page and this is the train image. What happened by doing this? Where did the Alt that we wrote go? You can say. I will tell you where it went, which we put in Alt. So see, the thing we put in Alt, we did not see it yet. Assume for some reason, the server cannot show you the image. Okay, then what will happen? Assume I wrote image2 by mistake. Now there is no file named image2.png here. So what will be the error? What will happen? I'll show you what will happen. So here Alt will be displayed. And this kind of error image will be displayed. Which will tell that, dude, the image you have put, put it properly, dude. You have done something wrong. Or the URL of the server you have given, there is no image there. Okay. These kinds of things are shown like this. And Alt is visible there. So the user knows what is the purpose of this image. Okay. And now if I come back here, then you can put Alt in the image like this. What will happen if I don't put it in Alt? If I don't put Alt, then the Alt text that was coming, will not come. Nothing else will happen. So you don't want that when error comes in your server, then the user sees this image. You want that something like this, the scenario should be made. The user should see something like this. Train image is written here. See it like this. Okay. I hope you understood this. So the image is very straightforward. It has two more attributes, which are very important. One is width. Which is width in pixels. If I say 23, width is equal to, then you can see. In fact, I will correct the image first. I wrote image2 by mistake. Image.png is here. So here you can see, I have taken 23 pixels, which is very small. So I will make it 230 pixels. You don't need to write px in this. When we write width in CSS, then we will see that we need to write px there. Here we just write width is equal to, in double quotes. As you can see. Okay. So if I bring it here, then you see, that we have seen this small image. If I give its height too. I mean, I give its height too. I say if the height is also 230, then its aspect ratio will also get reduced. So it will get a little stretched. Because it has made its width 230, and its height 230. As you can see. Now if you want its height to be 230, and its width to be automatically adjusted, then you just use the height attribute. Now remove the width one here. So its height will be 230 pixels, and as much as it can go in width, it will go. It will be automatically adjusted. Now see, it was automatically adjusted in width. And in height, it took this. Now what happens is that width and height can be adjusted through CSS. And we will see in the CSS section, that why should we always set this width and height? We should always set one thing from width and height. Such that, when our page is loading, then our image inside the page, it doesn't come suddenly on the page. I will tell you in the coming videos. But now you understand that, these attributes of width and height, I have heard many people saying that, they have been deprecated, they should not be used now. But I say they should be used for SEO purpose. Why should we do it? I will tell you in the coming videos, where I will tell you about Core Web Vitals and SEO. For now, you understand that, width gives width to the image, height gives height to the image. If one of the two is applied, then the other one automatically gets set. And these values are in pixels, and you don't have to write px or pixel, you just have to write this number. And that's it. This is an attribute, height, and an src attribute, and an alt attribute. You can also use style attribute in this. In fact, you can use style attribute, with almost all the tags. So this was about the image. Now we will talk about tables in HTML. Table tag is very useful in HTML. What happens with table tag? I will tell you. You get to see a table from table tag. Now I copy this table from here, and when I copy this table from here, then you will see, my page will look something like this. So this is the HTML table. Where is my preview page? Here it is. Look here, name, Harry, age 100. Okay. Now if I put a lot of things here, let's say I put something like this. Let's say I put name, and let's say I put designation. Let's say I put Harry's designation, programmer. And let's say I want to put more things. I will use Alt Shift Bottom Arrow key. I will use Alt Shift Bottom Arrow key. And let's say I want to write, favorite language. And I want to write here, let's say JavaScript. Okay. And now you see here, this table will be made like this. Name, destination, favorite language. Okay. So what is this? How does it work? I will tell you. So here you see, we used table tag. Table tag has a TR tag, which is table row. What will come in this row? You will get to see this. Now if you want to use this as a table heading, you say that this is my table row, that is, this is the row. This row, in which name, destination, and your favorite language is written. What will come in this row? And what will come? What will happen? Here you can see that, there will be a heading. So that's why I will use TH. TH means table heading. And we will write it only once. So in the first TR, we will write TH. Once we put the heading on top, then after that we will put the data. So we will put TD in the table row, which stands for table data. And here you will put all the rows, in the TR, what will happen? Your rows will be added. So here, let's say I write SAM. And this is also a programmer. And let's say this is Java, its favorite language. So these rows will be added, under the table. You can see here, that these rows are being added. They are being added. We will see from CSS, how it can be given a border. It can be styled. But this is how the default looks. And yes, I know it is ugly. But you guys just understand, that the table works like this. Now there are row span and call span attributes. Now you see here, what does row span mean? How many rows will be spanned by your TD? For example, let's say I write here, I want SAM and programmer, earlier they were taking one cell. SAM was taking one cell, and programmer was taking one cell. I want to write SAM, in two cells. So I don't want to write programmer, I just want to write SAM. And I want to write here, that call span is equal to 2. So call span is equal to 2 means, that SAM will now, take the place of two columns. What does it mean? SAM will now take the place of two columns. That is, SAM will look like this. I will show you. Something like this. So it took the place of this whole column. Okay? So the call span means, how many columns will be spanned. By default, only one cell will be spanned. But sometimes one cell, two columns will be spanned. To demonstrate this, I will explain to you from Excel. In Excel, you understand that, this is a table of our HTML. Sometimes I would like, that it spans two columns, one data. So here we use the merge cell. And let's say I write SAM here. In HTML, this thing is done, using call span. Sometimes we also want, to merge vertically. Let's say I want to merge these two cells. There we use row span. And with whom will we use row span? We will use row span, with TD, obviously. Okay? So with TD, we were using call span, and we were using row span. If we use row span, then it will span two rows like this. Okay? So I hope you understood this thing. And when we make tables, when we make projects in HTML, then you will understand better. But I will show you, the row span here quickly. What happens? So if I write here, row span is equal to 2. And after this, I will write another TR here. So you will see, that my table is looking like this. Now to explain this better, I will put a CSS style here. What I will do here? I will add a style sheet. And I am going to name this style sheet, style.css. So in style.css, and you don't need to understand CSS now. I will tell you already. I will write in TD, border, 2 pixel, solid black. And I will tell you all this, how it works. But for now, you understand that I have put this, to explain you. So I said, that this row, in this, will have Harry, programmer, and JavaScript. Then I said, that this Sam, what will be its row span? Where did I give 2 row spans? First I said, that, my Java, will have a row span of 2. So how many rows will Java take? Obviously 2. Okay? So here Java will take 2 rows. So here you can see, Java has taken 2 rows. So when Java has taken 2 rows, it means I don't have to write Java in the next one. Because its row is already filled. So I won't write Java in the next one. Okay? So you see, I won't write Java here. I did its colspan 2. So what happened by doing this? You can see, it was Harry, programmer, and JavaScript. Then I said, that this Sam, its colspan is 2. It means it will take 2 columns. This Sam will also take 2 columns. And this Java will take 2 rows. So you can see, exactly the same thing happened here. It took 2 rows, and it took 2 columns. So in this way, colspan and row span can be used, in HTML. In HTML table, we can also add captions. And to add captions, we can use some caption tag like this. So I will show you, that in the table, if we use the caption, student details, or I will say, employee details. So your page will look like this. You can see here, that the caption of employee details, will be added here. Now with CSS, it can also be changed, its font, its font size. But for now, by default, it looks like this. The caption comes up. You will see the employee details like this. Along with that, you can also give header and footer. You can give T head and T foot here. Like if I put some content, in T head and T foot. Something like this. If I put here, if I put here, header, and if I put footer here, then you will get to see T head and T foot, like this. You can see here, header has come, and footer has come here. Now I will tell you about one more tag, which is called br tag, which adds line break. So after the image, a line break will come here. You can see, everything has come down. So this is the header. And after this, I will obviously add footer down. I will not add it here. So I will add it after my entire table, at the end. So this is my table footer. Now I can change this with CSS. Now here, I will give T head and T footer, and I can group it like this. So what will be the header of my table? This is what I have written here, TH. I can group it. I can put it in T head. Along with that, the content inside the table, will come inside the T body. So what will come inside the T body? Something like this, my table content will come. As you can see. And after this, if I write T foot here, and I want to add some data at the end. So I will add one more TR. As you can see, I will do it right, and I will do the format document. So it will be a better format. Assume that I want to put this kind of TR, and I want to group it in T foot. So this is just a way to group. That is, I have put it inside T foot. Some TRs, I have put inside T body, which is my main body. And I have put it inside T head, which is my table header. And obviously, nothing will change with this. I have just grouped it. Look here, our, I do one thing, I write footer here, so that you can know that it is a footer. I write foot here. And you can see here, that the last row is foot. Now what is the point of doing this? We have just grouped it. So that we can target it ahead of CSS. So you will use this very little. But you can do grouping like this. Your whole table, head content will come here, foot content will come here. And body content, in fact, comes in between head and foot. But you can write it here in any way. But ideally, head, body, and then after that comes foot. Okay? I hope you understood this thing. So that's all about HTML tables. You don't need to know more than this. And now we will talk about the list here. List is very important in HTML. Because we will use the list a lot. There are three types of lists in HTML. One is ordered list, one is unordered list, and one is definition list. The most used are unordered and ordered list. First, let's look at the unordered list. Whenever we want, that we have unordered data. Like I write ul here. So as soon as I write ul here, it means that unordered list. I can write li in it. And I can write Harry. And after that I can write Rohan. Okay? And after that I can write Shubham. Okay? So when I write Harry, Rohan, Shubham here, then when I write ul, it will come like this. This is unordered list. See, Harry, Rohan, Shubham came here. They have no order. There is no 1, 2, 3, 4 in it. But if I want it to be ordered, then I can write this thing with the help of ol. So if I make its opening closing tag ol and keep the rest the same, then it will be ordered list. Okay? So here it will come 1, 2, 3. You can do this 1, 2, 3 with ABC. You can do capital ABC. You can also do Roman numbers. You can also do it with the help of CSS. There are other ways to do it. You can see here in this image that if you align it in ul, then it will come like this. You can see in this image if you align it in ol, then it will be 1, 2, 3. This is an example of ordered list. And this is an example of definition list. Definition list is very less used. It is previewed like this. Here, first I have put a heading and then I have written dl. dl means definition list. After this dt and then dd. So here the definition term is there and then the definition of its definition is there. So it comes like this. And you can also change it with CSS. It is very less used. But you should know about it for interviews. The interviewer asks what is a definition list? So this kind of code is previewed like this. I am also not showing it by writing for the sake of time. But try it out. Okay? And here first of all we will see the unordered list. I have told you about unordered list. It is very simple and straightforward. You can customize its bullet points by using type attribute. Like if I square type here. I will say here type is equal to and let's say I write here square. Okay? So I have written type is equal to square in ul. So it has appeared like a square. Similarly, I can circle the type in ul. I can square it. I can disc it. Disc is by default. That means the bullet is by default. Okay? I can square it. I can circle it. Okay? Along with that, you can add any other list items in the list items. Now let's see the ordered list a little more closely. In the ordered list, if you write li here, it will come like this. 1, 2, 3. But you can use type is equal to i. When you use type is equal to i, then you will get uppercase roman numbers. If you type is equal to small i, then you will get lowercase roman numbers. Type is equal to 1 is by default. You don't need to do this. If you type small a, then you will get alphabetical. And if you type capital a, then you will get uppercase alphabetical. So let's do this once. So I will type is equal to I will type capital a. Now see VS Code is giving us examples, giving suggestions. And it becomes easy for us to see the possible values of it. So VS Code is very useful. And many people are using old editors which were used a long time ago. If you know their correct plugins, and you are very much set in it, then you can do it. VS Code is modern. Switch to VS Code. Everyone uses VS Code. You can see all the big developers using VS Code. If you want to do coding on mobile, I recommend Replit. An app called Replit comes. And I would like to give a shoutout to Replit.com here. Because I use it a lot. And I think it's very good. So you can use Replit.com on your mobile too. If your computer power is not that much, then you can use it. You get templates in it. We will cover it more in the coming videos. But now I will stick to VS Code. I hope you understood here ordered list, unordered list, definition list. Now see, we have completed 5 videos in the Sigma web development series. I want you to go to the first video and put your comment that how do you like this course. Give me a star out of 5 stars that what is the initial review of this course. You watched 5 videos. According to that, I know that after one minute of delay, Swiggy Zomato Delivery Redrick was a person who does this and that. Nowadays, YouTube doesn't comment that much. But still I want your comment that you guys comment below. Tell me how is the course going. Go to the first video and keep writing Sigma batch OP in the comment. You get a lot of motivation. This way we will have a two-way interaction. If you guys keep commenting me, I will keep watching. I feel very good. I feel a two-way interaction. So I will give the source code in the description. Access it. Here is the playlist. Access it. Like the video. Write Sigma batch OP in the comment. And give your village land to me. Thank you so much guys for watching this video. And I will see you next time."
+    "text": ""
 }
