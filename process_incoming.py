@@ -1,10 +1,14 @@
+import os
 import requests
 import json
 import pandas as pd
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 import joblib
+from groq import Groq
+from groq_api import groq_api
 
+os.environ["GROQ_API_KEY"] = groq_api
 
 def create_embedding(text_list):
     r =requests.post("http://localhost:11434/api/embed", json={
@@ -16,14 +20,24 @@ def create_embedding(text_list):
     return embedding
 
 def inference(prompt):
-    r =requests.post("http://localhost:11434/api/generate", json={
-        "model": "llama3.2", 
-        "prompt": prompt,
-        "stream": False
-    })
+    # Try Groq first
+    try:
+        client = Groq(api_key=os.environ.get("GROQ_API_KEY"))
+        chat_completion = client.chat.completions.create(
+            messages=[{"role": "user", "content": prompt}],
+            model="llama-3.3-70b-versatile",
+        )
+        return chat_completion.choices[0].message.content
 
-    response =r.json()
-    return response
+    # If Groq fails, fall back to Ollama
+    except Exception as e:
+        print(f"Groq failed ({e}), falling back to Ollama...")
+        r = requests.post("http://localhost:11434/api/generate", json={
+            "model": "llama3.2",
+            "prompt": prompt,
+            "stream": False
+        })
+        return r.json()["response"]
 
 df = joblib.load("embeddings.joblib")
 input_query = input("Ask a question: ")
@@ -47,7 +61,7 @@ I am teaching web development using Sigma Web Development couse. Here are video 
 User aked this question related to video chunks, you have to answer in a human way (dont mention the above format, ts just for you) where and how much content is taught in which video (in which video and what timstamp) and guide the user to go to that particular video. If user asks unrelated questions, tell him that you can only answer questions related to the course.
 '''
 
-response = inference(prompt)["response"]
+response = inference(prompt)
 print(response)
 with open ("response.txt", "w") as f:
     f.write(response)
