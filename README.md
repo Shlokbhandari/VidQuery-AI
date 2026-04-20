@@ -60,7 +60,7 @@ python process_incoming.py
 
 ## 🧠 Tech Stack
 - Python
-- Faster-Whisper
+- Faster-Whisper (base model, INT8 quantized)
 - Ollama
 - Groq API
 - Pandas / NumPy
@@ -94,7 +94,7 @@ ollama pull bge-m3
 2. Audio → text  
 3. Text → chunks  
 4. Embeddings  
-5. Query → cosinesimilarity search  
+5. Query → cosine similarity search  
 6. LLM generates answer  
 
 ---
