@@ -48,19 +48,39 @@ question_embedding = create_embedding([input_query])[0]
 # print(np.vstack(df["embedding"]).shape) #Cosine similarity funtion onyl takes 2d array as input 
 similarities = cosine_similarity(np.vstack(df["embedding"]), [question_embedding]).flatten()
 
-top_results = 5
+top_results = 3
 max_indx = similarities.argsort()[::-1][0:top_results]
 new_df = df.loc[max_indx]
 
-prompt = f'''
-I am teaching web development using Sigma Web Development couse. Here are video chunks with video title, video number, start seconds of the chunk. end seconds of the chunk , and the text at that time:
+prompt = f"""
+You are an AI assistant that answers questions based on the provided video content.
 
-{new_df[["title", "number", "start", "end", "text"]].to_json(orient = "records")}
+Context:
+{new_df[["title", "number", "start", "end", "text"]].to_json(orient="records")}
+
 ------------------------------------------------
+
+User Question:
 {input_query}
-User aked this question related to video chunks, you have to answer in a human way (dont mention the above format, ts just for you) where and how much content is taught in which video (in which video and what timstamp) and guide the user to go to that particular video. If user asks unrelated questions, tell him that you can only answer questions related to the course.
-Give timstamps in minutes:seconds form not in seconds.
-'''
+
+Instructions:
+- Answer clearly and naturally (like a teacher explaining).
+- Mention relevant video number(s) and timestamps.
+- Use 2–4 most relevant timestamps (avoid too many).
+- Convert timestamps to mm:ss format.
+- Keep explanation helpful and easy to understand.
+-Do not give invalid timestamps it should be correct the seconds should not excedd 60. If it exceedes you should add 1 minute to minutes and deduct 60 from the seconds 
+-Do not write in the answer such things (579.24 seconds converted to mm:ss format is 9:51)
+
+- If the question is unrelated, say:
+  "This question is not related to the available video content."
+
+Do NOT:
+- Guess timestamps that are not present
+- Mention anything like "not available" or "based on context"
+
+Give a clean, human-like answer.
+"""
 
 response = inference(prompt)
 print(response)
