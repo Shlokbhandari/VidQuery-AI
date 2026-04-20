@@ -5,3 +5,4 @@ groq_api.py
 response.txt
 .env
 __pycache__
+.joblib
