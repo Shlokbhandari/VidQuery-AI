@@ -1,145 +1,112 @@
 # 🎧 VidQuery AI (RAG Pipeline)
 
 ## 📌 Project Overview
-This project builds an end-to-end pipeline that converts video content into a searchable AI assistant using speech-to-text transcription, text chunking, embeddings, semantic search, and LLM-based answer generation.
-
-It allows users to ask questions about video content and get precise answers along with video references and timestamps.
+VidQuery AI is an end-to-end Retrieval-Augmented Generation (RAG) system that converts video content into a searchable AI assistant. It processes videos into text, generates embeddings, and allows users to ask questions and receive precise answers with relevant video timestamps.
 
 ---
 
 ## 🚀 Features
 - 🎥 Convert videos to audio (MP3)
-- 📝 Transcribe audio using Whisper
+- 📝 Transcribe audio using Faster-Whisper (optimized)
+- ✂️ Smart chunk grouping for better context
 - 🔍 Generate embeddings for semantic search
 - 🤖 Retrieve relevant chunks using cosine similarity
-- 💬 Answer queries using LLM (RAG approach)
-- ⏱️ Provides video number + timestamps
+- 💬 Answer queries using LLM (Groq + Ollama fallback)
+- ⏱️ Provides video number + accurate timestamps
+- 🛡️ Safe data processing using temporary folder replacement
 
 ---
 
 ## 📂 Project Structure
+```
 project/
 │
-├── videos/ # Input videos
-├── audios/ # Extracted audio files
-├── jsons/ # Transcribed chunks
-├── embeddings.joblib # Stored embeddings
+├── videos/                 
+├── audios/                 
+├── jsons/                  
+├── embeddings.joblib       
 │
-├── vid_to_mp3.py # Convert videos → mp3
-├── mp3_to_jsons.py # Transcribe audio → JSON
-├── preprocess_json.py # Create embeddings
-├── process_incoming.py # Query + answer system
-
+├── vid_to_mp3.py           
+├── mp3_to_json.py          
+├── preprocess_jsons.py     
+├── process_incoming.py     
+```
 
 ---
 
 ## ⚙️ Workflow
 
 ### 1️⃣ Convert Videos to MP3
-Uses ffmpeg to extract audio from videos:
-
+```
 python vid_to_mp3.py
+```
 
-
-### 2️⃣ Transcribe Audio
-Uses Whisper (large-v2 model) to convert audio into text chunks with timestamps:
-
-python mp3_to_jsons.py
-
+### 2️⃣ Transcribe & Process Audio
+```
+python mp3_to_json.py
+```
 
 ### 3️⃣ Generate Embeddings
-Uses bge-m3 embedding model via Ollama and stores them in a file:
-
-python preprocess_json.py
-
+```
+python preprocess_jsons.py
+```
 
 ### 4️⃣ Ask Questions (Inference)
-Takes user query, retrieves relevant chunks, and generates answers:
-
+```
 python process_incoming.py
-
+```
 
 ---
 
 ## 🧠 Tech Stack
 - Python
-- Whisper (Speech-to-Text)
-- Ollama (LLM + Embeddings)
+- Faster-Whisper
+- Ollama
+- Groq API
 - Pandas / NumPy
-- Scikit-learn (Cosine Similarity)
+- Scikit-learn
 - FFmpeg
 
 ---
 
 ## 📦 Requirements
-Install dependencies:
+```
+pip install pandas numpy scikit-learn joblib requests faster-whisper groq
+```
 
-pip install pandas numpy scikit-learn joblib requests openai-whisper
-
-
-Install FFmpeg (Mac):
-
+Install FFmpeg:
+```
 brew install ffmpeg
-
+```
 
 ---
 
 ## ⚠️ Prerequisites
-Run Ollama locally:
-
+```
 ollama run llama3.2
 ollama pull bge-m3
-
-
-Ensure APIs are running:
-
-http://localhost:11434/api/embed
-
-http://localhost:11434/api/generate
-
+```
 
 ---
 
-## 💡 How It Works (RAG Pipeline)
-1. Convert video → audio  
-2. Audio → text (Whisper)  
-3. Text → chunks + embeddings  
-4. User query → embedding  
-5. Compare with stored embeddings  
-6. Retrieve top relevant chunks  
-7. Send to LLM → generate answer  
-
----
-
-## 📊 Example
-Input:
-
-Ask a question: What is HTML?
-
-
-Output:
-- Suggests relevant video  
-- Shows timestamps  
-- Explains concept clearly  
+## 💡 How It Works
+1. Video → audio  
+2. Audio → text  
+3. Text → chunks  
+4. Embeddings  
+5. Query → cosinesimilarity search  
+6. LLM generates answer  
 
 ---
 
 ## 🎯 Applications
-- Online course assistants  
-- Lecture search systems  
-- YouTube content Q&A  
-- Educational AI tools  
-
----
-
-## 🔮 Future Improvements
-- Add web UI (Streamlit / React)
-- Use vector database (FAISS / Pinecone)
-- Multi-language support
-- Real-time query system
+- Course assistants  
+- Lecture search  
+- YouTube Q&A  
+- Educational AI  
 
 ---
 
 ## 👨‍💻 Author
-Shlok Bhandari  
+Shlok Bhandari
 B.E. Artificial Intelligence & Data Science
