@@ -16,6 +16,14 @@ for audio in tqdm(audios):
         parts = audio.split("_", 1)
         number = parts[0]
         title = os.path.splitext(parts[1])[0]
+        
+        # Skip transcription if JSON file already exists
+        name = os.path.splitext(audio)[0]
+        output_json = os.path.join("jsons", f"{name}.json")
+        if os.path.exists(output_json):
+            print(f"Skipping '{audio}' (already transcribed to '{output_json}')")
+            continue
+            
         print(number, title)
 
         segments, info = model.transcribe(
