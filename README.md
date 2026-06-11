@@ -7,13 +7,13 @@ VidQuery AI is an end-to-end Retrieval-Augmented Generation (RAG) system that co
 
 ## 🚀 Features
 - 🎥 Convert videos to audio (MP3)
-- 📝 Transcribe audio using Faster-Whisper (optimized)
+- 📝 Transcribe audio using Faster-Whisper (optimized in-memory grouping)
 - ✂️ Smart chunk grouping for better context
 - 🔍 Generate embeddings for semantic search
 - 🤖 Retrieve relevant chunks using cosine similarity
 - 💬 Answer queries using LLM (Groq + Ollama fallback)
 - ⏱️ Provides video number + accurate timestamps
-- 🛡️ Safe data processing using temporary folder replacement
+- 🖥️ **Streamlit Web UI**: Premium dark mode dashboard with drag-and-drop file uploader, progress spinner, interactive chat interface, and sidebar video player.
 
 ---
 
@@ -21,39 +21,52 @@ VidQuery AI is an end-to-end Retrieval-Augmented Generation (RAG) system that co
 ```
 project/
 │
-├── videos/                 
-├── audios/                 
-├── jsons/                  
-├── embeddings.joblib       
+├── videos/                 # Input folder for videos
+├── Audios/                 # Extracted audio files
+├── jsons/                  # Generated structured transcripts
+├── embeddings.joblib       # Vector database
 │
-├── vid_to_mp3.py           
-├── mp3_to_json.py          
-├── preprocess_jsons.py     
-├── process_incoming.py     
+├── app.py                  # Streamlit Web Interface (Main Entry Point)
+├── videos_to_mp3s.py       # Converts videos to MP3
+├── mp3_to_json.py          # Transcribes audio to chunks
+├── preprocess_jsons.py     # Generates database embeddings
+├── process_incoming.py     # CLI Query interface (Optional)
+└── .env                    # Environment credentials (Git-ignored)
 ```
 
 ---
 
-## ⚙️ Workflow
+## ⚙️ Running the Project
 
-### 1️⃣ Convert Videos to MP3
+### 1️⃣ Option A: Running the Web Application (Recommended)
+You can upload, process, watch, and chat with all your videos directly through a beautiful web browser interface:
+```bash
+streamlit run app.py
 ```
-python vid_to_mp3.py
+*Your browser will automatically open `http://localhost:8501`.*
+
+---
+
+### 2️⃣ Option B: Running via CLI Scripts (Terminal)
+
+#### Step 1: Convert Videos to MP3
+```bash
+python3 videos_to_mp3s.py
 ```
 
-### 2️⃣ Transcribe & Process Audio
-```
-python mp3_to_json.py
-```
-
-### 3️⃣ Generate Embeddings
-```
-python preprocess_jsons.py
+#### Step 2: Transcribe & Group Chunks
+```bash
+python3 mp3_to_json.py
 ```
 
-### 4️⃣ Ask Questions (Inference)
+#### Step 3: Generate Embeddings
+```bash
+python3 preprocess_jsons.py
 ```
-python process_incoming.py
+
+#### Step 4: Ask Questions
+```bash
+python3 process_incoming.py
 ```
 
 ---
@@ -65,24 +78,33 @@ python process_incoming.py
 - Groq API
 - Pandas / NumPy
 - Scikit-learn
+- Streamlit
 - FFmpeg
 
 ---
 
-## 📦 Requirements
-```
-pip install pandas numpy scikit-learn joblib requests faster-whisper groq
+## 📦 Installation & Setup
+
+### 1. Install Dependencies
+```bash
+pip install pandas numpy scikit-learn joblib requests faster-whisper groq python-dotenv streamlit
 ```
 
-Install FFmpeg:
-```
+### 2. Install FFmpeg
+On macOS:
+```bash
 brew install ffmpeg
 ```
 
----
-
-## ⚠️ Prerequisites
+### 3. Setup Groq API Key
+Create a `.env` file in the root of the project and add your key:
+```env
+GROQ_API_KEY=your_groq_api_key_here
 ```
+
+### 4. Setup Local Ollama Models
+Ensure Ollama is running and download the embedding and fallback models:
+```bash
 ollama run llama3.2
 ollama pull bge-m3
 ```
@@ -99,14 +121,7 @@ ollama pull bge-m3
 
 ---
 
-## 🎯 Applications
-- Course assistants  
-- Lecture search  
-- YouTube Q&A  
-- Educational AI  
-
----
-
 ## 👨‍💻 Author
-Shlok Bhandari
+Shlok Bhandari  
 B.E. Artificial Intelligence & Data Science
+
