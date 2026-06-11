@@ -6,9 +6,9 @@ import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 import joblib
 from groq import Groq
-from groq_api import groq_api
+from dotenv import load_dotenv
 
-os.environ["GROQ_API_KEY"] = groq_api
+load_dotenv()
 
 def create_embedding(text_list):
     r =requests.post("http://localhost:11434/api/embed", json={
