@@ -12,8 +12,9 @@ audios = [f for f in os.listdir("Audios") if f.endswith(".mp3")]
 
 for audio in tqdm(audios): 
     if "_" in audio:
-        number = audio.split("_")[0]
-        title = audio.split("_")[1][:-4]
+        parts = audio.split("_", 1)
+        number = parts[0]
+        title = os.path.splitext(parts[1])[0]
         print(number, title)
 
         segments, info = model.transcribe(
