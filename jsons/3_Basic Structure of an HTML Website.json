@@ -1,0 +1,425 @@
+{
+    "chunks": [
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 0.0,
+            "end": 17.6,
+            "text": " What happened? You guys have come back to Sigma web development course.  I am really happy that you guys have given so much love to this course.  You guys have to like this course with high energy.  Because for Sigma free course, it becomes the likes of Sigma chats.  In today's video, I will show you guys the basic structure of a website."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 17.6,
+            "end": 32.6,
+            "text": " In the same way, I will tell you guys a mobile trick  that you can preview it from your phone to your website.  I will tell you guys a request in the comments section  that you can get HTML or not.  That will help me structure this course better."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 32.6,
+            "end": 45.8,
+            "text": " In this video, I will tell you the impact of 4GBT.  Because 4GBT is very fast today.  In the coming videos, I will also give you guys the quizzes.  So learn this video carefully and understand all the concepts.  Let's go to the computer screen."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 45.8,
+            "end": 73.80000000000001,
+            "text": " Let's roll the ink.  So guys, I have already talked about the computer screen.  Now we will talk about the structure of the object.  In this folder, I will make a new folder, video 3 and video 3.  I will open the open with code."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 73.80000000000001,
+            "end": 86.2,
+            "text": " You can see here that my theme is the blue color.  And many people said that the blue theme is not good.  The theme is the choice.  If you want to change the color theme,  then you can change the color theme."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 86.2,
+            "end": 96.2,
+            "text": " I will use the dark color of the grid up.  Now I will use the dark color of the grid up.  This is a new file.  I will add the index.html.  I already talked about this."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 96.2,
+            "end": 109.2,
+            "text": " If I write the title of the page here  and then click the content here  and then click the link tag  and then click the style.css here.  That is why I have already mentioned this in the previous video."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 109.2,
+            "end": 120.2,
+            "text": " And if I write the script.js here  and then I will write the alert from the alert here.  So I will not tell you again that  if I put a script tag here  or just before the body"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 120.2,
+            "end": 130.2,
+            "text": " and after that  the script is posted here.css  and then click the script.js here  and then click the open with browser here.  This will come here."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 130.2,
+            "end": 140.2,
+            "text": " And if I write the background red here  I will not tell you all this.  Because I have already told you all.  I will tell you now  that what is the structure of this structure?"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 140.20000000000002,
+            "end": 150.20000000000002,
+            "text": " Why did I write so much?  This is a doubt.  We can write the title and the content  that we need to write so much.  So I will tell you how much we need to write."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 150.20000000000002,
+            "end": 160.20000000000002,
+            "text": " I will reload it here.  The content is here.  And this red color is here.  Now you will see that I need to reload the page.  There will be some questions."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 160.20000000000002,
+            "end": 170.20000000000002,
+            "text": " Why do I need to reload the page?  When I have already reloaded the page.  I have changed the CSS file.  When I change the CSS file  if you are using HTML file"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 170.20000000000002,
+            "end": 180.20000000000002,
+            "text": " you are changing it.  You will not need to reload it like this.  Now what I will do here.  I will come back.  And I will explain to you."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 180.20000000000002,
+            "end": 190.20000000000002,
+            "text": " This is a basic structure.  First of all, we write the doc type HTML.  Then we write HTML tag.  This is the opening tag of HTML tag.  This is the opening tag of the body."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 190.20000000000002,
+            "end": 200.20000000000002,
+            "text": " This is the closing tag.  This is the opening tag of the head.  This is the content of the head.  This is the content of HTML.  This is the content of HTML."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 200.20000000000002,
+            "end": 210.20000000000002,
+            "text": " This is the content of the title.  Now what is the content of the meta?  The meta is a self-closing tag.  There are two types of tags in HTML.  One is self-closing tag."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 210.20000000000002,
+            "end": 220.20000000000002,
+            "text": " And the other is the pair tag.  What is the pair tag?  The opening tag is the closing tag.  This is the basic structure of HTML website.  Now you will see that the background is red."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 220.20000000000002,
+            "end": 230.20000000000002,
+            "text": " This is the background red.  This is the background red.  This is the CSS Server here.  r\u00e1pido motors for CSS Server.  fast motors for CSS Server."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 230.20000000000002,
+            "end": 241.20000000000002,
+            "text": " This, verdict for CSS Server.  The page reload.  Now you can see the code here.  The JavaScript is also made in the right scenes.  So the system is called another"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 241.20000000000002,
+            "end": 251.24,
+            "text": " auge  the HTML structure is called another  HTML structure.  Your CSS Server and the keyword sd is  added in HTML content."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 251.24,
+            "end": 262.72,
+            "text": " your CSS Server and the keyword sd is  I have used it to link it with a title tag.  Now I have already told you about the title tag.  It is used to set the page title.  Now it is only necessary that you see the title here."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 262.72,
+            "end": 273.72,
+            "text": " The search engines that you see here,  they also use it.  The search engines that you see here,  if you click on the code with Harry HTML,  then the code with Harry's HTML introduction,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 273.72,
+            "end": 282.72,
+            "text": " the HTML working,  all the titles I have put in the page.  You can see here,  the HTML introduction is the title of the page.  These titles are used by the search engines."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 282.72,
+            "end": 292.72,
+            "text": " They are used and parsed.  Now if I change the page,  then the HTML working is done here.  Now I will change the page again.  You can see the HTML installation is done here."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 292.72,
+            "end": 302.72,
+            "text": " The titles that you see here,  they are changed.  It will be changed,  as you can see here.  So HTML pages"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 302.72,
+            "end": 314.72,
+            "text": " doesn't mean that you can see here.  They also use this in SEO.  And let's tell you what is the content in the page.  They describe the page content.  I know what is the HTML execution here."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 314.72,
+            "end": 324.72,
+            "text": " What is the HTML execution?  What is the HTML execution?  I am going to tell you about this page.  The title of the page is very good.  We will make a website from any framework."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 324.72,
+            "end": 334.72,
+            "text": " We will change the title of the page.  Now here, the head section.  The title of the page is the meta data.  The title of the page is the title of the page.  You want to do a link with your concie script."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 334.72,
+            "end": 344.72,
+            "text": " You want to do a link with it.  You want to do a link with your concie script.  The title of the page is basically the HTML document.  How is the HTML document?  It is explained about the keywords."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 344.72,
+            "end": 354.72,
+            "text": " It is explained about the keywords.  The meta description is very important.  It is explained about the page.  You can write here.  If you go to my website,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 354.72,
+            "end": 364.72,
+            "text": " you will find a view of the page source.  The meta description is tackled.  You can write in the compressed HTML.  But you can see here that the meta description is tackled.  The page describes the meta description."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 364.72,
+            "end": 377.52000000000004,
+            "text": " If we talk about Google,  The headline is here  If we talk about Google,  The headline is the tag photo of stats bundles.  In thelause,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 377.52000000000004,
+            "end": 389.52000000000004,
+            "text": " we moved a bit.  We are taking the word for text messages.  When we talk about text messages,  we can say sixos is heavy.  Let's talk about text messages daily."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 389.52000000000004,
+            "end": 402.52,
+            "text": " When we talk about text messages daily,  it's called flexibility.  Keep an eye on it.  you will see all the steps in the body.  and you will also see all the steps in the body."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 402.52,
+            "end": 419.52,
+            "text": " Now, how will I show you how to put the script and the head script.  But this is a basic structure, HTML website.  The length is equal to EN, it is an attribute,  that is, along with the tag, the EN, it is the length of the attribute,  which is the value of EN."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 419.52,
+            "end": 430.52,
+            "text": " This is used on the key value and it is used in the tag.  The name is equal to the description.  The name is equal to the description is an attribute.  And you will have to hover in VS code.  You will know a lot about it."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 430.52,
+            "end": 443.52,
+            "text": " So, I have hovered in the name.  So, I am telling you how to use the attribute.  Now, most of the content in the body,  the HTML is copied.  You can copy the HTML from the website."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 443.52,
+            "end": 455.52,
+            "text": " You can copy the source code from here.  If I talk about the forms,  then you can copy the HTML forms in this page.  And you will start your form and modify them.  So, it is very important to copy paste."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 455.52,
+            "end": 464.52,
+            "text": " As a senior developer, you should know where to copy paste.  And when are you doing it?  I am not saying it is sarcasticly.  I am not saying it is sarcasticly.  This thing is always the same."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 464.52,
+            "end": 474.52,
+            "text": " You can type it or copy paste it.  Obviously, you will prefer to copy it.  Because this is not going to change.  The form is going to be formed.  And if you do copy paste, then your time will be saved."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 474.52,
+            "end": 485.52,
+            "text": " Then you have to put your brain there,  which is not copy paste.  So, you should know as a sigma rule  that you will copy paste,  which is going to be copied paste."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 485.52,
+            "end": 499.52,
+            "text": " And where you have to put your brain there,  then you can save your time there.  The most important part of being a senior software developer,  is to where to copy paste from,  which stack overflow question to copy paste from,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 499.52,
+            "end": 511.52000000000004,
+            "text": " and how to paste it from where copyright code was added.  In 2000, 25, 25, 25, whatever you understood.  I have told the copyright statement,  but the statement is much more important.  Now, I will tell you a technique"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 511.52000000000004,
+            "end": 521.52,
+            "text": " from which you will develop this website.  You will be able to see it in this mobile.  Now, listen carefully to the steps.  Write, write, terminal, and open the terminal.  And write IP config."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 521.52,
+            "end": 531.52,
+            "text": " If you are in the old version,  you can open the command prompt or power shell.  You will enter the IP config,  and you will see the IPv4 address.  You will get 19216.819."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 531.52,
+            "end": 542.52,
+            "text": " Now, I will copy this IP address.  So, I will copy this IPv4 address.  And I will write it in my settings.  Live preview.  This local IP host address,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 542.52,
+            "end": 552.52,
+            "text": " to host your files on,  is written on this place.  I will write it in my IP address.  And after doing this, I will restart my VS code.  You will have to ensure that,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 552.52,
+            "end": 560.52,
+            "text": " you can go to your Wi-Fi settings,  and do a private network.  It should not be a public network.  It should be a private network.  It should be a network and internet."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 560.52,
+            "end": 569.52,
+            "text": " Wi-Fi, whatever Wi-Fi is connected,  and do a private network.  And now, you will see,  you will see the IP address,  you will get a slash index.html."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 569.52,
+            "end": 579.52,
+            "text": " You can also use it on your phone.  So, I will put this IP address here,  quickly.  So, I have added 19216.8199.  You can get a colon 5000."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 579.52,
+            "end": 588.52,
+            "text": " You can also get a colon 3000.  You can put the port here.  And you will see,  the website is previewed in the mobile.  This trick is very useful,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 588.52,
+            "end": 598.52,
+            "text": " when we want to preview in our mobile.  Today, more websites are seen in the phone.  So, we will see,  the users of our phones  will be able to take good care of our website."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 598.52,
+            "end": 608.52,
+            "text": " And in the computer, we are developing,  so, that testing will be done.  Now, if you have not added a review in the first video,  then I will request you,  that you will review your course in the first video."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 608.52,
+            "end": 613.52,
+            "text": " In the last video,  I told you,  please review it.  I will give you a initial review.  How did you like the course?"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 613.52,
+            "end": 621.52,
+            "text": " You write down the initial review.  As you write down the initial review,  people will know,  what is the initial review of this course.  Now, let me give you a 5-star review."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 621.52,
+            "end": 629.52,
+            "text": " You can access the playlist description.  You can click here,  or click on the star.  You will get a bookmark.  And you will get a show in your bookmarks."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 629.52,
+            "end": 637.52,
+            "text": " I have booked a sigma web development course here.  You can click here,  and you can save it.  Many people have accessed the playlist.  I want all of you to access the playlist."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 637.52,
+            "end": 644.52,
+            "text": " You can book the playlist,  and save the playlist.  So, you can access the playlist,  like the video,  and give it a thumbs up."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 644.52,
+            "end": 649.52,
+            "text": " Thank you so much for watching this video  and I will see you next time.  Next time."
+        }
+    ],
+    "text": " What happened? You guys have come back to Sigma web development course.  I am really happy that you guys have given so much love to this course.  You guys have to like this course with high energy.  Because for Sigma free course, it becomes the likes of Sigma chats.  In today's video, I will show you guys the basic structure of a website.  In the same way, I will tell you guys a mobile trick  that you can preview it from your phone to your website.  I will tell you guys a request in the comments section  that you can get HTML or not.  That will help me structure this course better.  In this video, I will tell you the impact of 4GBT.  Because 4GBT is very fast today.  In the coming videos, I will also give you guys the quizzes.  So learn this video carefully and understand all the concepts.  Let's go to the computer screen.  Let's roll the ink.  So guys, I have already talked about the computer screen.  Now we will talk about the structure of the object.  In this folder, I will make a new folder, video 3 and video 3.  I will open the open with code.  You can see here that my theme is the blue color.  And many people said that the blue theme is not good.  The theme is the choice.  If you want to change the color theme,  then you can change the color theme.  I will use the dark color of the grid up.  Now I will use the dark color of the grid up.  This is a new file.  I will add the index.html.  I already talked about this.  If I write the title of the page here  and then click the content here  and then click the link tag  and then click the style.css here.  That is why I have already mentioned this in the previous video.  And if I write the script.js here  and then I will write the alert from the alert here.  So I will not tell you again that  if I put a script tag here  or just before the body  and after that  the script is posted here.css  and then click the script.js here  and then click the open with browser here.  This will come here.  And if I write the background red here  I will not tell you all this.  Because I have already told you all.  I will tell you now  that what is the structure of this structure?  Why did I write so much?  This is a doubt.  We can write the title and the content  that we need to write so much.  So I will tell you how much we need to write.  I will reload it here.  The content is here.  And this red color is here.  Now you will see that I need to reload the page.  There will be some questions.  Why do I need to reload the page?  When I have already reloaded the page.  I have changed the CSS file.  When I change the CSS file  if you are using HTML file  you are changing it.  You will not need to reload it like this.  Now what I will do here.  I will come back.  And I will explain to you.  This is a basic structure.  First of all, we write the doc type HTML.  Then we write HTML tag.  This is the opening tag of HTML tag.  This is the opening tag of the body.  This is the closing tag.  This is the opening tag of the head.  This is the content of the head.  This is the content of HTML.  This is the content of HTML.  This is the content of the title.  Now what is the content of the meta?  The meta is a self-closing tag.  There are two types of tags in HTML.  One is self-closing tag.  And the other is the pair tag.  What is the pair tag?  The opening tag is the closing tag.  This is the basic structure of HTML website.  Now you will see that the background is red.  This is the background red.  This is the background red.  This is the CSS Server here.  r\u00e1pido motors for CSS Server.  fast motors for CSS Server.  This, verdict for CSS Server.  The page reload.  Now you can see the code here.  The JavaScript is also made in the right scenes.  So the system is called another  auge  the HTML structure is called another  HTML structure.  Your CSS Server and the keyword sd is  added in HTML content.  your CSS Server and the keyword sd is  I have used it to link it with a title tag.  Now I have already told you about the title tag.  It is used to set the page title.  Now it is only necessary that you see the title here.  The search engines that you see here,  they also use it.  The search engines that you see here,  if you click on the code with Harry HTML,  then the code with Harry's HTML introduction,  the HTML working,  all the titles I have put in the page.  You can see here,  the HTML introduction is the title of the page.  These titles are used by the search engines.  They are used and parsed.  Now if I change the page,  then the HTML working is done here.  Now I will change the page again.  You can see the HTML installation is done here.  The titles that you see here,  they are changed.  It will be changed,  as you can see here.  So HTML pages  doesn't mean that you can see here.  They also use this in SEO.  And let's tell you what is the content in the page.  They describe the page content.  I know what is the HTML execution here.  What is the HTML execution?  What is the HTML execution?  I am going to tell you about this page.  The title of the page is very good.  We will make a website from any framework.  We will change the title of the page.  Now here, the head section.  The title of the page is the meta data.  The title of the page is the title of the page.  You want to do a link with your concie script.  You want to do a link with it.  You want to do a link with your concie script.  The title of the page is basically the HTML document.  How is the HTML document?  It is explained about the keywords.  It is explained about the keywords.  The meta description is very important.  It is explained about the page.  You can write here.  If you go to my website,  you will find a view of the page source.  The meta description is tackled.  You can write in the compressed HTML.  But you can see here that the meta description is tackled.  The page describes the meta description.  If we talk about Google,  The headline is here  If we talk about Google,  The headline is the tag photo of stats bundles.  In thelause,  we moved a bit.  We are taking the word for text messages.  When we talk about text messages,  we can say sixos is heavy.  Let's talk about text messages daily.  When we talk about text messages daily,  it's called flexibility.  Keep an eye on it.  you will see all the steps in the body.  and you will also see all the steps in the body.  Now, how will I show you how to put the script and the head script.  But this is a basic structure, HTML website.  The length is equal to EN, it is an attribute,  that is, along with the tag, the EN, it is the length of the attribute,  which is the value of EN.  This is used on the key value and it is used in the tag.  The name is equal to the description.  The name is equal to the description is an attribute.  And you will have to hover in VS code.  You will know a lot about it.  So, I have hovered in the name.  So, I am telling you how to use the attribute.  Now, most of the content in the body,  the HTML is copied.  You can copy the HTML from the website.  You can copy the source code from here.  If I talk about the forms,  then you can copy the HTML forms in this page.  And you will start your form and modify them.  So, it is very important to copy paste.  As a senior developer, you should know where to copy paste.  And when are you doing it?  I am not saying it is sarcasticly.  I am not saying it is sarcasticly.  This thing is always the same.  You can type it or copy paste it.  Obviously, you will prefer to copy it.  Because this is not going to change.  The form is going to be formed.  And if you do copy paste, then your time will be saved.  Then you have to put your brain there,  which is not copy paste.  So, you should know as a sigma rule  that you will copy paste,  which is going to be copied paste.  And where you have to put your brain there,  then you can save your time there.  The most important part of being a senior software developer,  is to where to copy paste from,  which stack overflow question to copy paste from,  and how to paste it from where copyright code was added.  In 2000, 25, 25, 25, whatever you understood.  I have told the copyright statement,  but the statement is much more important.  Now, I will tell you a technique  from which you will develop this website.  You will be able to see it in this mobile.  Now, listen carefully to the steps.  Write, write, terminal, and open the terminal.  And write IP config.  If you are in the old version,  you can open the command prompt or power shell.  You will enter the IP config,  and you will see the IPv4 address.  You will get 19216.819.  Now, I will copy this IP address.  So, I will copy this IPv4 address.  And I will write it in my settings.  Live preview.  This local IP host address,  to host your files on,  is written on this place.  I will write it in my IP address.  And after doing this, I will restart my VS code.  You will have to ensure that,  you can go to your Wi-Fi settings,  and do a private network.  It should not be a public network.  It should be a private network.  It should be a network and internet.  Wi-Fi, whatever Wi-Fi is connected,  and do a private network.  And now, you will see,  you will see the IP address,  you will get a slash index.html.  You can also use it on your phone.  So, I will put this IP address here,  quickly.  So, I have added 19216.8199.  You can get a colon 5000.  You can also get a colon 3000.  You can put the port here.  And you will see,  the website is previewed in the mobile.  This trick is very useful,  when we want to preview in our mobile.  Today, more websites are seen in the phone.  So, we will see,  the users of our phones  will be able to take good care of our website.  And in the computer, we are developing,  so, that testing will be done.  Now, if you have not added a review in the first video,  then I will request you,  that you will review your course in the first video.  In the last video,  I told you,  please review it.  I will give you a initial review.  How did you like the course?  You write down the initial review.  As you write down the initial review,  people will know,  what is the initial review of this course.  Now, let me give you a 5-star review.  You can access the playlist description.  You can click here,  or click on the star.  You will get a bookmark.  And you will get a show in your bookmarks.  I have booked a sigma web development course here.  You can click here,  and you can save it.  Many people have accessed the playlist.  I want all of you to access the playlist.  You can book the playlist,  and save the playlist.  So, you can access the playlist,  like the video,  and give it a thumbs up.  Thank you so much for watching this video  and I will see you next time.  Next time."
+}

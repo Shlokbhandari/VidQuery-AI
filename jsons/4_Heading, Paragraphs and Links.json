@@ -1,0 +1,719 @@
+{
+    "chunks": [
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 0.0,
+            "end": 14.08,
+            "text": " In today's video, I will tell you about heading and paragraphs  I will also tell you about anchor text  If you have found this course awesome, then please like this video  Please like and share it with your friends  In this video, we will make a small project"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 14.08,
+            "end": 26.32,
+            "text": " Which will be a bookmark website  This bookmark website will help you to get all your favorite websites  And you will be able to use it in actual use  So let's start quickly  In the comments, click on the subscribe button"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 26.32,
+            "end": 49.64,
+            "text": " Let's roll the intro  So guys, as you can see, I have already made my computer screen  And if you haven't even done playlist access yet, then you can access it  One more thing that I want to tell you guys, is that if you go to getup.com  You will go to getup.com slash code and you will go to the repository"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 49.64,
+            "end": 60.480000000000004,
+            "text": " So you will get the signature web of the course of getup  Now in this, I have made all the other videos and made a folder  And made a completely different folder  So you will get it  So you have to access it from the source code"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 60.480000000000004,
+            "end": 71.48,
+            "text": " So that you can get it in the description  I will also put it in the description  So don't worry about it  Now we will make a very basic website today  But it will be very important for us"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 71.48,
+            "end": 82.48,
+            "text": " Because it will be our first useful website  So I will not take much time here  I will make a new folder in this folder  And in the name of it, I will make a video for you  Because it is our fourth video"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 82.48,
+            "end": 92.48,
+            "text": " So I will make a video from the name of it  I will try and open it with code  So that the folder will open in our VS code  After doing this, I will do the same  Which we always do with index.html"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 92.48,
+            "end": 102.48,
+            "text": " Main.css  Style.css  And with that, script.js  These are the three files we usually make  If I write CSS, I will write here, I will write script"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 102.48,
+            "end": 114.48,
+            "text": " But for now, I will write something like  I will write it in the document  My bookmarks  I will make the bookmark website  And I will write it in the code"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 114.48,
+            "end": 124.48,
+            "text": " I will write it in the title  What is H1?  You can write it in the web page  We talked about the basic structure  We said that it is HTML"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 124.48,
+            "end": 132.48000000000002,
+            "text": " HTML is equal to EN  In EN, it is the value of the attribute  EN  In English, this is the content in this page  This is the search engine"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 132.48000000000002,
+            "end": 142.48000000000002,
+            "text": " Or if any web page has a link  Then you will know that in the web page  In English, you can parse this web page  The browser will also know  That your web page is in English"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 142.48,
+            "end": 152.48,
+            "text": " Now, here is the header  The header is in the metadata  The title is in the page  The link of CSS is in the information  The body is in the main content"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 152.48,
+            "end": 162.48,
+            "text": " Now, the tag is in the tag  Which is called H1  And I will write it in the bookmarks  If I write here, I will write it in the bookmarks  H1 will write it in the tags"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 162.48,
+            "end": 172.48,
+            "text": " And if I want to live it  I will click here  And after that, I will browser it  See how my bookmarks are showing  Now, why should I always use H1"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 172.48,
+            "end": 182.48,
+            "text": " Directly, I wrote my bookmark  Because I will tell the browser  This is my heading and this is my first level heading  Now, I want to write in the bookmarks  In the bookmarks"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 182.48,
+            "end": 192.48,
+            "text": " I want to write a main bookmark  And a secondary bookmark  So, I will use H2  So, if you have used Microsoft Word  You will know what H1H2 is"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 192.48,
+            "end": 202.48000000000002,
+            "text": " But if you do not know  I will tell you that H1 is your main level heading  And the second level heading  Main bookmarks  And secondary bookmarks"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 202.48000000000002,
+            "end": 233.48000000000002,
+            "text": " I will write it here  And I will write it  Auld Shift auld downer  If I click again, then you will get the cursor.  I will add all the bookmarks in the code."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 233.48000000000002,
+            "end": 244.48000000000002,
+            "text": " So, my bookmarks are in the dash code.  I will write something like this.  I have written it here.  I will click on the Alt button.  I will get multiple cursor."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 244.48000000000002,
+            "end": 255.48000000000002,
+            "text": " I will type whatever I want.  I will type whatever I want.  I will type whatever I want.  Like this video.  I will give some letters like this."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 255.48000000000002,
+            "end": 266.48,
+            "text": " I will update them.  This is my main heading.  From H1, H2,H6 is heading.  assuming that you gave the main heading.  After the main heading, you gave the secondary heading."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 266.48,
+            "end": 275.48,
+            "text": " Again, you have to give the heading inside.  And so on.  You must give many sub-headings.  You can give the H6 heading.  The H6 will be more than enough."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 275.48,
+            "end": 285.48,
+            "text": " I have added 6 letters in the HTML.  You don't need the H7,you will never do it.  If you talk about practical life.  And if you can use the H6 for the same purpose,  Because after this small event,"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 285.48,
+            "end": 295.48,
+            "text": " You will have a small event for you.  So, you will have to go for small event.  Now, I will do the Alt Shift down.  I will replicate it.  And I will click Alt,"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 295.48,
+            "end": 305.48,
+            "text": " I will click Alt,  This is all the shortcuts that I am telling you.  So that you guys have a productivity.  Now I have put 2 cutters here.  I will do the Backspace 3."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 305.48,
+            "end": 315.48,
+            "text": " I will click Alt, I will click Alt, I will click H4.  Okay.  I will click here, I will click H5.  Okay.  I will click here, I will click here,"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 315.48,
+            "end": 325.48,
+            "text": " I will click H6 here.  So, H6 is the same.  Now, I will write here using H1.  So that you guys know.  I will write here using the space."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 325.48,
+            "end": 335.48,
+            "text": " I will write H.  And now, I will click here,  2, 3, 4, 5, 6.  And you can see that it looks like this.  So, you guys know that H1 is like this."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 335.48,
+            "end": 345.48,
+            "text": " H2 is like this.  So, H6 is like this.  And what is H6?  It will end up like this.  So, H6 is more than enough."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 345.48,
+            "end": 355.48,
+            "text": " So, I will show you guys practical demonstration.  I have got my HTML tutorial.  So, here I have given the main heading.  And then, I have given the HTML.  Then, I have given the features of HTML."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 355.48,
+            "end": 365.48,
+            "text": " This is from H1.  This is from H2.  This is from H2.  This is from H3.  This is from H2."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 365.48,
+            "end": 375.48,
+            "text": " The main heading is HTML introduction.  This is all heading.  I had given some exercise in it.  So, I used H3 in it.  Then, I have got H2 in it."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 375.48,
+            "end": 387.48,
+            "text": " Because, H2 in it,  H1, H2, H4, H4, H4, H5, H6,  are there.  I hope you guys understand.  Many people are commenting."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 387.48,
+            "end": 397.48,
+            "text": " If I am making this course as a beginner course.  When I tell you in HTML,  then you guys will say that it is easy.  It will be difficult to say.  Then, I will tell you in few seconds."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 397.48,
+            "end": 407.48,
+            "text": " Then, I will say Javascript.  Then, I will do something.  Then, I will write a bootstrap.  Then, I will talk, and then, I will react.  Then, I would react."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 407.48,
+            "end": 417.48,
+            "text": " Then, I would note Jst.  Then, I will take something and then,  I could see a mountain above.  Then, I will talk for 1-2 hours.  Then, I would say,"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 417.48,
+            "end": 459.48,
+            "text": " Then, I will raise the bell like anything.  I will give the bell again.  This is a Lorem 23, I will give you 23 words  You can trap the word on the view  You won't get the whole thing"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 459.48,
+            "end": 468.48,
+            "text": " So you can trap the view  Now you can see the Lorem Epsum Dollar Set  This is a dummy text  Why do we want dummy text?  Because we want to make template"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 468.48,
+            "end": 481.48,
+            "text": " And we have to fill the template  We have to make a website  which shows the OEO rooms  Now the OEO become a member  I don't want to write OEO for business"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 481.48,
+            "end": 491.48,
+            "text": " I wrote Lorem here  I want to write something here  I want to write Lorem with 7 words  I want to write Lorem 7  I will give OEO to them"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 491.48,
+            "end": 501.48,
+            "text": " I will fill the placeholder  I will use it  My plan is that we will make a website  so that you will know how to work  This is also a popular website"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 501.48,
+            "end": 511.48,
+            "text": " If you use these services  then you should know in the comment section  We will see more things  There is a paragraph  You have to style it"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 511.48,
+            "end": 521.48,
+            "text": " All these things go through CSS  Now in paragraph  You can see that I wrote Lorem 23  I will enter the text  I will write Lorem 10"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 521.48,
+            "end": 531.48,
+            "text": " I will only write 10 words  If I want Lorem 100  I will fill my page  Then I can do it  This Lorem value tray is very big"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 531.48,
+            "end": 541.48,
+            "text": " And whenever we will make a website  I will make Amazon Dotting  I will make Amazon Dotting  I have to write something here  I will write 3 words here"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 541.48,
+            "end": 551.48,
+            "text": " So I will write Lorem 3  I will not think about make-up products  I will write Lorem 4  I will write Lorem 2  I will make a template and do it"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 551.48,
+            "end": 563.48,
+            "text": " Everything will be in my database  I can bring this text  Many people asked  Is this course job ready?  Yes, this course is ready"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 563.48,
+            "end": 573.48,
+            "text": " Now let me give you an example  Which is what I will do  You will learn this course  Now let's talk about what are the attributes in HTML  These are attributes in HTML"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 573.48,
+            "end": 583.48,
+            "text": " I used HTML and used a tag  This is the language attribute  In body we did not use attribute  In H1 we did not do attribute  We did not do p. We did not do attribute"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 583.48,
+            "end": 595.48,
+            "text": " But I can use p-make-style attribute  Which also says  I will read background color  Because it is something like this  The background color is red, it also says inline css through style attribute."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 595.48,
+            "end": 609.48,
+            "text": " If you add css, first you have to add css here.  But if you add style equal to the color, then you will get background red here.  I will show you this red red background.  I will take it as a teal.  I will do this."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 609.48,
+            "end": 623.48,
+            "text": " This color looks good.  So I can also add style inline.  But when you make the website of the industry, we use it very less.  Because the maintainability becomes less.  So we want to ship a small bundle on the browser."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 623.48,
+            "end": 633.48,
+            "text": " And the website is more optimized.  So we avoid all these things.  But inline css is a style tag.  But here is a style attribute.  P is a tag."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 633.48,
+            "end": 646.48,
+            "text": " P tag is a attribute style.  Through which we can style this element.  We will also read a lot of attributes about this.  Attributes basically give an enhanced functionality to an element.  For this reason, we have given you a style."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 646.48,
+            "end": 662.48,
+            "text": " Which was the background color.  For this background color, we used a style attribute.  Similarly, to give properties, we used a tag as an element.  Attributes.  Like we talked about the link."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 662.48,
+            "end": 674.48,
+            "text": " We talked about link colon css.  Link has a relic attribute.  So what can we do with this attribute?  We can use this css style sheet.  We have a background color."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 674.48,
+            "end": 684.48,
+            "text": " We have a body color.  We have a background color.  We have a background color.  And don't worry about it.  We will tell you all about this."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 684.48,
+            "end": 694.48,
+            "text": " But I will tell you.  I mean, I will do hot pink.  Listen to a more functionalities of VS code.  This is an Inja tag.  It will be over here."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 694.48,
+            "end": 704.48,
+            "text": " You can choose the color you want.  Like this.  I will leave it.  This is the background color of my body.  I will write it in the Inja tag."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 704.48,
+            "end": 714.48,
+            "text": " I will write it in the Inja tag.  Okay.  In index.html, we have come back.  If I want, I can hit it.  I will comment it."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 714.48,
+            "end": 724.48,
+            "text": " Which is very natural.  The background color was coming from this style.  This background color was coming from this line css.  So this is not hot.  Which is very natural."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 724.48,
+            "end": 736.48,
+            "text": " I have added this style to the background color.  Because of this background color.  Now we are going to make a bookmark manager.  BookmarkManager.html.  And I am going to make a different file."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 736.48,
+            "end": 748.48,
+            "text": " Because I have told you all the different settings.  I am going to make a useful bookmark manager.  I will write you.  BookmarkManager.  Now you guys know why this bookmark manager is making."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 748.48,
+            "end": 758.48,
+            "text": " This is our hands.  This is our own child.  This is our own child.  This is our own child.  This is our own child."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 758.48,
+            "end": 768.48,
+            "text": " You have made one software.  You have made one software.  The one is made by itself.  You can see here.  I will write here, I am going to write here."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 768.48,
+            "end": 778.48,
+            "text": " I will write here.  It is my bookmark.  Now I will write here.  I will write here.  Then I will write here."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 778.48,
+            "end": 788.48,
+            "text": " I will write here.  In fact, I will write here.  I will write here.  So what will be the secondary bookmarks?  I will put the secondary bookmarks here."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 788.48,
+            "end": 798.48,
+            "text": " Now I will write in a paragraph  Google or I will write like this  Okay, we will write it like this  But in the coming videos, I will tell you  how to use the list"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 798.48,
+            "end": 808.48,
+            "text": " Now for you, Google  I will write you Google  Open Google  And I will use the anchor  So I will enter in A"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 808.48,
+            "end": 818.48,
+            "text": " A mandatory attribute  HRF means click on the link  So I will write HRF  HTTPS colon double slash  www.google.com"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 818.48,
+            "end": 828.48,
+            "text": " Go to this address and click on the open google  And I will cut the open google  and put it here  Because the content stack is like this  And you can see here"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 828.48,
+            "end": 840.48,
+            "text": " A HRF is also open google  We will make the anchor tag  You will see many links in the link  You can see  I will go to bookmarkmanager.html"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 840.48,
+            "end": 850.48,
+            "text": " You can see here  You can see all the bookmarks  I will open google  Now I will click on google  You can see"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 850.48,
+            "end": 860.48,
+            "text": " When I did not click on it, it was blue  When I visited it, it changed  When you visit it  There is a link in the link  I know that I have visited"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 860.48,
+            "end": 870.48,
+            "text": " Now I will tell you  If we want to open a new tab  I am clicking it on that tab  If you want to open a new tab  Then you can open it in two ways"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 870.48,
+            "end": 880.48,
+            "text": " Or you can choose the mouse  This mouse can also be clicked  I will tell you in the second way  If you want to choose a new tab  Then you can use an attribute"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 880.48,
+            "end": 892.48,
+            "text": " You can write here  Target is equal to underscore blank  And VS can be given  I have clicked two enter mark  Write in the node pad"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 892.48,
+            "end": 902.48,
+            "text": " What would have happened to you?  I mean the quality is the same  Free VS could be  But the quality is the same  Target is equal to underscore"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 902.48,
+            "end": 912.48,
+            "text": " You have to type the blank  If you click on it  I will click on it  I am not clicking on mouse  I will click on the new tab"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 912.48,
+            "end": 922.48,
+            "text": " I will click on the new tab  I can open it  Now I have written a simple open google  If you want  You can use it on your website"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 922.48,
+            "end": 932.48,
+            "text": " You can use it  I have written a good website  Now I will write open facebook  You can see www.facebook.com  And I will write here"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 932.48,
+            "end": 942.48,
+            "text": " Cora.com  And then we will write here  Let's write it  YouTube.com  Let's see"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 942.48,
+            "end": 952.48,
+            "text": " You can see  It is coming in one line  If you want it to come in one line  What will you do now?  You will put it in your paragraph"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 952.48,
+            "end": 962.48,
+            "text": " It is a dirty way  I am saying it dirty  I will tell you  You can close it in paragraph  If you want"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 962.48,
+            "end": 972.48,
+            "text": " I will shift the right arrow  I will do the control X  After that, all the cutters will go in the end  Because if you want to go in the end  I will do the control"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 972.48,
+            "end": 982.48,
+            "text": " Now I have used it very short  And you will see  But I have simply done that  The functionality of VS code is used  Multiple cutters"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 982.48,
+            "end": 992.48,
+            "text": " All the time I have bought multiple cutters  This is not a good way to use the paragraph  We don't even make a list  We make a list  Because we don't have a list"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 992.48,
+            "end": 1002.48,
+            "text": " But we will do the work  We will show you  And the one we did not visit  Facebook visited  Cora visited"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1002.48,
+            "end": 1012.48,
+            "text": " Cora visited  We will put 2nd bookmarks  2nd bookmarks are available  Which you will visit  Follow vkpedia.com"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1012.48,
+            "end": 1022.48,
+            "text": " And follow  Stack Overflow  We will write this  Stack Overflow  We will do a capital"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1022.48,
+            "end": 1032.48,
+            "text": " And you will see the 2nd bookmarks  Your vkpedia and Stack Overflow  You can make a better bookmark  We will see the styling  If you are looking for a new style"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1032.48,
+            "end": 1042.48,
+            "text": " You will see the next step  You will see the next step  Because we will do the styling  We will do the styling  You will see the bookmark"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1042.48,
+            "end": 1052.48,
+            "text": " You will see the title  And I will write it in H1  Both are the same  The title is the same  And you will see the bookmark"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1052.48,
+            "end": 1062.48,
+            "text": " You can make a bookmark manager  You can use it  And you will see  You will see  I have made a body"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1062.48,
+            "end": 1084.48,
+            "text": " To do the styling  You can do the d  I will always do the blog  I will always do it  So, having closed aside"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1084.48,
+            "end": 1098.72,
+            "text": " So this is our bookmark manager, I hope you all liked it  I have a request from you guys, today our 4 videos are complete  If you like a course, I want you to share it with your friends  I know you will share it very less but if you will do it  Then don't give me much strength"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1098.72,
+            "end": 1111.66,
+            "text": " And I will try to get more courses  Many people are saying that how do you get a course?  How do you get a benefit?  I will find the ways to make more money  But the thing is, I am going to mark this course"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1111.66,
+            "end": 1123.3600000000001,
+            "text": " This is the biggest course of web development  I will put everything in it  And I will take less time to learn more from you  I had a lot of hate texts, many companies had asked me to launch it  Let me do it on my platform"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1123.3600000000001,
+            "end": 1135.7,
+            "text": " No, I will not, but many companies have asked me to launch this as a paid course  Why are you doing this? You will regret your decision  But hopefully I will not regret my decision  To make this course free  I will earn money from the other way"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1135.7,
+            "end": 1150.3799999999999,
+            "text": " And I will also teach you this course  How do you earn more money through web development?  With that said, I will put it in the description  You can take it from the repository  Thank you so much guys for watching this video"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1150.3799999999999,
+            "end": 1152.3799999999999,
+            "text": " And I will see you next time"
+        }
+    ],
+    "text": " In today's video, I will tell you about heading and paragraphs  I will also tell you about anchor text  If you have found this course awesome, then please like this video  Please like and share it with your friends  In this video, we will make a small project  Which will be a bookmark website  This bookmark website will help you to get all your favorite websites  And you will be able to use it in actual use  So let's start quickly  In the comments, click on the subscribe button  Let's roll the intro  So guys, as you can see, I have already made my computer screen  And if you haven't even done playlist access yet, then you can access it  One more thing that I want to tell you guys, is that if you go to getup.com  You will go to getup.com slash code and you will go to the repository  So you will get the signature web of the course of getup  Now in this, I have made all the other videos and made a folder  And made a completely different folder  So you will get it  So you have to access it from the source code  So that you can get it in the description  I will also put it in the description  So don't worry about it  Now we will make a very basic website today  But it will be very important for us  Because it will be our first useful website  So I will not take much time here  I will make a new folder in this folder  And in the name of it, I will make a video for you  Because it is our fourth video  So I will make a video from the name of it  I will try and open it with code  So that the folder will open in our VS code  After doing this, I will do the same  Which we always do with index.html  Main.css  Style.css  And with that, script.js  These are the three files we usually make  If I write CSS, I will write here, I will write script  But for now, I will write something like  I will write it in the document  My bookmarks  I will make the bookmark website  And I will write it in the code  I will write it in the title  What is H1?  You can write it in the web page  We talked about the basic structure  We said that it is HTML  HTML is equal to EN  In EN, it is the value of the attribute  EN  In English, this is the content in this page  This is the search engine  Or if any web page has a link  Then you will know that in the web page  In English, you can parse this web page  The browser will also know  That your web page is in English  Now, here is the header  The header is in the metadata  The title is in the page  The link of CSS is in the information  The body is in the main content  Now, the tag is in the tag  Which is called H1  And I will write it in the bookmarks  If I write here, I will write it in the bookmarks  H1 will write it in the tags  And if I want to live it  I will click here  And after that, I will browser it  See how my bookmarks are showing  Now, why should I always use H1  Directly, I wrote my bookmark  Because I will tell the browser  This is my heading and this is my first level heading  Now, I want to write in the bookmarks  In the bookmarks  I want to write a main bookmark  And a secondary bookmark  So, I will use H2  So, if you have used Microsoft Word  You will know what H1H2 is  But if you do not know  I will tell you that H1 is your main level heading  And the second level heading  Main bookmarks  And secondary bookmarks  I will write it here  And I will write it  Auld Shift auld downer  If I click again, then you will get the cursor.  I will add all the bookmarks in the code.  So, my bookmarks are in the dash code.  I will write something like this.  I have written it here.  I will click on the Alt button.  I will get multiple cursor.  I will type whatever I want.  I will type whatever I want.  I will type whatever I want.  Like this video.  I will give some letters like this.  I will update them.  This is my main heading.  From H1, H2,H6 is heading.  assuming that you gave the main heading.  After the main heading, you gave the secondary heading.  Again, you have to give the heading inside.  And so on.  You must give many sub-headings.  You can give the H6 heading.  The H6 will be more than enough.  I have added 6 letters in the HTML.  You don't need the H7,you will never do it.  If you talk about practical life.  And if you can use the H6 for the same purpose,  Because after this small event,  You will have a small event for you.  So, you will have to go for small event.  Now, I will do the Alt Shift down.  I will replicate it.  And I will click Alt,  I will click Alt,  This is all the shortcuts that I am telling you.  So that you guys have a productivity.  Now I have put 2 cutters here.  I will do the Backspace 3.  I will click Alt, I will click Alt, I will click H4.  Okay.  I will click here, I will click H5.  Okay.  I will click here, I will click here,  I will click H6 here.  So, H6 is the same.  Now, I will write here using H1.  So that you guys know.  I will write here using the space.  I will write H.  And now, I will click here,  2, 3, 4, 5, 6.  And you can see that it looks like this.  So, you guys know that H1 is like this.  H2 is like this.  So, H6 is like this.  And what is H6?  It will end up like this.  So, H6 is more than enough.  So, I will show you guys practical demonstration.  I have got my HTML tutorial.  So, here I have given the main heading.  And then, I have given the HTML.  Then, I have given the features of HTML.  This is from H1.  This is from H2.  This is from H2.  This is from H3.  This is from H2.  The main heading is HTML introduction.  This is all heading.  I had given some exercise in it.  So, I used H3 in it.  Then, I have got H2 in it.  Because, H2 in it,  H1, H2, H4, H4, H4, H5, H6,  are there.  I hope you guys understand.  Many people are commenting.  If I am making this course as a beginner course.  When I tell you in HTML,  then you guys will say that it is easy.  It will be difficult to say.  Then, I will tell you in few seconds.  Then, I will say Javascript.  Then, I will do something.  Then, I will write a bootstrap.  Then, I will talk, and then, I will react.  Then, I would react.  Then, I would note Jst.  Then, I will take something and then,  I could see a mountain above.  Then, I will talk for 1-2 hours.  Then, I would say,  Then, I will raise the bell like anything.  I will give the bell again.  This is a Lorem 23, I will give you 23 words  You can trap the word on the view  You won't get the whole thing  So you can trap the view  Now you can see the Lorem Epsum Dollar Set  This is a dummy text  Why do we want dummy text?  Because we want to make template  And we have to fill the template  We have to make a website  which shows the OEO rooms  Now the OEO become a member  I don't want to write OEO for business  I wrote Lorem here  I want to write something here  I want to write Lorem with 7 words  I want to write Lorem 7  I will give OEO to them  I will fill the placeholder  I will use it  My plan is that we will make a website  so that you will know how to work  This is also a popular website  If you use these services  then you should know in the comment section  We will see more things  There is a paragraph  You have to style it  All these things go through CSS  Now in paragraph  You can see that I wrote Lorem 23  I will enter the text  I will write Lorem 10  I will only write 10 words  If I want Lorem 100  I will fill my page  Then I can do it  This Lorem value tray is very big  And whenever we will make a website  I will make Amazon Dotting  I will make Amazon Dotting  I have to write something here  I will write 3 words here  So I will write Lorem 3  I will not think about make-up products  I will write Lorem 4  I will write Lorem 2  I will make a template and do it  Everything will be in my database  I can bring this text  Many people asked  Is this course job ready?  Yes, this course is ready  Now let me give you an example  Which is what I will do  You will learn this course  Now let's talk about what are the attributes in HTML  These are attributes in HTML  I used HTML and used a tag  This is the language attribute  In body we did not use attribute  In H1 we did not do attribute  We did not do p. We did not do attribute  But I can use p-make-style attribute  Which also says  I will read background color  Because it is something like this  The background color is red, it also says inline css through style attribute.  If you add css, first you have to add css here.  But if you add style equal to the color, then you will get background red here.  I will show you this red red background.  I will take it as a teal.  I will do this.  This color looks good.  So I can also add style inline.  But when you make the website of the industry, we use it very less.  Because the maintainability becomes less.  So we want to ship a small bundle on the browser.  And the website is more optimized.  So we avoid all these things.  But inline css is a style tag.  But here is a style attribute.  P is a tag.  P tag is a attribute style.  Through which we can style this element.  We will also read a lot of attributes about this.  Attributes basically give an enhanced functionality to an element.  For this reason, we have given you a style.  Which was the background color.  For this background color, we used a style attribute.  Similarly, to give properties, we used a tag as an element.  Attributes.  Like we talked about the link.  We talked about link colon css.  Link has a relic attribute.  So what can we do with this attribute?  We can use this css style sheet.  We have a background color.  We have a body color.  We have a background color.  We have a background color.  And don't worry about it.  We will tell you all about this.  But I will tell you.  I mean, I will do hot pink.  Listen to a more functionalities of VS code.  This is an Inja tag.  It will be over here.  You can choose the color you want.  Like this.  I will leave it.  This is the background color of my body.  I will write it in the Inja tag.  I will write it in the Inja tag.  Okay.  In index.html, we have come back.  If I want, I can hit it.  I will comment it.  Which is very natural.  The background color was coming from this style.  This background color was coming from this line css.  So this is not hot.  Which is very natural.  I have added this style to the background color.  Because of this background color.  Now we are going to make a bookmark manager.  BookmarkManager.html.  And I am going to make a different file.  Because I have told you all the different settings.  I am going to make a useful bookmark manager.  I will write you.  BookmarkManager.  Now you guys know why this bookmark manager is making.  This is our hands.  This is our own child.  This is our own child.  This is our own child.  This is our own child.  You have made one software.  You have made one software.  The one is made by itself.  You can see here.  I will write here, I am going to write here.  I will write here.  It is my bookmark.  Now I will write here.  I will write here.  Then I will write here.  I will write here.  In fact, I will write here.  I will write here.  So what will be the secondary bookmarks?  I will put the secondary bookmarks here.  Now I will write in a paragraph  Google or I will write like this  Okay, we will write it like this  But in the coming videos, I will tell you  how to use the list  Now for you, Google  I will write you Google  Open Google  And I will use the anchor  So I will enter in A  A mandatory attribute  HRF means click on the link  So I will write HRF  HTTPS colon double slash  www.google.com  Go to this address and click on the open google  And I will cut the open google  and put it here  Because the content stack is like this  And you can see here  A HRF is also open google  We will make the anchor tag  You will see many links in the link  You can see  I will go to bookmarkmanager.html  You can see here  You can see all the bookmarks  I will open google  Now I will click on google  You can see  When I did not click on it, it was blue  When I visited it, it changed  When you visit it  There is a link in the link  I know that I have visited  Now I will tell you  If we want to open a new tab  I am clicking it on that tab  If you want to open a new tab  Then you can open it in two ways  Or you can choose the mouse  This mouse can also be clicked  I will tell you in the second way  If you want to choose a new tab  Then you can use an attribute  You can write here  Target is equal to underscore blank  And VS can be given  I have clicked two enter mark  Write in the node pad  What would have happened to you?  I mean the quality is the same  Free VS could be  But the quality is the same  Target is equal to underscore  You have to type the blank  If you click on it  I will click on it  I am not clicking on mouse  I will click on the new tab  I will click on the new tab  I can open it  Now I have written a simple open google  If you want  You can use it on your website  You can use it  I have written a good website  Now I will write open facebook  You can see www.facebook.com  And I will write here  Cora.com  And then we will write here  Let's write it  YouTube.com  Let's see  You can see  It is coming in one line  If you want it to come in one line  What will you do now?  You will put it in your paragraph  It is a dirty way  I am saying it dirty  I will tell you  You can close it in paragraph  If you want  I will shift the right arrow  I will do the control X  After that, all the cutters will go in the end  Because if you want to go in the end  I will do the control  Now I have used it very short  And you will see  But I have simply done that  The functionality of VS code is used  Multiple cutters  All the time I have bought multiple cutters  This is not a good way to use the paragraph  We don't even make a list  We make a list  Because we don't have a list  But we will do the work  We will show you  And the one we did not visit  Facebook visited  Cora visited  Cora visited  We will put 2nd bookmarks  2nd bookmarks are available  Which you will visit  Follow vkpedia.com  And follow  Stack Overflow  We will write this  Stack Overflow  We will do a capital  And you will see the 2nd bookmarks  Your vkpedia and Stack Overflow  You can make a better bookmark  We will see the styling  If you are looking for a new style  You will see the next step  You will see the next step  Because we will do the styling  We will do the styling  You will see the bookmark  You will see the title  And I will write it in H1  Both are the same  The title is the same  And you will see the bookmark  You can make a bookmark manager  You can use it  And you will see  You will see  I have made a body  To do the styling  You can do the d  I will always do the blog  I will always do it  So, having closed aside  So this is our bookmark manager, I hope you all liked it  I have a request from you guys, today our 4 videos are complete  If you like a course, I want you to share it with your friends  I know you will share it very less but if you will do it  Then don't give me much strength  And I will try to get more courses  Many people are saying that how do you get a course?  How do you get a benefit?  I will find the ways to make more money  But the thing is, I am going to mark this course  This is the biggest course of web development  I will put everything in it  And I will take less time to learn more from you  I had a lot of hate texts, many companies had asked me to launch it  Let me do it on my platform  No, I will not, but many companies have asked me to launch this as a paid course  Why are you doing this? You will regret your decision  But hopefully I will not regret my decision  To make this course free  I will earn money from the other way  And I will also teach you this course  How do you earn more money through web development?  With that said, I will put it in the description  You can take it from the repository  Thank you so much guys for watching this video  And I will see you next time"
+}

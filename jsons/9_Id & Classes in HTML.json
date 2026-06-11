@@ -1,0 +1,397 @@
+{
+    "chunks": [
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 0.0,
+            "end": 18.900000000000002,
+            "text": " In this video, I will tell you what are the ideas and classes?  The concept of the idea and classes are very confusing in some concepts.  In fact, when I was learning HTML, I was very confused in my early days in the idea and classes.  The idea means unique identifier.  If you give an idea to an element, then you will not give the other element the idea."
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 18.900000000000002,
+            "end": 43.3,
+            "text": " But the meaning of the class is that if you want to give multiple elements, then you will give them multiple classes.  For example, you can give a div to a red name class, and a form.  You can also give an article to a red name class, and a header to give an article to a red name class.  Please like this video because we will go to the computer screen and we are going to take a closer look at these things.  Let's roll the intro."
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 52.8,
+            "end": 77.30000000000001,
+            "text": " Guys, I am back and if you guys have not access to sigma web development course,  click on the playlist and save the book and upload it on the source code.  I will make a folder in the folder and the video number 9.  I will make a folder in the video number 9.  I will make a video number 9 and make a folder in the video number 9."
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 77.30000000000001,
+            "end": 95.3,
+            "text": " You can see that I have opened this BS code here.  I will write an index.html and enter the exclamation mark.  Now I will tell you about the ID and classes.  You guys have only half a card, and if you do not have the ID, then no one will have the ID.  Do not write in the comment section that there is no ID."
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 95.3,
+            "end": 116.8,
+            "text": " Whenever you go to any place, you have to show an ID in some cases to prove your ID.  I am here.  Now if you guys have understood the ID and classes, then the ID is your identity.  Now listen to the story.  This is John and this is Harry."
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 116.8,
+            "end": 135.8,
+            "text": " These two are very good friends.  They do not share their lunch and other friends.  They do not have the ID and other friends.  Now you can see that this is John and Harry.  This is my ID number."
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 136.8,
+            "end": 155.8,
+            "text": " John's ID number is similar to this.  This is John's ID number and this is my ID number.  Both of us can never be the same.  If you believe that our friends are friends, my friends are friends.  Tania and John's friends are friends."
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 155.8,
+            "end": 171.8,
+            "text": " So their ID number will be different.  This is the ID number of Tania.  Now I will tell you the number of Tania.  John and Harry are friends.  This is the ID number of Tania."
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 171.8,
+            "end": 191.72,
+            "text": " Both of them are the same.  I will tell you an ID number of Tania and this is my ID number.  It is my ID number of Tania and this is my ID number of Tania.  If I tell you that your ID number will be 16170.  Now if I say 4th, 6th, 7th, 11th, 7th, 13th,"
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 191.92000000000002,
+            "end": 204.18,
+            "text": " Then you will understand that the story of Tanya is going to be about this process.  So, it justifies the unique identity of the story,  the history of Tanya, the story of Harry, the first, the first, and the second John,  So, what is this?  This is the name of this place, what is his knowledge of this."
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 204.18,
+            "end": 213.38000000000002,
+            "text": " This is just an id.  This is not the number of stories of this, okay?  Same way, with that person,  Malo John and Harry asked his childhood children,  Oh, Chaudi are the both of them and one of them were reading this in the last class."
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 213.38000000000002,
+            "end": 255.12,
+            "text": " And that was the name of the book,  In class, 1 is a class that is a class of a person.  1 person can be a class of a person.  Because we have a class 10.  And this is a tuition."
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 255.12,
+            "end": 265.12,
+            "text": " Where this class is in class 10A.  We have classes in this tuition.  This is the class 10.  The class 10 is the class 10A.  And the class seven is the class 20C."
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 265.12,
+            "end": 283.12,
+            "text": " So the class is red.  So the class is not study-classing class.  This is the class of class 5A.  Now you can see that John Harry Shruti is going to delete it.  I will delete it."
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 283.12,
+            "end": 301.12,
+            "text": " Now I will make a div.  And I have made a span.  And I have also made a class.  I can give different elements to the same class.  But if I want to add ID in some element,"
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 301.12,
+            "end": 319.12,
+            "text": " then I don't want to add any other element in the ID.  Because this is the first element of this card.  If this is the second div, then I can't add any other element.  Then I have to add some more ID.  I will write the second one here and then I will write the first one here."
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 319.12,
+            "end": 337.12,
+            "text": " So this ID and the class concept,  I personally thought that it was very late.  I didn't tell anyone that the ID identifies uniquely.  I can also add multiple classes in one element.  And I can also add multiple elements in one class."
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 337.12,
+            "end": 352.12,
+            "text": " As soon as I have given it a red class,  I can give it a BGL.  I can give it a class.  And if we give it a multiple element, then I will add space.  As soon as I want it to add multiple classes in this element,"
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 352.12,
+            "end": 362.12,
+            "text": " then what I will do?  I will write a red here.  Then I will write BGL.  I can give it a multiple class in the same element.  Can I give the same element a multiple ID?"
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 362.12,
+            "end": 375.12,
+            "text": " Can I give it a multiple ID?  Can I give it a multiple ID?  I don't know, but it's not a big deal.  It's a big deal.  The number of the person is one and the number of the person is the same."
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 375.12,
+            "end": 384.12,
+            "text": " Okay?  You can't have multiple elements in one.  You can't have multiple elements in the same.  However, the class,  if I say that you present a T-shirt with which color do you wear?"
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 384.12,
+            "end": 428.12,
+            "text": " Or that you can wear a red color T-shirt with five people.  I am trying to make a point in the style of CSS  I will click here and now I will show you the preview  I will show you one thing  I am doing a class in CSS"
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 428.12,
+            "end": 436.12,
+            "text": " how to target the dot  dot rate means red class  and hash first div means  hash means ID  dot means class"
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 436.12,
+            "end": 446.12,
+            "text": " ok  if I say that the first div is  background color red  the first div will be red  this is the selector in CSS"
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 446.12,
+            "end": 456.12,
+            "text": " and now I don't want to confuse you  and I can comment like this in CSS  ok  we will learn all these things  I will do a dot rate"
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 456.12,
+            "end": 464.12,
+            "text": " I will write here  background color red  and then I will do a dot bg  I will do a dot bg  which will be my dot"
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 464.12,
+            "end": 472.12,
+            "text": " dot means class  bg L  I will do a background color  sorry I will do a color red  I will not do a background color red"
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 472.12,
+            "end": 481.12,
+            "text": " I will do a dot rate  I will do a background color  and then I will do a background color  so you can use this  in CSS"
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 481.12,
+            "end": 490.12,
+            "text": " I hope you all will understand  One thing to note here is  that the ID and classes  are from attribute  this is the ID and the class"
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 490.12,
+            "end": 499.12,
+            "text": " so what are the ID and the elements  or not  the elements are the attributes  ID is one more  I will tell you what the ID is"
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 499.12,
+            "end": 506.12,
+            "text": " I will show you  if I write on Wikipedia  and go to the coding  then I will go on Wikipedia  I will go on another page"
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 506.12,
+            "end": 512.12,
+            "text": " so you can see  when you go on Wikipedia  you can see  what you can do  that particular"
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 512.12,
+            "end": 517.12,
+            "text": " link of the place  I will show you  how it is  I will go on another page  I scroll down"
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 517.12,
+            "end": 524.12,
+            "text": " and  here I will inspect  the ID  this is the ID  so I will copy the ID"
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 524.12,
+            "end": 529.12,
+            "text": " and  if I put here  hashtag  and the ID  I will enter"
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 529.12,
+            "end": 534.12,
+            "text": " and I will enter  so I will go on this  I will go on ICD  so you can see  I will go on Wikipedia"
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 534.12,
+            "end": 541.12,
+            "text": " and I will scroll  and show the particular ID  I will scroll  instead of showing  this"
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 541.12,
+            "end": 546.12,
+            "text": " I have scrolled  because I want to  take this ID  so even in the linking  it is the ID"
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 546.12,
+            "end": 551.12,
+            "text": " so remember  you will tell  that you can also  generate the links  you can"
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 551.12,
+            "end": 556.12,
+            "text": " write a link  and then  if the link is open  then you will focus  on that ID"
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 556.12,
+            "end": 561.12,
+            "text": " in this case  you can see  because I am  entering  so maybe"
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 561.12,
+            "end": 567.12,
+            "text": " I have wronged the ID  but you got the point  you got the point  29.29  and I will enter"
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 567.12,
+            "end": 572.12,
+            "text": " so you can see  I have gone down  I have opened the  calendar tab  but you can see"
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 572.12,
+            "end": 577.12,
+            "text": " I have gone down  so I will scroll  and then  open the new tab  and"
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 577.12,
+            "end": 582.12,
+            "text": " if I do this  then I will scroll  and take  the ID  so I hope"
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 582.12,
+            "end": 587.12,
+            "text": " you have understood  the ID  and the ID  means  a person's property"
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 587.12,
+            "end": 592.12,
+            "text": " is read  or read  or what is in the class  one element  can be used"
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 592.12,
+            "end": 597.12,
+            "text": " as multiple classes  one element  can be read  and the background  can be read"
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 597.12,
+            "end": 602.12,
+            "text": " and the other element  can be read  so read  can be used  read class"
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 602.12,
+            "end": 607.12,
+            "text": " you can only  write a fake element  and in one element  you can also write  BGL"
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 607.12,
+            "end": 612.12,
+            "text": " so I hope  you have understood  in this video  I was reading captions  and I was happy"
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 612.12,
+            "end": 617.12,
+            "text": " I was  saying  I am doing it  and this thing  I was 5-10 times"
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 617.12,
+            "end": 622.12,
+            "text": " I was very sad  I asked  to access  name your village  mind"
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 622.12,
+            "end": 627.12,
+            "text": " so that's what  how to access  playlist  and give a thumbs-au  please do like"
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 627.12,
+            "end": 632.12,
+            "text": " and comment  in the comment section  answer  comments  thanks so much"
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML",
+            "start": 632.12,
+            "end": 635.12,
+            "text": " for watching this video  and I will see you  next time"
+        }
+    ],
+    "text": " In this video, I will tell you what are the ideas and classes?  The concept of the idea and classes are very confusing in some concepts.  In fact, when I was learning HTML, I was very confused in my early days in the idea and classes.  The idea means unique identifier.  If you give an idea to an element, then you will not give the other element the idea.  But the meaning of the class is that if you want to give multiple elements, then you will give them multiple classes.  For example, you can give a div to a red name class, and a form.  You can also give an article to a red name class, and a header to give an article to a red name class.  Please like this video because we will go to the computer screen and we are going to take a closer look at these things.  Let's roll the intro.  Guys, I am back and if you guys have not access to sigma web development course,  click on the playlist and save the book and upload it on the source code.  I will make a folder in the folder and the video number 9.  I will make a folder in the video number 9.  I will make a video number 9 and make a folder in the video number 9.  You can see that I have opened this BS code here.  I will write an index.html and enter the exclamation mark.  Now I will tell you about the ID and classes.  You guys have only half a card, and if you do not have the ID, then no one will have the ID.  Do not write in the comment section that there is no ID.  Whenever you go to any place, you have to show an ID in some cases to prove your ID.  I am here.  Now if you guys have understood the ID and classes, then the ID is your identity.  Now listen to the story.  This is John and this is Harry.  These two are very good friends.  They do not share their lunch and other friends.  They do not have the ID and other friends.  Now you can see that this is John and Harry.  This is my ID number.  John's ID number is similar to this.  This is John's ID number and this is my ID number.  Both of us can never be the same.  If you believe that our friends are friends, my friends are friends.  Tania and John's friends are friends.  So their ID number will be different.  This is the ID number of Tania.  Now I will tell you the number of Tania.  John and Harry are friends.  This is the ID number of Tania.  Both of them are the same.  I will tell you an ID number of Tania and this is my ID number.  It is my ID number of Tania and this is my ID number of Tania.  If I tell you that your ID number will be 16170.  Now if I say 4th, 6th, 7th, 11th, 7th, 13th,  Then you will understand that the story of Tanya is going to be about this process.  So, it justifies the unique identity of the story,  the history of Tanya, the story of Harry, the first, the first, and the second John,  So, what is this?  This is the name of this place, what is his knowledge of this.  This is just an id.  This is not the number of stories of this, okay?  Same way, with that person,  Malo John and Harry asked his childhood children,  Oh, Chaudi are the both of them and one of them were reading this in the last class.  And that was the name of the book,  In class, 1 is a class that is a class of a person.  1 person can be a class of a person.  Because we have a class 10.  And this is a tuition.  Where this class is in class 10A.  We have classes in this tuition.  This is the class 10.  The class 10 is the class 10A.  And the class seven is the class 20C.  So the class is red.  So the class is not study-classing class.  This is the class of class 5A.  Now you can see that John Harry Shruti is going to delete it.  I will delete it.  Now I will make a div.  And I have made a span.  And I have also made a class.  I can give different elements to the same class.  But if I want to add ID in some element,  then I don't want to add any other element in the ID.  Because this is the first element of this card.  If this is the second div, then I can't add any other element.  Then I have to add some more ID.  I will write the second one here and then I will write the first one here.  So this ID and the class concept,  I personally thought that it was very late.  I didn't tell anyone that the ID identifies uniquely.  I can also add multiple classes in one element.  And I can also add multiple elements in one class.  As soon as I have given it a red class,  I can give it a BGL.  I can give it a class.  And if we give it a multiple element, then I will add space.  As soon as I want it to add multiple classes in this element,  then what I will do?  I will write a red here.  Then I will write BGL.  I can give it a multiple class in the same element.  Can I give the same element a multiple ID?  Can I give it a multiple ID?  Can I give it a multiple ID?  I don't know, but it's not a big deal.  It's a big deal.  The number of the person is one and the number of the person is the same.  Okay?  You can't have multiple elements in one.  You can't have multiple elements in the same.  However, the class,  if I say that you present a T-shirt with which color do you wear?  Or that you can wear a red color T-shirt with five people.  I am trying to make a point in the style of CSS  I will click here and now I will show you the preview  I will show you one thing  I am doing a class in CSS  how to target the dot  dot rate means red class  and hash first div means  hash means ID  dot means class  ok  if I say that the first div is  background color red  the first div will be red  this is the selector in CSS  and now I don't want to confuse you  and I can comment like this in CSS  ok  we will learn all these things  I will do a dot rate  I will write here  background color red  and then I will do a dot bg  I will do a dot bg  which will be my dot  dot means class  bg L  I will do a background color  sorry I will do a color red  I will not do a background color red  I will do a dot rate  I will do a background color  and then I will do a background color  so you can use this  in CSS  I hope you all will understand  One thing to note here is  that the ID and classes  are from attribute  this is the ID and the class  so what are the ID and the elements  or not  the elements are the attributes  ID is one more  I will tell you what the ID is  I will show you  if I write on Wikipedia  and go to the coding  then I will go on Wikipedia  I will go on another page  so you can see  when you go on Wikipedia  you can see  what you can do  that particular  link of the place  I will show you  how it is  I will go on another page  I scroll down  and  here I will inspect  the ID  this is the ID  so I will copy the ID  and  if I put here  hashtag  and the ID  I will enter  and I will enter  so I will go on this  I will go on ICD  so you can see  I will go on Wikipedia  and I will scroll  and show the particular ID  I will scroll  instead of showing  this  I have scrolled  because I want to  take this ID  so even in the linking  it is the ID  so remember  you will tell  that you can also  generate the links  you can  write a link  and then  if the link is open  then you will focus  on that ID  in this case  you can see  because I am  entering  so maybe  I have wronged the ID  but you got the point  you got the point  29.29  and I will enter  so you can see  I have gone down  I have opened the  calendar tab  but you can see  I have gone down  so I will scroll  and then  open the new tab  and  if I do this  then I will scroll  and take  the ID  so I hope  you have understood  the ID  and the ID  means  a person's property  is read  or read  or what is in the class  one element  can be used  as multiple classes  one element  can be read  and the background  can be read  and the other element  can be read  so read  can be used  read class  you can only  write a fake element  and in one element  you can also write  BGL  so I hope  you have understood  in this video  I was reading captions  and I was happy  I was  saying  I am doing it  and this thing  I was 5-10 times  I was very sad  I asked  to access  name your village  mind  so that's what  how to access  playlist  and give a thumbs-au  please do like  and comment  in the comment section  answer  comments  thanks so much  for watching this video  and I will see you  next time"
+}

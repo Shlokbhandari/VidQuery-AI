@@ -1,0 +1,593 @@
+{
+    "chunks": [
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 0.0,
+            "end": 28.0,
+            "text": " What are the forms in this video and what is the input tag in the form?  It is a very important element of the form because through the form you submit the data from client to server.  These are the forms which you see on Google Forms and enquiry forms.  On the flight or railway ticket, you can submit all the details and HTML forms.  In the last video, I would like to request you to press the like button."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 28.0,
+            "end": 54.0,
+            "text": " So that you can maintain the high energy throughout the course.  So let's go to the computer screen and see about the forms and the best practices.  Let's roll the intro.  So guys, I am at my computer screen.  So I am going to make a folder which I am going to use in my video 6."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 54.0,
+            "end": 69.0,
+            "text": " I will write a video and open it with code.  I have already told you all this.  And you can also make the index.html.  And in this, I will add an exclamation mark.  I will wrap the view and the screen mode."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 69.0,
+            "end": 80.0,
+            "text": " And I will take a look at the forms.  Let's learn it.  So I have set the title here for the forms.  What is the title of the work?  I will show you the title on the page."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 80.0,
+            "end": 92.0,
+            "text": " I want to tell you about a very important setting.  It is a show preview.  People have also told me that you have to click so many times.  So you can do something.  Yes, you can click on the gear."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 92.0,
+            "end": 108.0,
+            "text": " You can click on the settings.  And after clicking on the settings, you can simply click on the live preview.  And we can actually set it.  And when we click, what is the external browser?  I will do something like this."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 108.0,
+            "end": 119.0,
+            "text": " I will click on the external browser.  And I will come to the browser.  And the signal web development code playlist.  I will definitely click on the star.  And on the bookmark."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 119.0,
+            "end": 128.0,
+            "text": " But now I want to tell you that we will click here.  You can see it has been opened.  So if you want to do this, do it like this.  But what happens?  You want to do side by side view."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 128.0,
+            "end": 139.0,
+            "text": " And when you want to do that,  You are working on design.  So whenever you are working on design,  You will definitely want you to see the live preview.  Here, which is why this extension was made."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 139.0,
+            "end": 148.0,
+            "text": " And this live service was different.  That's why you can see the preview on the side.  Now what will we do here?  Let's go about the forms.  What is the form?"
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 148.0,
+            "end": 156.0,
+            "text": " You don't know the name of the form.  It means it is a real form.  We increase it.  It becomes our reservation.  We increase the form of ITJ."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 156.0,
+            "end": 164.0,
+            "text": " We increase the form of need.  So that our data can reach the form.  Until we want it.  So this is the form.  It is a stable form tag."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 164.0,
+            "end": 171.0,
+            "text": " Like you will write the form.  You will enter.  This way you will ask the first question.  What is the action of your form?  Get your post."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 171.0,
+            "end": 177.0,
+            "text": " Get requests are post requests.  I will tell you a very quick difference.  I will tell you.  I will show you something.  When we will read the backend."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 177.0,
+            "end": 186.0,
+            "text": " Get requests are very simple requests.  And post requests are sent.  In most of the cases,  When we don't have a lot of data.  As soon as our form is posted."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 186.0,
+            "end": 195.0,
+            "text": " We will use post requests in most of the cases.  And what is the get request?  It is very simple request.  We have to tell the server.  And that's it."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 195.0,
+            "end": 202.0,
+            "text": " Then we have to hit the server.  That's it.  But if you don't understand anything now.  That should be fine.  It is not visible."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 202.0,
+            "end": 215.0,
+            "text": " We will talk about it in detail.  So the form action is equal to post.  Now I can show you some input tags.  What are the input tags?  What are the elements in your form?"
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 215.0,
+            "end": 225.0,
+            "text": " Like you can add date,  You can add form within,  You can tell the name,  You can tell the phone number,  You can tell the age,"
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 225.0,
+            "end": 237.0,
+            "text": " You should add something in it in form.  So I want to show you  That if your input tags are put in the form.  And you will add a label tag that is used to label the input.  So what I will show you."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 237.0,
+            "end": 248.0,
+            "text": " The simplest input tags are types equal to text.  I will put the text in here  and you can see here  if you zoom out  you can see the text in here"
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 248.0,
+            "end": 258.0,
+            "text": " and the user name in here  and you can see here  you can enter the user name  and you can enter the user name  and you can enter the user name"
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 258.0,
+            "end": 268.0,
+            "text": " I will write here  I will write here  Malo Form 2  Apply  for Sigma Web Dev"
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 268.0,
+            "end": 278.0,
+            "text": " Sigma Web Dev  Development  T.A.  I am doing teaching assistants  for Sigma Web Dev"
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 278.0,
+            "end": 288.0,
+            "text": " so we can write here  By the way, I have put all the titles  if you don't have playlist access  and with that, I will show you  there are a lot of subtitles"
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 288.0,
+            "end": 298.0,
+            "text": " I will show you in the description  and I will write down the number  and I will write down the number  and I will write down the number  and I will give you a little bit of knowledge"
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 298.0,
+            "end": 308.0,
+            "text": " and I will show you  what you are doing  as we have placed them here  you are entering the user name  and we will talk about the input tag"
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 308.0,
+            "end": 316.96,
+            "text": " so we are going to use the label tag  now we will write the label for the form  Malo I will write the name  user name  and what I am going to do"
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 316.96,
+            "end": 332.96,
+            "text": " I will put in the form  and I will write the ID  and I will tell you  what should be the unique identity of this element  You will not be able to identify the element as you can't find the same ID user"
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 332.96,
+            "end": 348.96,
+            "text": " I will tell you in detail about this  I have written a label for this user  You can see that the label will be here  I am not adding anything in the label  So I will enter the user name"
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 348.96,
+            "end": 358.96,
+            "text": " You can see that I have added this  You can see the user name  You can identify this user name  You can enter the user name  You can enter the label"
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 358.96,
+            "end": 368.96,
+            "text": " I have added this in the quiz  I will turn on the connection  You have created the address  You can enter your gender  What is the name?"
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 369.76,
+            "end": 380.96,
+            "text": " I will to name this name instead  What is the name?  It is an open crock  Did you see the date  Did you see the judgment in all of our blog elements?"
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 380.96,
+            "end": 403.96,
+            "text": " Now I am adding a new space in DevMiddle.  It also has a BR tag.  But I don't prefer BR tag and you will get to know why we don't want to upload our HTML.  You will know in the coming videos.  Now you can see the user name, email, email, etc."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 403.96000000000004,
+            "end": 421.96000000000004,
+            "text": " Now you can see the email is getting ready.  Why is it getting so low?  I have added ID and email to the power.  Now you can see the name is same.  So the name is equal to gender."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 421.96000000000004,
+            "end": 435.96000000000004,
+            "text": " And name is equal to gender is p input radio tag.  And the type is equal to radio.  And if the name is same,  you can select only one at a time.  If I select this one, it will only be visible."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 435.96000000000004,
+            "end": 449.96000000000004,
+            "text": " Now I will show you the ID in the label form.  And here in the form, I don't do it in the first one.  So when I click on the other one,  I don't select it.  I am not selecting it."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 449.96000000000004,
+            "end": 466.96000000000004,
+            "text": " So to select the female, I have to click here.  So I want to do it.  For is equal to the input tag of the ID.  So you can see here, I have added the label for is equal to female.  And we have a input tag of the type is equal to checkbox."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 466.96000000000004,
+            "end": 478.96000000000004,
+            "text": " If I add the type is equal to checkbox,  I will put it in the div.  I will do it in the format document.  The document will be very good.  The formatting will be very good."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 478.96000000000004,
+            "end": 490.96000000000004,
+            "text": " Now you can see here, subscribe to newsletters.  I can check here.  And there is a difference between checkbox and checkbox.  You can check the checkbox.  If you want to see the female or female,"
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 490.96000000000004,
+            "end": 503.96000000000004,
+            "text": " you can select it.  Now I have a text area and select tag.  And I will show you the text area.  So I have a text area and select tag.  I will copy the text area."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 503.96000000000004,
+            "end": 516.96,
+            "text": " And I will show you the text area.  So the text area is equal to the type is equal to the text.  There is a rows and column attribute.  You can see the size of the text area.  Now you can see here, I have added the placeholder."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 516.96,
+            "end": 523.96,
+            "text": " Enter your comment.  Enter your comment.  I have added the text area.  Ideally, we will keep it empty.  Or we will not give it a new line."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 523.96,
+            "end": 531.96,
+            "text": " I will hide it here.  Enter your comment.  And now you can see the left side.  You can see the left side.  Enter your comment."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 531.96,
+            "end": 541.96,
+            "text": " You can add any user or comment.  Now you can see the text area.  Enter your comment.  So you don't want to do this.  You want to keep the text area empty."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 541.96,
+            "end": 550.96,
+            "text": " And you can add a label.  And you can add a label.  For this is equal to comment.  And we will definitely add the ID.  When we add the font, it is inside the font."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 550.96,
+            "end": 559.96,
+            "text": " For this element, it has its ID.  Now look here.  Enter your comment.  So what will happen?  Enter your comment."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 559.96,
+            "end": 564.96,
+            "text": " Enter your comment.  Enter your comment.  Enter your comment.  Now you can see here.  This is not the style."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 564.96,
+            "end": 573.96,
+            "text": " This is not the style.  Because we will style it with CSS.  Now I will add just BRTAC.  But I don't recommend BRTAC.  I am telling you this."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 573.96,
+            "end": 582.96,
+            "text": " I don't recommend BRTAC.  Because BRTAC is very thick.  By the way, you should know that BRTAC is a line-break tag.  It is a line-break tag.  Everything is fine."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 582.96,
+            "end": 589.96,
+            "text": " Everything is fine.  What is the problem with BRTAC?  But I will tell you.  BRTAC is something that I don't recommend.  I don't recommend using it."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 589.96,
+            "end": 598.96,
+            "text": " But I don't recommend using it all the time.  So what happens?  People usually use BRTAC and add new spaces.  I will post a lot of things.  I will copy it."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 598.96,
+            "end": 605.96,
+            "text": " I will show you the select tag.  From this side.  And you can see that  I will add the select tag here.  I will add div in it."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 605.96,
+            "end": 611.96,
+            "text": " So what happens in select?  You get options.  Selects the syntax.  It happens in the same way.  You can use it in Apple."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 611.96,
+            "end": 618.96,
+            "text": " And in Cherry.  You can use it in any three.  Now you can see here.  There are three options.  And here I have done a value is equal to Apple."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 618.96,
+            "end": 629.96,
+            "text": " First select tag.  Then name is equal to fruits.  Then option value is equal to Apple.  Option value is equal to option value is equal to Cherry.  When we will parse this form data."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 629.96,
+            "end": 639.96,
+            "text": " Then I will tell you the JavaScript partner.  This way we have to send data to the server.  So about the form.  There are a lot of things that I am going to tell you.  So stay tuned for that."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 639.96,
+            "end": 648.96,
+            "text": " This was about the elements of the form.  I had told you all the elements of the form in this video.  And with that,  I will tell you all the select tags.  About the form."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 648.96,
+            "end": 657.96,
+            "text": " The other attributes.  I told you in action.  You can submit a page from action to a form.  Where will you handle the form?  You can give that data here."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 657.96,
+            "end": 668.96,
+            "text": " Then the method is that getrequest or postrequest.  I will tell you in the next video.  But I have told you in a rough way.  That getrequest is very simple request.  Postrequest is used when there is a big amount of data."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 668.96,
+            "end": 677.96,
+            "text": " Because it is the limit of getrequest.  You can send a lot of data in postrequest.  Okay.  In getrequest, we don't send passwords.  We send it with postrequest."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 677.96,
+            "end": 684.96,
+            "text": " Okay.  Now I have told you the method.  What is in name?  Name is equal to user name.  We mark it with name."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 684.96,
+            "end": 693.96,
+            "text": " If we mark it with name, we will know the server.  What is the corresponding value?  So what is the value of the server?  It will be the name and value of the server.  Okay."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 693.96,
+            "end": 701.96,
+            "text": " So we will see when we will process server side.  What does placeholder mean?  What does placeholder mean?  What will be written in it?  As you can see here, the user name is placeholder."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 701.96,
+            "end": 710.96,
+            "text": " I will click on it.  This is not written in the user name.  I will also write something.  But the user name is here.  I want to add user name."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 710.96,
+            "end": 717.96,
+            "text": " Then what does required means?  You have to require it.  You have to add it.  You will have to add value.  Or you will have to submit it."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 717.96,
+            "end": 726.96,
+            "text": " So we will use it a lot.  Then we have autofocus.  What is autofocus?  Autofocus is automatically focused.  I will show you the autofocus."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 726.96,
+            "end": 736.96,
+            "text": " So if you write and put tag in the autofocus.  Okay.  So enter the user name in autofocus.  I will reload it.  I will type it automatically."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 736.96,
+            "end": 743.96,
+            "text": " It will focus on autofocus.  Okay.  So autofocus is this.  You will also type it here.  Okay."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 743.96,
+            "end": 752.96,
+            "text": " I hope you will understand this.  Now validation attribute is here.  I have told you in the required.  You can give the pattern.  You can give regular expression pattern."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 752.96,
+            "end": 757.96,
+            "text": " You can give it to people.  Don't you worry.  What are you saying?  You don't have the expression.  I am not here."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 757.96,
+            "end": 766.96,
+            "text": " That's why I am here.  You will learn all the things.  You will understand that we will accept a particular pattern.  If the pattern is equal to this.  You can't put the pattern."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 766.96,
+            "end": 777.96,
+            "text": " Okay.  You should know these things here.  So I hope you are enjoying this video.  And with that, I would like to give a comment section.  Let me know in the comment section."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 777.96,
+            "end": 786.96,
+            "text": " And before the video.  Please review this course.  Many people ask me.  I should not do this course.  People don't value it."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 786.96,
+            "end": 794.96,
+            "text": " This course is free.  We will watch it.  There is a paid course.  And I would also like to give a note to those people.  They told me that we have paid the course."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 794.96,
+            "end": 802.96,
+            "text": " What should they do?  They will pay the money.  Or we will join the sigma batch.  And you will join the sigma batch.  Cut your losses and join the sigma batch."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 802.96,
+            "end": 812.96,
+            "text": " Look, what is the quality of this course?  I don't think you need to tell me.  So you guys, do this.  All of you will meet here.  I am telling you."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 812.96,
+            "end": 819.96,
+            "text": " This is what I mean.  This is what I was going to sell in the course.  This was the start of the month.  Because we fixed it.  I was going to sell it for Rs. 10,000."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 819.96,
+            "end": 832.96,
+            "text": " And I think there is nothing wrong in selling any course.  If there is nothing wrong in selling any course.  But the thing is that if you have some other course.  And you feel that the sigma batch is very big.  So you should join."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 832.96,
+            "end": 840.96,
+            "text": " Cut your losses and join.  Because if you make your career in the future.  You guys will not be able to do anything.  If you guys come back in time.  Then you guys will also say."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 840.96,
+            "end": 850.96,
+            "text": " Yes, we got a paid course.  Then we got a pre course.  And you guys have become a career.  And then you will not be able to do anything in the future.  So do what is right for you."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 850.96,
+            "end": 859.96,
+            "text": " And you guys will understand the way you think.  And you guys will understand the way you think.  So like the video.  And access the playlist.  And subscribe to the channel."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 859.96,
+            "end": 870.96,
+            "text": " And in the comment section,  The sigma batch OP is written.  And both of you will call my name.  Thank you guys for watching this video.  And I will see you next time."
+        },
+        {
+            "number": "7",
+            "title": "Forms and input tags in HTML",
+            "start": 876.96,
+            "end": 878.96,
+            "text": " Thanks for watching."
+        }
+    ],
+    "text": " What are the forms in this video and what is the input tag in the form?  It is a very important element of the form because through the form you submit the data from client to server.  These are the forms which you see on Google Forms and enquiry forms.  On the flight or railway ticket, you can submit all the details and HTML forms.  In the last video, I would like to request you to press the like button.  So that you can maintain the high energy throughout the course.  So let's go to the computer screen and see about the forms and the best practices.  Let's roll the intro.  So guys, I am at my computer screen.  So I am going to make a folder which I am going to use in my video 6.  I will write a video and open it with code.  I have already told you all this.  And you can also make the index.html.  And in this, I will add an exclamation mark.  I will wrap the view and the screen mode.  And I will take a look at the forms.  Let's learn it.  So I have set the title here for the forms.  What is the title of the work?  I will show you the title on the page.  I want to tell you about a very important setting.  It is a show preview.  People have also told me that you have to click so many times.  So you can do something.  Yes, you can click on the gear.  You can click on the settings.  And after clicking on the settings, you can simply click on the live preview.  And we can actually set it.  And when we click, what is the external browser?  I will do something like this.  I will click on the external browser.  And I will come to the browser.  And the signal web development code playlist.  I will definitely click on the star.  And on the bookmark.  But now I want to tell you that we will click here.  You can see it has been opened.  So if you want to do this, do it like this.  But what happens?  You want to do side by side view.  And when you want to do that,  You are working on design.  So whenever you are working on design,  You will definitely want you to see the live preview.  Here, which is why this extension was made.  And this live service was different.  That's why you can see the preview on the side.  Now what will we do here?  Let's go about the forms.  What is the form?  You don't know the name of the form.  It means it is a real form.  We increase it.  It becomes our reservation.  We increase the form of ITJ.  We increase the form of need.  So that our data can reach the form.  Until we want it.  So this is the form.  It is a stable form tag.  Like you will write the form.  You will enter.  This way you will ask the first question.  What is the action of your form?  Get your post.  Get requests are post requests.  I will tell you a very quick difference.  I will tell you.  I will show you something.  When we will read the backend.  Get requests are very simple requests.  And post requests are sent.  In most of the cases,  When we don't have a lot of data.  As soon as our form is posted.  We will use post requests in most of the cases.  And what is the get request?  It is very simple request.  We have to tell the server.  And that's it.  Then we have to hit the server.  That's it.  But if you don't understand anything now.  That should be fine.  It is not visible.  We will talk about it in detail.  So the form action is equal to post.  Now I can show you some input tags.  What are the input tags?  What are the elements in your form?  Like you can add date,  You can add form within,  You can tell the name,  You can tell the phone number,  You can tell the age,  You should add something in it in form.  So I want to show you  That if your input tags are put in the form.  And you will add a label tag that is used to label the input.  So what I will show you.  The simplest input tags are types equal to text.  I will put the text in here  and you can see here  if you zoom out  you can see the text in here  and the user name in here  and you can see here  you can enter the user name  and you can enter the user name  and you can enter the user name  I will write here  I will write here  Malo Form 2  Apply  for Sigma Web Dev  Sigma Web Dev  Development  T.A.  I am doing teaching assistants  for Sigma Web Dev  so we can write here  By the way, I have put all the titles  if you don't have playlist access  and with that, I will show you  there are a lot of subtitles  I will show you in the description  and I will write down the number  and I will write down the number  and I will write down the number  and I will give you a little bit of knowledge  and I will show you  what you are doing  as we have placed them here  you are entering the user name  and we will talk about the input tag  so we are going to use the label tag  now we will write the label for the form  Malo I will write the name  user name  and what I am going to do  I will put in the form  and I will write the ID  and I will tell you  what should be the unique identity of this element  You will not be able to identify the element as you can't find the same ID user  I will tell you in detail about this  I have written a label for this user  You can see that the label will be here  I am not adding anything in the label  So I will enter the user name  You can see that I have added this  You can see the user name  You can identify this user name  You can enter the user name  You can enter the label  I have added this in the quiz  I will turn on the connection  You have created the address  You can enter your gender  What is the name?  I will to name this name instead  What is the name?  It is an open crock  Did you see the date  Did you see the judgment in all of our blog elements?  Now I am adding a new space in DevMiddle.  It also has a BR tag.  But I don't prefer BR tag and you will get to know why we don't want to upload our HTML.  You will know in the coming videos.  Now you can see the user name, email, email, etc.  Now you can see the email is getting ready.  Why is it getting so low?  I have added ID and email to the power.  Now you can see the name is same.  So the name is equal to gender.  And name is equal to gender is p input radio tag.  And the type is equal to radio.  And if the name is same,  you can select only one at a time.  If I select this one, it will only be visible.  Now I will show you the ID in the label form.  And here in the form, I don't do it in the first one.  So when I click on the other one,  I don't select it.  I am not selecting it.  So to select the female, I have to click here.  So I want to do it.  For is equal to the input tag of the ID.  So you can see here, I have added the label for is equal to female.  And we have a input tag of the type is equal to checkbox.  If I add the type is equal to checkbox,  I will put it in the div.  I will do it in the format document.  The document will be very good.  The formatting will be very good.  Now you can see here, subscribe to newsletters.  I can check here.  And there is a difference between checkbox and checkbox.  You can check the checkbox.  If you want to see the female or female,  you can select it.  Now I have a text area and select tag.  And I will show you the text area.  So I have a text area and select tag.  I will copy the text area.  And I will show you the text area.  So the text area is equal to the type is equal to the text.  There is a rows and column attribute.  You can see the size of the text area.  Now you can see here, I have added the placeholder.  Enter your comment.  Enter your comment.  I have added the text area.  Ideally, we will keep it empty.  Or we will not give it a new line.  I will hide it here.  Enter your comment.  And now you can see the left side.  You can see the left side.  Enter your comment.  You can add any user or comment.  Now you can see the text area.  Enter your comment.  So you don't want to do this.  You want to keep the text area empty.  And you can add a label.  And you can add a label.  For this is equal to comment.  And we will definitely add the ID.  When we add the font, it is inside the font.  For this element, it has its ID.  Now look here.  Enter your comment.  So what will happen?  Enter your comment.  Enter your comment.  Enter your comment.  Enter your comment.  Now you can see here.  This is not the style.  This is not the style.  Because we will style it with CSS.  Now I will add just BRTAC.  But I don't recommend BRTAC.  I am telling you this.  I don't recommend BRTAC.  Because BRTAC is very thick.  By the way, you should know that BRTAC is a line-break tag.  It is a line-break tag.  Everything is fine.  Everything is fine.  What is the problem with BRTAC?  But I will tell you.  BRTAC is something that I don't recommend.  I don't recommend using it.  But I don't recommend using it all the time.  So what happens?  People usually use BRTAC and add new spaces.  I will post a lot of things.  I will copy it.  I will show you the select tag.  From this side.  And you can see that  I will add the select tag here.  I will add div in it.  So what happens in select?  You get options.  Selects the syntax.  It happens in the same way.  You can use it in Apple.  And in Cherry.  You can use it in any three.  Now you can see here.  There are three options.  And here I have done a value is equal to Apple.  First select tag.  Then name is equal to fruits.  Then option value is equal to Apple.  Option value is equal to option value is equal to Cherry.  When we will parse this form data.  Then I will tell you the JavaScript partner.  This way we have to send data to the server.  So about the form.  There are a lot of things that I am going to tell you.  So stay tuned for that.  This was about the elements of the form.  I had told you all the elements of the form in this video.  And with that,  I will tell you all the select tags.  About the form.  The other attributes.  I told you in action.  You can submit a page from action to a form.  Where will you handle the form?  You can give that data here.  Then the method is that getrequest or postrequest.  I will tell you in the next video.  But I have told you in a rough way.  That getrequest is very simple request.  Postrequest is used when there is a big amount of data.  Because it is the limit of getrequest.  You can send a lot of data in postrequest.  Okay.  In getrequest, we don't send passwords.  We send it with postrequest.  Okay.  Now I have told you the method.  What is in name?  Name is equal to user name.  We mark it with name.  If we mark it with name, we will know the server.  What is the corresponding value?  So what is the value of the server?  It will be the name and value of the server.  Okay.  So we will see when we will process server side.  What does placeholder mean?  What does placeholder mean?  What will be written in it?  As you can see here, the user name is placeholder.  I will click on it.  This is not written in the user name.  I will also write something.  But the user name is here.  I want to add user name.  Then what does required means?  You have to require it.  You have to add it.  You will have to add value.  Or you will have to submit it.  So we will use it a lot.  Then we have autofocus.  What is autofocus?  Autofocus is automatically focused.  I will show you the autofocus.  So if you write and put tag in the autofocus.  Okay.  So enter the user name in autofocus.  I will reload it.  I will type it automatically.  It will focus on autofocus.  Okay.  So autofocus is this.  You will also type it here.  Okay.  I hope you will understand this.  Now validation attribute is here.  I have told you in the required.  You can give the pattern.  You can give regular expression pattern.  You can give it to people.  Don't you worry.  What are you saying?  You don't have the expression.  I am not here.  That's why I am here.  You will learn all the things.  You will understand that we will accept a particular pattern.  If the pattern is equal to this.  You can't put the pattern.  Okay.  You should know these things here.  So I hope you are enjoying this video.  And with that, I would like to give a comment section.  Let me know in the comment section.  And before the video.  Please review this course.  Many people ask me.  I should not do this course.  People don't value it.  This course is free.  We will watch it.  There is a paid course.  And I would also like to give a note to those people.  They told me that we have paid the course.  What should they do?  They will pay the money.  Or we will join the sigma batch.  And you will join the sigma batch.  Cut your losses and join the sigma batch.  Look, what is the quality of this course?  I don't think you need to tell me.  So you guys, do this.  All of you will meet here.  I am telling you.  This is what I mean.  This is what I was going to sell in the course.  This was the start of the month.  Because we fixed it.  I was going to sell it for Rs. 10,000.  And I think there is nothing wrong in selling any course.  If there is nothing wrong in selling any course.  But the thing is that if you have some other course.  And you feel that the sigma batch is very big.  So you should join.  Cut your losses and join.  Because if you make your career in the future.  You guys will not be able to do anything.  If you guys come back in time.  Then you guys will also say.  Yes, we got a paid course.  Then we got a pre course.  And you guys have become a career.  And then you will not be able to do anything in the future.  So do what is right for you.  And you guys will understand the way you think.  And you guys will understand the way you think.  So like the video.  And access the playlist.  And subscribe to the channel.  And in the comment section,  The sigma batch OP is written.  And both of you will call my name.  Thank you guys for watching this video.  And I will see you next time.  Thanks for watching."
+}

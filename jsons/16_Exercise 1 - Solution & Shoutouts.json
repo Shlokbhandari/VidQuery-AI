@@ -1,0 +1,264 @@
+{
+    "chunks": [
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 0.0,
+            "end": 18.38,
+            "text": " Guys, in video number 12, I gave you an exercise and I told you all to post your solution  In today's video, I will tell you guys to solve the exercise  And the people who have solved the exercise, I am going to give them everything  Let's go to the computer screen  I am really, very excited to see your solutions"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 18.38,
+            "end": 38.38,
+            "text": " Let's roll the intro  So guys, I am going to do the first thing that I am going to do in my computer screen  First of all, I am going to make a folder called video 16  So I am going to make a video 16  And then I am going to make a video 16"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 38.38,
+            "end": 54.88,
+            "text": " And then I am going to make a boilerplate template  Today, we are going to do a little special work  Because today we are going to get all the shout-out  And first of all, if you don't have access to the playlist, then you must have access  Now I am going to open this video"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 54.88,
+            "end": 69.88,
+            "text": " So I have opened this video where I had made an exercise  And this exercise was about a pure HTML media player  So I had told you to make a media player  And here I am going to sort-by the news first  And I am going to come down"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 69.88,
+            "end": 80.88,
+            "text": " And after coming down  I will tell you what I am going to do  That all the people who have solved this will shout out to them  I have scrolled all the time  I have scrolled all the time"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 80.88,
+            "end": 90.88,
+            "text": " I will shout out to them all  But before that, I want to solve them  So you can see here  1.MP3, 1.MP4, 2.MP3  All the middle 5.MP3"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 90.88,
+            "end": 99.88,
+            "text": " So what I am going to do first is  I am going to put an H1  My videos for the day  Okay, I am going to write here H1  And I am going to write here"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 99.88,
+            "end": 111.88,
+            "text": " Some audios for the day  Okay, my videos  And audios for the day  I am going to do here  I am going to toggle screen cast mode"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 111.88,
+            "end": 123.88,
+            "text": " Because I am going to show it easily  And here are some videos  So I wrote an H1  And here I wrote an H2  And here I am going to write down a dev"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 123.88,
+            "end": 133.88,
+            "text": " Videos  So I am going to write here  And after that I am going to write controls  So I am going to write this 1.MP4  I am going to watch this"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 133.88,
+            "end": 143.88,
+            "text": " I am going to do assembly  I have shifted all the down arrow  And I am going to write 2  Then I am going to write 3  Then I am going to write 4"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 143.88,
+            "end": 153.88,
+            "text": " And then I am going to write 5  And I will do the same thing for audios  And here I am going to write audios  And here I am going to write 1.MP3  And then I am going to write controls"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 153.88,
+            "end": 165.88,
+            "text": " Okay, and after that I am going to do the same thing  And I am going to duplicate this 5 times  And now I am going to do 4 times  And now I am going to do 5 times  And obviously I am going to preview this"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 165.88,
+            "end": 175.88,
+            "text": " And try to show it to you  Now here is a problem  And the problem is that  This is a completely different width  And this is going to be a problem"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 175.88,
+            "end": 185.88,
+            "text": " Maybe because I am zoomed in  Okay, so this is not a problem  And now we are going to reset this  But for now I think we are good  We are going to see in CSS"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 185.88,
+            "end": 195.88,
+            "text": " How to resize this  But I think our videos are here  And some audios are also here  And some audios are also here  So you can see the audios"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 195.88,
+            "end": 205.88,
+            "text": " And  And  If you guys have a song  Then you will have a song  I have not written a song"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 205.88,
+            "end": 215.88,
+            "text": " And here you can see  You can see my videos  And this video  I am going to write this  And I am going to write this"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 215.88,
+            "end": 225.88,
+            "text": " This is my personal favorite  Chaburna  You guys have put your favorite videos  You have put your favorite videos  But that was pretty much about it"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 225.88,
+            "end": 235.88,
+            "text": " Many people are saying  This is very easy, this exercise is so simple  I will raise the bar like anything  Remember remember remember remember remember  Now we are going to shout out"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 235.88,
+            "end": 245.88,
+            "text": " Somia 172 shout out  Code with Rohit Koshautot  They have accepted this challenge  Here multi-atmos, they see ready  Harsh Guleriya"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 245.88,
+            "end": 255.88,
+            "text": " Then Helstar Kun  Then Team Rewa  Kulsum Sakivver  Then Bobby 01th  Koshautot Mohan"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 255.88,
+            "end": 265.88,
+            "text": " 2-492 Koshautot  Prakash Koshautot  Arnaf Koshautot  Jilan Koshautot  Hachar Koshautot"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 265.88,
+            "end": 275.88,
+            "text": " Nikhil El Koshautot  Ashutosh Koshautot  And now I will just shout out  Even replies will be seen  Who has solved it?"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 275.88,
+            "end": 285.88,
+            "text": " Who has not solved it yet?  Who has not solved it yet?  Who has not solved it yet?  No, no  Not now"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 285.88,
+            "end": 295.88,
+            "text": " Okay so Code Anderson  You guys have to share  You have to do the same thing  You have to use the table  And the thing is"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 295.88,
+            "end": 305.72,
+            "text": " The table is used for the ideal  It is a way to do the work  But I think we are good  Once again  They have shown the videos"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 305.72,
+            "end": 315.72,
+            "text": " They have hidden the weight  Which is a great thing  I will also do the same thing  In the video  In fact, what I will do"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 315.72,
+            "end": 325.72,
+            "text": " I will write  The weight is equal to  239  Let's see how it changes  Wow, it is looking actually better"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 325.72,
+            "end": 335.72,
+            "text": " This idea is not in my mind  When I was solving it  And now  After this, who has solved the next question  SAF 0981"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 335.72,
+            "end": 345.72,
+            "text": " They have also solved it  Very beautiful  SAF has solved it  Very good  Then I have given a very big shout out"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 345.72,
+            "end": 355.72,
+            "text": " And Jeel Maheshwadi  I want to say  You guys have not solved it yet  And this was not actually the participation  I was looking for"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 355.72,
+            "end": 365.72,
+            "text": " I wanted to solve everything  I wanted to cure the rest of the problems  But did not care  So you are welcome  What you can do"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 365.72,
+            "end": 375.72,
+            "text": " Listen to me  They have solved it  And other than that  And if I am solving it  They have solved many issues"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 375.72,
+            "end": 385.72,
+            "text": " And if you are there  Call me  Call me  Call me  Call me"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 385.72,
+            "end": 404.7,
+            "text": " And I will also close the details with the answer  I hope you will enjoy this course and see all the source codes and playlists that you will need to access.  It is very populated by playlists.  There were two videos in the past.  But now it has failed."
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 404.7,
+            "end": 416.7,
+            "text": " And you guys should stay away from it.  If you haven't access the source code, you should access it.  Thank you so much for watching this video.  And I will see you next time."
+        }
+    ],
+    "text": " Guys, in video number 12, I gave you an exercise and I told you all to post your solution  In today's video, I will tell you guys to solve the exercise  And the people who have solved the exercise, I am going to give them everything  Let's go to the computer screen  I am really, very excited to see your solutions  Let's roll the intro  So guys, I am going to do the first thing that I am going to do in my computer screen  First of all, I am going to make a folder called video 16  So I am going to make a video 16  And then I am going to make a video 16  And then I am going to make a boilerplate template  Today, we are going to do a little special work  Because today we are going to get all the shout-out  And first of all, if you don't have access to the playlist, then you must have access  Now I am going to open this video  So I have opened this video where I had made an exercise  And this exercise was about a pure HTML media player  So I had told you to make a media player  And here I am going to sort-by the news first  And I am going to come down  And after coming down  I will tell you what I am going to do  That all the people who have solved this will shout out to them  I have scrolled all the time  I have scrolled all the time  I will shout out to them all  But before that, I want to solve them  So you can see here  1.MP3, 1.MP4, 2.MP3  All the middle 5.MP3  So what I am going to do first is  I am going to put an H1  My videos for the day  Okay, I am going to write here H1  And I am going to write here  Some audios for the day  Okay, my videos  And audios for the day  I am going to do here  I am going to toggle screen cast mode  Because I am going to show it easily  And here are some videos  So I wrote an H1  And here I wrote an H2  And here I am going to write down a dev  Videos  So I am going to write here  And after that I am going to write controls  So I am going to write this 1.MP4  I am going to watch this  I am going to do assembly  I have shifted all the down arrow  And I am going to write 2  Then I am going to write 3  Then I am going to write 4  And then I am going to write 5  And I will do the same thing for audios  And here I am going to write audios  And here I am going to write 1.MP3  And then I am going to write controls  Okay, and after that I am going to do the same thing  And I am going to duplicate this 5 times  And now I am going to do 4 times  And now I am going to do 5 times  And obviously I am going to preview this  And try to show it to you  Now here is a problem  And the problem is that  This is a completely different width  And this is going to be a problem  Maybe because I am zoomed in  Okay, so this is not a problem  And now we are going to reset this  But for now I think we are good  We are going to see in CSS  How to resize this  But I think our videos are here  And some audios are also here  And some audios are also here  So you can see the audios  And  And  If you guys have a song  Then you will have a song  I have not written a song  And here you can see  You can see my videos  And this video  I am going to write this  And I am going to write this  This is my personal favorite  Chaburna  You guys have put your favorite videos  You have put your favorite videos  But that was pretty much about it  Many people are saying  This is very easy, this exercise is so simple  I will raise the bar like anything  Remember remember remember remember remember  Now we are going to shout out  Somia 172 shout out  Code with Rohit Koshautot  They have accepted this challenge  Here multi-atmos, they see ready  Harsh Guleriya  Then Helstar Kun  Then Team Rewa  Kulsum Sakivver  Then Bobby 01th  Koshautot Mohan  2-492 Koshautot  Prakash Koshautot  Arnaf Koshautot  Jilan Koshautot  Hachar Koshautot  Nikhil El Koshautot  Ashutosh Koshautot  And now I will just shout out  Even replies will be seen  Who has solved it?  Who has not solved it yet?  Who has not solved it yet?  Who has not solved it yet?  No, no  Not now  Okay so Code Anderson  You guys have to share  You have to do the same thing  You have to use the table  And the thing is  The table is used for the ideal  It is a way to do the work  But I think we are good  Once again  They have shown the videos  They have hidden the weight  Which is a great thing  I will also do the same thing  In the video  In fact, what I will do  I will write  The weight is equal to  239  Let's see how it changes  Wow, it is looking actually better  This idea is not in my mind  When I was solving it  And now  After this, who has solved the next question  SAF 0981  They have also solved it  Very beautiful  SAF has solved it  Very good  Then I have given a very big shout out  And Jeel Maheshwadi  I want to say  You guys have not solved it yet  And this was not actually the participation  I was looking for  I wanted to solve everything  I wanted to cure the rest of the problems  But did not care  So you are welcome  What you can do  Listen to me  They have solved it  And other than that  And if I am solving it  They have solved many issues  And if you are there  Call me  Call me  Call me  Call me  And I will also close the details with the answer  I hope you will enjoy this course and see all the source codes and playlists that you will need to access.  It is very populated by playlists.  There were two videos in the past.  But now it has failed.  And you guys should stay away from it.  If you haven't access the source code, you should access it.  Thank you so much for watching this video.  And I will see you next time."
+}
