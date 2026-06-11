@@ -39,20 +39,19 @@ def inference(prompt):
         })
         return r.json()["response"]
 
-df = joblib.load("embeddings.joblib")
-input_query = input("Ask a question: ")
-question_embedding = create_embedding([input_query])[0]
+if __name__ == "__main__":
+    df = joblib.load("embeddings.joblib")
+    input_query = input("Ask a question: ")
+    question_embedding = create_embedding([input_query])[0]
 
-# Find similarities between question_embedding and input_query
-# print(np.vstack(df["embedding"].values)) #Converting Embeggings values into 2d numpy array
-# print(np.vstack(df["embedding"]).shape) #Cosine similarity funtion onyl takes 2d array as input 
-similarities = cosine_similarity(np.vstack(df["embedding"]), [question_embedding]).flatten()
+    # Find similarities between question_embedding and input_query
+    similarities = cosine_similarity(np.vstack(df["embedding"]), [question_embedding]).flatten()
 
-top_results = 3
-max_indx = similarities.argsort()[::-1][0:top_results]
-new_df = df.loc[max_indx]
+    top_results = 3
+    max_indx = similarities.argsort()[::-1][0:top_results]
+    new_df = df.loc[max_indx]
 
-prompt = f"""
+    prompt = f"""
 You are an AI assistant that answers questions based on the provided video content.
 
 Context:
@@ -82,7 +81,7 @@ Do NOT:
 Give a clean, human-like answer.
 """
 
-response = inference(prompt)
-print(response)
-with open ("response.txt", "w") as f:
-    f.write(response)
+    response = inference(prompt)
+    print(response)
+    with open ("response.txt", "w") as f:
+        f.write(response)
