@@ -32,7 +32,7 @@ for audio in tqdm(audios):
                 "text": segment.text
             })
 
-        full_text = " ".join([seg.text for seg in segments])
+        full_text = " ".join([c["text"] for c in chunks])
         chunks_with_metadata = {"chunks": chunks, "text": full_text}
 
         name = os.path.splitext(audio)[0]
