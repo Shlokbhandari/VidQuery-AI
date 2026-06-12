@@ -49,7 +49,7 @@ if __name__ == "__main__":
 
     top_results = 3
     max_indx = similarities.argsort()[::-1][0:top_results]
-    new_df = df.loc[max_indx]
+    new_df = df.iloc[max_indx]
 
     prompt = f"""
 You are an AI assistant that answers questions based on the provided video content.
