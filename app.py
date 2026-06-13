@@ -6,7 +6,7 @@ import pandas as pd
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 from process_incoming import create_embedding, inference
-import re
+import json
 
 # --- 1. Page Configuration & Custom CSS ---
 st.set_page_config(
@@ -98,36 +98,6 @@ os.makedirs("jsons", exist_ok=True)
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
-def extract_video_number(filename):
-    filename_lower = filename.lower()
-    
-    # 1. Match # followed by digits (e.g. #18)
-    match = re.search(r'#(\d+)', filename)
-    if match:
-        return match.group(1)
-        
-    # 2. Match lec-6, lec 6, lec6, lecture 6
-    match = re.search(r'lec(?:ture)?[- \s]*(\d+)', filename_lower)
-    if match:
-        return match.group(1)
-        
-    # 3. Match tutorial #18 or tutorial 18 or tut 18
-    match = re.search(r'tut(?:orial)?[- \s#]*(\d+)', filename_lower)
-    if match:
-        return match.group(1)
-        
-    # 4. Match starts with digits followed by _ or -
-    match = re.match(r'^(\d+)[_-]', filename)
-    if match:
-        return match.group(1)
-        
-    # 5. Fallback: match any digits in the filename
-    match = re.search(r'\b(\d+)\b', filename)
-    if match:
-        return match.group(1)
-        
-    return "unknown"
-
 def get_db_mtime():
     if os.path.exists("embeddings.joblib"):
         return os.path.getmtime("embeddings.joblib")
@@ -201,7 +171,6 @@ with st.sidebar:
                 st.session_state.df = joblib.load("embeddings.joblib")
                 st.session_state.df_mtime = os.path.getmtime("embeddings.joblib")
                 status_box.success("✅ Indexing successfully completed!")
-                st.balloons()
             except Exception as e:
                 status_box.error(f"Pipeline failed: {e}")
                 
@@ -212,15 +181,19 @@ with st.sidebar:
     video_files = [f for f in os.listdir("videos") if f.endswith((".mp4", ".mov", ".avi", ".mkv"))]
     
     # Sort files by their tutorial number if possible
+    import re
     def get_tutorial_num(filename):
-        num = extract_video_number(filename)
-        return int(num) if num != "unknown" else 999
+        match = re.search(r'#(\d+)', filename)
+        return int(match.group(1)) if match else 999
     video_files.sort(key=get_tutorial_num)
 
     def format_video_name(filename):
-        tutorial_number = extract_video_number(filename)
-        if tutorial_number == "unknown":
-            tutorial_number = "?"
+        num_match = re.search(r'#(\d+)', filename)
+        if num_match:
+            tutorial_number = num_match.group(1)
+        else:
+            starts_with_num = re.match(r'^(\d+)[_-]', filename)
+            tutorial_number = starts_with_num.group(1) if starts_with_num else "?"
             
         if " | " in filename:
             clean_name = filename.split(" | ")[0].strip()
@@ -262,6 +235,16 @@ if query := st.chat_input("Ask a question about the video content..."):
             response_container = st.empty()
             with st.spinner("Searching video context & generating answer..."):
                 try:
+                    # Double-check database sync right before RAG query to avoid any OS/Streamlit state sync lag
+                    current_db_mtime = get_db_mtime()
+                    if st.session_state.get("df_mtime", 0) < current_db_mtime:
+                        if os.path.exists("embeddings.joblib"):
+                            try:
+                                st.session_state.df = joblib.load("embeddings.joblib")
+                                st.session_state.df_mtime = current_db_mtime
+                            except Exception as le:
+                                print("Error in dynamic safety reload:", le)
+                                
                     df = st.session_state.df
                     
                     # 1. Embed query
@@ -271,16 +254,32 @@ if query := st.chat_input("Ask a question about the video content..."):
                     similarities = cosine_similarity(np.vstack(df["embedding"]), [question_embedding]).flatten()
                     
                     # 3. Fetch top results (Context)
-                    top_results = 3
+                    top_results = 8
                     max_indx = similarities.argsort()[::-1][0:top_results]
                     new_df = df.iloc[max_indx]
                     
                     # 4. Formulate Prompt
+                    context_list = []
+                    for _, row in new_df.iterrows():
+                        def format_time(seconds):
+                            m = int(seconds // 60)
+                            s = int(seconds % 60)
+                            return f"{m:02d}:{s:02d}"
+                        
+                        context_list.append({
+                            "title": row["title"],
+                            "number": row["number"],
+                            "start": format_time(row["start"]),
+                            "end": format_time(row["end"]),
+                            "text": row["text"]
+                        })
+                    context_json = json.dumps(context_list, indent=2)
+                    
                     prompt = f"""
 You are an AI assistant that answers questions based on the provided video content.
 
 Context:
-{new_df[["title", "number", "start", "end", "text"]].to_json(orient="records")}
+{context_json}
 
 ------------------------------------------------
 
@@ -291,10 +290,7 @@ Instructions:
 - Answer clearly and naturally (like a teacher explaining).
 - Mention relevant video number(s) and timestamps.
 - Use 2–4 most relevant timestamps (avoid too many).
-- Convert timestamps to mm:ss format.
 - Keep explanation helpful and easy to understand.
--Do not give invalid timestamps it should be correct the seconds should not excedd 60. If it exceedes you should add 1 minute to minutes and deduct 60 from the seconds 
--Do not write in the answer such things (579.24 seconds converted to mm:ss format is 9:51)
 
 - If the question is unrelated, say:
   "This question is not related to the available video content."
@@ -307,7 +303,8 @@ Give a clean, human-like answer.
 """
                     
                     # 5. Fetch LLM response
-                    response = inference(prompt)
+                    response, provider = inference(prompt)
+                    
                     response_container.markdown(response)
                     
                     # Store response in chat history
