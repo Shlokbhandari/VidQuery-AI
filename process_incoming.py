@@ -27,7 +27,7 @@ def inference(prompt):
             messages=[{"role": "user", "content": prompt}],
             model="llama-3.3-70b-versatile",
         )
-        return chat_completion.choices[0].message.content
+        return chat_completion.choices[0].message.content, "Groq"
 
     # If Groq fails, fall back to Ollama
     except Exception as e:
@@ -37,7 +37,7 @@ def inference(prompt):
             "prompt": prompt,
             "stream": False
         })
-        return r.json()["response"]
+        return r.json()["response"], "Ollama"
 
 if __name__ == "__main__":
     df = joblib.load("embeddings.joblib")
@@ -47,15 +47,31 @@ if __name__ == "__main__":
     # Find similarities between question_embedding and input_query
     similarities = cosine_similarity(np.vstack(df["embedding"]), [question_embedding]).flatten()
 
-    top_results = 3
+    top_results = 8
     max_indx = similarities.argsort()[::-1][0:top_results]
     new_df = df.iloc[max_indx]
 
+    context_list = []
+    for _, row in new_df.iterrows():
+        def format_time(seconds):
+            m = int(seconds // 60)
+            s = int(seconds % 60)
+            return f"{m:02d}:{s:02d}"
+        
+        context_list.append({
+            "title": row["title"],
+            "number": row["number"],
+            "start": format_time(row["start"]),
+            "end": format_time(row["end"]),
+            "text": row["text"]
+        })
+    context_json = json.dumps(context_list, indent=2)
+    
     prompt = f"""
 You are an AI assistant that answers questions based on the provided video content.
 
 Context:
-{new_df[["title", "number", "start", "end", "text"]].to_json(orient="records")}
+{context_json}
 
 ------------------------------------------------
 
@@ -66,10 +82,7 @@ Instructions:
 - Answer clearly and naturally (like a teacher explaining).
 - Mention relevant video number(s) and timestamps.
 - Use 2–4 most relevant timestamps (avoid too many).
-- Convert timestamps to mm:ss format.
 - Keep explanation helpful and easy to understand.
--Do not give invalid timestamps it should be correct the seconds should not excedd 60. If it exceedes you should add 1 minute to minutes and deduct 60 from the seconds 
--Do not write in the answer such things (579.24 seconds converted to mm:ss format is 9:51)
 
 - If the question is unrelated, say:
   "This question is not related to the available video content."
@@ -81,7 +94,7 @@ Do NOT:
 Give a clean, human-like answer.
 """
 
-    response = inference(prompt)
-    print(response)
+    response, provider = inference(prompt)
+    print(f"[{provider}] {response}")
     with open ("response.txt", "w") as f:
         f.write(response)
