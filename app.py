@@ -7,6 +7,7 @@ import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 from process_incoming import create_embedding, inference
 import json
+import re
 
 # --- 1. Page Configuration & Custom CSS ---
 st.set_page_config(
@@ -103,6 +104,48 @@ def get_db_mtime():
         return os.path.getmtime("embeddings.joblib")
     return 0
 
+def delete_video_data(video_file):
+    num_match = re.search(r'#(\d+)', video_file)
+    if num_match:
+        tutorial_number = num_match.group(1)
+    else:
+        starts_with_num = re.match(r'^(\d+)[_-]', video_file)
+        tutorial_number = starts_with_num.group(1) if starts_with_num else "unknown"
+
+    if " | " in video_file:
+        file_name = video_file.split(" | ")[0].strip()
+    else:
+        file_name = os.path.splitext(video_file)[0].strip()
+
+    video_path = os.path.join("videos", video_file)
+    audio_path = os.path.join("Audios", f"{tutorial_number}_{file_name}.mp3")
+    json_path = os.path.join("jsons", f"{tutorial_number}_{file_name}.json")
+
+    for path in [video_path, audio_path, json_path]:
+        if os.path.exists(path):
+            try:
+                os.remove(path)
+            except Exception as e:
+                print(f"Failed to remove {path}: {e}")
+
+    if os.path.exists("embeddings.joblib"):
+        try:
+            df = joblib.load("embeddings.joblib")
+            df_filtered = df[(df["number"] != str(tutorial_number)) | (df["title"] != file_name)]
+            
+            if len(df_filtered) > 0:
+                df_filtered = df_filtered.copy()
+                df_filtered["chunk_id"] = range(len(df_filtered))
+                joblib.dump(df_filtered, "embeddings.joblib")
+                st.session_state.df = df_filtered
+                st.session_state.df_mtime = os.path.getmtime("embeddings.joblib")
+            else:
+                os.remove("embeddings.joblib")
+                st.session_state.df = None
+                st.session_state.df_mtime = 0
+        except Exception as e:
+            print(f"Error updating database during deletion: {e}")
+
 db_mtime = get_db_mtime()
 
 # Load/check embedding database dynamically
@@ -181,7 +224,6 @@ with st.sidebar:
     video_files = [f for f in os.listdir("videos") if f.endswith((".mp4", ".mov", ".avi", ".mkv"))]
     
     # Sort files by their tutorial number if possible
-    import re
     def get_tutorial_num(filename):
         match = re.search(r'#(\d+)', filename)
         return int(match.group(1)) if match else 999
@@ -206,12 +248,20 @@ with st.sidebar:
         selected_video = st.selectbox("Select a video to play", video_files, format_func=format_video_name)
         if selected_video:
             st.video(os.path.join("videos", selected_video))
+            
+            with st.expander("⚠️ Danger Zone"):
+                st.warning(f"Are you sure you want to delete **{selected_video}**? This will permanently remove the video, audio, transcripts, and database embeddings.")
+                if st.button("🗑️ Delete Video", type="primary", use_container_width=True):
+                    with st.spinner("Deleting video and cleaning database..."):
+                        delete_video_data(selected_video)
+                        st.toast("Video deleted successfully!", icon="✅")
+                        st.rerun()
     else:
         st.info("No videos processed yet. Drag a video file above!")
 
 # --- 4. Main Chat Interface ---
 st.markdown('<div class="title-text">🎧 VidQuery AI</div>', unsafe_allow_html=True)
-st.markdown('<div class="subtitle-text">Interactive RAG chatbot powered by Faster-Whisper, FAISS, and Groq LLM</div>', unsafe_allow_html=True)
+st.markdown('<div class="subtitle-text">Interactive RAG chatbot powered by Faster-Whisper, Scikit-Learn, and Groq LLM</div>', unsafe_allow_html=True)
 
 # Display chat history
 for message in st.session_state.messages:
